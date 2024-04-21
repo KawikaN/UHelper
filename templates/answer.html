@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<html>
+    <head>
+        <title id = "DEFINITION">{{word}}</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale =0, user-scalable=no">
+
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='answer.css') }}">
+        <script src="{{ url_for('static', filename='answer.js') }}"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    </head>
+
+    <body>
+        <h1>{{word}}</h1>
+        <script src="{{ url_for('static', filename='answer.js') }}"></script>
+
+        <hr>
+
+        <div class="highlight">Highlight any text for a further definition</div>
+        
+
+
+        <!-- <script>
+            function getSelectedText() {
+                var selectedText = '';
+                if (window.getSelection) {
+                    selectedText = window.getSelection();
+                }
+            }
+            document.addEventListener("mousedown", getSelectedText);
+        </script> -->
+        <p>{{selectedText}}</p>
+
+
+
+
+
+
+        <p>{{definitions}}</p>
+        
+    </body>
+</html>

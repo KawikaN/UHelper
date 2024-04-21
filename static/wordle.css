@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    /* width: 100vw; */
+    /* height: 100vh; */
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    overflow-x: hidden; /* stops user from being able to scroll horizontally and also hides sliding bar */
+}
+
+
+
+/* div { /* pretty useless as of rn because we dont implament a div tag */
+    /* width: 100vw;
+    height: 100vh;
+    
+}  */
+/* font-family: Arial, Helvetica, sans-serif;
+    text-align: center; */
+hr {
+
+    /*width: -10px 100%; /* sets the width of the line on the screen to 100% of the width of the screen */
+    height: 30px;
+    background-color: black; /* bar color */
+    margin: 0;
+    
+}
+
+#title { /* Worlde */
+    
+    font-size: 400%; /* Note that pt and px are dfferent units */
+    font-weight: bold;
+    letter-spacing: 25px; /* Spacing between letters */
+
+}
+
+#board { /* board we will play on */
+
+    width: 80%; /* creates the x axis of our board (the tiles will fill as much as it can within this board) */
+    height: 50%; /* creates the y axis for our board */
+    /*background-color: green; */
+    margin: auto; /* centers the board */
+    margin-top: 0; /* how far away from the top */
+    display: flex; /* puts the boxes ina  square instead of a colum */
+    flex-wrap: wrap;
+
+}
+
+.tile {
+    /* Box */
+    border: 2px solid lightgray;
+    width: 18%; /* 18% */
+    height: 60px;/* 60px */
+    margin: 2px;/* 2.5px */ /*area between each tile*/
+
+    /* Text */
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center; /* centers the letters in each box to the middle horizontally*/
+    align-items: center; /* centers the letters in each box to the middle vertically */
+}
+
+.correct { /* Correct tiles */
+    background-color: #6AAA64;
+    color: white;
+    border-color: white; /* hides border without removing - if we remove it will change size of tiles - sets color to same as background*/
+
+}
+
+.present { /* In word */
+    background-color: #C9B458;
+    color: white;
+    border-color: white;
+}
+
+.absent { /* Not in */
+    background-color: #787C7E;
+    color: white;
+    border-color: white;
+}
+
+.keyboard-row {
+    width: 400px; /* 400px */
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+
+
+.key-tile {
+    width: 70px; /* 60px */
+    height: 45px; /* 45px */
+    margin: 2px;
+    border: 2px solid lightgray;
+
+    /* Text */
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.enter-key-tile {
+    width: 76px;
+    height: 40px;
+    margin: 1px;
+    border: 1px solid lightgray;
+
+    /* Text */
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
