@@ -6,6 +6,7 @@ import re
 from flask import Flask, jsonify, Blueprint, request, redirect, url_for, render_template, session, json
 import os
 import random
+import mechanicalsoup
 #import bsObj
 
 
@@ -29,8 +30,23 @@ def word():
 @app.route('/')
 
 def home():
-   words = word()
-   session['word'] = words #passing the random answer generated between routes
+   browser = mechanicalsoup.StatefulBrowser(
+      soup_config={'features': 'lxml'},
+      raise_on_404=True,
+      user_agent='MyBot/0.1: mysite.example.com/bot_info',
+   )
+   find = ""
+   browser.select(class_name="HomepageHero__HeroToggle-rvkinu-3 eOMiLm").text = find
+
+   school = "University of Hawaii at Manoa"
+   browser.open("https://www.ratemyprofessors.com/")
+   browser.follow_link("University of Hawaii at Manoa")
+   browser.select_form("Search__DebouncedSearchInput-sc-10lefvq-1 fwqnjW")
+   browser["University of Hawaii at Manoa"] = school
+   resp = browser.submit_selected()
+
+   browser.launch_browser()
+   
    return render_template('wordle.html', word=words)
 
 
