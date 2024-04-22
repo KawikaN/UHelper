@@ -29,8 +29,23 @@ def word():
 @app.route('/')
 
 def home():
-   words = word()
-   session['word'] = words #passing the random answer generated between routes
+   browser = mechanicalsoup.StatefulBrowser(
+      soup_config={'features': 'lxml'},
+      raise_on_404=True,
+      user_agent='MyBot/0.1: mysite.example.com/bot_info',
+   )
+   find = "I'd like to look up a professor by name"
+   .find('class="HomepageHero__HeroToggle-rvkinu-3 eOMiLm"').text = find
+
+   browser.open("https://authn.hawaii.edu/cas/login?service=https%3A%2F%2Flaulima.hawaii.edu%2Fsakai-login-tool%2Fcontainer&renew=true")
+   browser.follow_link("login")
+   browser.select_form('#login form')
+   browser["login"] = username
+   browser["password"] = password
+   resp = browser.submit_selected()
+
+   browser.launch_browser()
+   
    return render_template('wordle.html', word=words)
 
 
