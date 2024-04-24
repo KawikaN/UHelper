@@ -6,7 +6,7 @@ import re
 from flask import Flask, jsonify, Blueprint, request, redirect, url_for, render_template, session, json
 import os
 import random
-import mechanicalsoup
+import mechanicalsoup 
 #import bsObj
 
 
@@ -40,7 +40,7 @@ def home():
 
    school = "University of Hawaii at Manoa"
    browser.open("https://www.ratemyprofessors.com/")
-   browser.follow_link("University of Hawaii at Manoa")
+   browser.follow_link(school)
    browser.select_form("Search__DebouncedSearchInput-sc-10lefvq-1 fwqnjW")
    browser["University of Hawaii at Manoa"] = school
    resp = browser.submit_selected()
