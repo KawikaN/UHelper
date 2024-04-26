@@ -6,7 +6,8 @@ import re
 from flask import Flask, jsonify, Blueprint, request, redirect, url_for, render_template, session, json
 import os
 import random
-import mechanicalsoup 
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 import time
 #import bsObj
 
@@ -18,44 +19,44 @@ path_static = os.path.join(path_cwd,"static")
 app = Flask(__name__)
 app.secret_key = 'Eo'
 
-"""
-def word():
-   wordList = ["aliʻi", 'akula', 'lākou', 'ʻāina', 'ihola', 'maila', 'ʻoiai', 'aʻela', 'hōʻea', 'laila', 'kākou', 'haole', 'maoli', 'waena', 'loaʻa', 'aloha', 'oʻahu', 'ʻōpio', 'keiki', 'ʻelua', 'makua', 'waiho', 'heiau', 'kākau', 'kahua', 'lāʻau', 'moana', 'kōkua', 'nīnau', 'hānai', 'mākou', 'kāhea', 'keʻei', 'hānau', 'lāhui', 'ukali', 'puaʻa', 'wāwae', 'kiaʻi', 'hahai', 'mākua', 'nunui', 'ʻīkoi', 'ʻākau', 'māhoe', 'niuhi', 'makoa', 'kaula', 'mōhai', 'hāpai', 'penei', 'ʻāhia', 'lālau', 'ʻeleu', 'mālie', 'keawe', 'ʻolua', 'honua', 'kālua', 'mauna', 'māwae', 'pehea', 'lehua', 'kūʻai', 'uhaʻi', 'mauʻu', 'lehia', 'kāula', 'awāwa', 'ʻeono', 'kālai', 'hauna', 'paukū', 'poina', 'ʻauʻa', 'moena', 'mamao', 'ʻuala', 'maliu', 'kaihe', 'hekau', 'meheu', 'launa', 'ʻōuli', 'kaupō', 'kūlou', 'waele', 'kukui', 'ʻoulu', 'ukana', 'pauka', 'naʻau', 'ʻōniu', 'loloa', 'ʻīlio', 'hōʻeu', 'nanea', 'nonoi', 'noiʻi', 'maika', 'koena', 'pālau', 'laulā', 'kaʻao', 'hālau', 'uhaki', 'wauke', 'okōko', 'kāuna', 'maiʻa', 'hahau', 'ʻāhiu', 'kiola', 'ʻōiwi', 'uhuki', 'kiʻei', 'anana', 'ʻehia', 'huina', 'kaena', 'pūniu', 'kuapā', 'ʻeiwa', 'pāhoa', 'hōʻoi', 'ʻaina', 'kīhei', 'hāmau', 'mākia', 'heana', 'unuhi', 'kūhiō', 'niniu', 'nāihe', 'kainō', 'kuemi', 'ʻāhua', 'līloa', 'hākau', 'ʻanae', 'pouli', 'kinai', 'loina', 'olonā', 'huila', 'kaiao', 'akāka', 'mōlia', 'maile', 'kāmoe', 'hoʻāo', 'kunou', 'pōniu', 'wahie', 'luaʻi', 'kēhau', 'ʻūlei', 'ʻiako', 'hiolo', 'hihia', 'akena', 'hāʻao', 'hāiki', 'kūlia', 'ʻonou', 'hāuna', 'makau', 'ʻōpua', 'ʻikuā', 'ʻōnou', 'puaʻi', 'houpo', 'luahi', 'ʻoaka', 'luina', 'naele', 'kūlua', 'nākai', 'iulai', 'aumoe', 'manuā', 'maunu', 'haupa', 'lānai', 'puehu', 'pōʻai', 'ʻāoʻo', 'haele', 'nanao', 'pōhue', 'hoana', 'kāohi', 'holoi', 'pālua', 'heulu', 'kāʻeo', 'hokua', 'kāpae', 'ʻaeʻa', 'kaona', 'kuʻia', 'ʻalae', 'laukī', 'kākia', 'ʻēheu', 'kāmau', 'ōlaʻi', 'hōʻoā', 'kaʻau', 'uwaʻu', 'pauoa', 'kuili', 'paʻao', 'nīʻau', 'uianu', 'pīkai', 'ulele', 'kuene', 'paila', 'kāoʻo', 'uhalu', 'hāloa', 'kīlou', 'ʻiewe', 'kupua', 'kuehu', 'kalae', 'līwai', 'haili', 'puana', 'ulana', 'haoʻa', 'ʻāhui', 'hahae', 'keanu', 'kuala', 'lupea', 'maiau', 'ʻōmea', 'kaʻeo', 'ikīki', 'ʻaila', 'kēwai', 'keoho', 'mālia', 'ʻāpua', 'puakō', 'hāmoa', 'lēhau', 'neʻeu', 'kuana', 'mulea', 'ʻoāwa', 'ʻumia', 'kawai', 'ʻōhua', 'ʻōmau', 'pahua', 'huhui', 'paina', 'mahae', 'huelo', 'lāʻie', 'kēpau', 'kūoʻo', 'kuewa', 'nahae', 'ʻīnea', 'pōlua', 'kualā', 'pīkoi', 'keaka', 'pāʻia', 'kaohi', 'lāuli']
-   word = random.choice(wordList).upper()
-
-   dataReply = ["blank"]
-   definitions = []
-   answer = word
-   return word
-"""
-
-
 @app.route('/', methods=['GET'])
 def home():
-   browser = mechanicalsoup.StatefulBrowser(
-      soup_config={'features': 'lxml'},
-      raise_on_404=True,
-      user_agent='MyBot/0.1: mysite.example.com/bot_info',
-   )
+   driver = webdriver.Chrome() 
+
    url = "https://www.ratemyprofessors.com/search/professors/1106?q=*"
    response = requests.get(url)
    response.raise_for_status()
 
-   browser.open_relative(url)  # Load a blank page in the browser
-   browser.get_current_page().soup = BeautifulSoup(response.text, 'html.parser')
-   
-   while True:  # Get the HTML content of the page
-      page_html = browser.get_current_page().prettify()
-      soup = BeautifulSoup(page_html, 'html.parser')
-      show_more_button = soup.find('button', class_='Buttons__Button-sc-19xdot-1 PaginationButton__StyledPaginationButton-txi1dr-1 eUNaBX')
-      if show_more_button:
-         browser.launch_browser()  # Optional: Launch a browser to see the interaction
-         browser.submit_selected(button=show_more_button)  # Click the "Show More" button
-      else:
-         break  # Break the loop when there are no more "Show More" buttons to click
+   driver.get(url)
+
+   # simulate clicking "close" on cookies popup
+   try:
+      close_button = driver.find_element(By.XPATH, "//button[contains(text(), 'Close')]")
+      close_button.click()
+      print("Clicked 'Close' button.")
+   except Exception as e:
+      print("Close button not found or already closed.")
+
+   # simulate clicking "show more" button
+   while True:  
+      try:
+         # /html/body/div[2]/div/div/div[4]/div[1]/div[1]/div[5]/button
+         show_more_button = driver.find_element(By.XPATH, "//button[contains(text(),'Show More')]")
+         if show_more_button.is_displayed() and show_more_button.is_enabled():
+            # click "show more" button
+            driver.execute_script("arguments[0].click();", show_more_button)
+            print("button clicked")
+            time.sleep(1)
+         else:
+            print("no more button to click")
+            break  # Break the loop when there are no more "Show More" buttons to click
+      except Exception as e:
+         print("exception occurred while trying to click button: ", e)
+         break
    
    # get current html content of page
-   soup = BeautifulSoup(response.content, 'html.parser')
+   html_content = response.content
+   soup = BeautifulSoup(html_content, 'html.parser')
 
    # extract data
    professor_list = []
@@ -63,10 +64,16 @@ def home():
    for prof in professors:
       name = prof.find('div', class_="CardName__StyledCardName-sc-1gyrgim-0 cJdVEK").text
       rating = prof.find('div', class_="CardFeedback__CardFeedbackItem-lq6nix-1 fyKbws").text
-      feedback = prof.find('div', class_="CardFeedback__CardFeedbackItem-lq6nix-1 fyKbws").text
-      professor_list.append({'name': name, 'rating': rating, 'feedback': feedback})
-   
-   browser.close()
+      feedback_class_name = "CardFeedback__CardFeedbackItem-lq6nix-1 fyKbws"
+      difficulty = prof.find('div', class_=feedback_class_name).find('div', 
+         class_="CardFeedback__CardFeedbackNumber-lq6nix-2 hroXqf").text
+      take_again_percent = prof.find('div', class_=feedback_class_name).find('div',
+         class_="CardFeedback__CardFeedbackNumber-lq6nix-2 hroXqf").text
+      professor_list.append({'name': name, 'rating': rating, 'difficulty': difficulty, 'take_again': take_again_percent})
+      print(f"Professor: {name}, Rating: {rating}, Difficulty: {difficulty}, Take Again?: {take_again_percent}")
+      time.sleep(3)
+
+   driver.quit()
 
    return render_template('wordle.html', professors=professor_list)
 
