@@ -7,6 +7,14 @@ Connect and get data for star
     Year, classes, credentials
 
 Create a GUI/Frontend with either JS, CSS or Java
+Integrated with Flask project
+
+Possible CS Additions:
+API application (AI),
+Docker,
+Web Processing,
+Domain/Server Hosting
+
 
 Forum Section for students especially housing
 Find housing rm8's
