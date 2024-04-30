@@ -1,49 +1,81 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
 import requests
 import time
+import timeit
 
 def scrape_professors():
-   driver = webdriver.Chrome() 
+   options = Options() # allowing for options
+   # options.add_argument("--headless=new") # Headless not currently working
+   options.page_load_strategy = 'eager'
+   driver = webdriver.Chrome(options=options) # launching selenium chrome simulator
 
    url = "https://www.ratemyprofessors.com/search/professors/1106?q=*"
-   response = requests.get(url)
-   response.raise_for_status()
-
-   driver.get(url)
+   # response = requests.get(url) 
+   # response.raise_for_status()
+   driver.implicitly_wait(0)
+   driver.get(url) # opening url with selenium chrome
+   
 
    # simulate clicking "close" on cookies popup
-   try:
+   try: # using a try catch just incase close is not present
       close_button = driver.find_element(By.XPATH, "//button[contains(text(), 'Close')]")
-      close_button.click()
+      WebDriverWait(driver, 100, poll_frequency=0.1).until(EC.element_to_be_clickable(close_button)).click()
       print("Clicked 'Close' button.")
-   except Exception as e:
-      print("Close button not found or already closed.")
+   except Exception as e: 
+      print("Close button not found or already closed.", e) # prints error message
 
    # simulate clicking "show more" button
+   x = 0
+   delay = 3 # seconds
    while True:  
-      try:
+
+      try: # checking if we can load more teachers
          show_more_button = driver.find_element(By.XPATH, "//button[contains(text(),'Show More')]")
-         if show_more_button.is_displayed():
+
+         if(WebDriverWait(driver, 100, poll_frequency=0.1).until(EC.presence_of_element_located((By.XPATH, "//button[contains(text(),'Show More')]")))):
+            WebDriverWait(driver, 100, poll_frequency=0.1).until(EC.element_to_be_clickable((By.XPATH, "//button[contains(text(),'Show More')]"))).click()
             # click "show more" button
-            driver.execute_script("arguments[0].click();", show_more_button)
+            # driver.execute_script("arguments[0].click();", show_more_button)
+            
+            # show_more_button.click()
             print("button clicked")
-            time.sleep(3)
+            # x = x+1 # counts the amount of show more tags clicked
+            # if(x==5): # limiter for testing 
+
+            #    break
+         
+
+            # time.sleep(3)
+
+
+            # try:
+            #    WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.XPATH, "//button[contains(text(),'Show More')]")))
+            #    # click "show more" button
+            #    print("Page ready")
+            # except TimeoutException:
+            #    print ("Loading took too much time!")
+
+
          else:
             print("no more button to click")
             break  # Break the loop when there are no more "Show More" buttons to click
       except Exception as e:
-         print("exception occurred while trying to click button: ", e)
+         print("An exception occured while trying to Find More button: ", e)
+         continue
          break
    
-   # get current html content of page
-   html_content = response.content
-   soup = BeautifulSoup(html_content, 'html.parser')
+   html_content = driver.page_source # retrieves HTML of current webpage simulator(selenium) is on
+   soup = BeautifulSoup(html_content, 'html.parser') # makes the html readable by BeautifulSoup
 
    # extract data
    professor_list = []
-   professors = soup.find_all('a', class_='TeacherCard__StyledTeacherCard-syjs0d-0 dLJIlx')
+   professors = soup.find_all('a', class_='TeacherCard__StyledTeacherCard-syjs0d-0 dLJIlx') 
    for prof in professors:
       name = prof.find('div', class_="CardName__StyledCardName-sc-1gyrgim-0 cJdVEK").text
       rating = prof.find('div', class_="CardFeedback__CardFeedbackItem-lq6nix-1 fyKbws").text
@@ -53,7 +85,11 @@ def scrape_professors():
       take_again_percent = prof.find('div', class_=feedback_class_name).find('div',
          class_="CardFeedback__CardFeedbackNumber-lq6nix-2 hroXqf").text
       professor_list.append({'name': name, 'rating': rating, 'difficulty': difficulty, 'take_again': take_again_percent})
-      print(f"Professor: {name}, Rating: {rating}, Difficulty: {difficulty}, Take Again?: {take_again_percent}")
-      time.sleep(1)
-
+      print(f"Professor: {name}, Rating: {rating}, Difficulty: {difficulty}, Take Again?: {take_again_percent}") 
+   
+      #time.sleep(1)
+      
    driver.quit()
+
+
+   print("", flush = True) # required to be able to print to terminal while using Flask

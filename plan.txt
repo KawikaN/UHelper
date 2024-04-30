@@ -1,0 +1,28 @@
+Scrape ratemyprofessor data using selenium
+Store data to array
+Represent array using pandas
+and/or mySQL
+
+Connect and get data for star
+    Year, classes, credentials
+
+Create a GUI/Frontend with either JS, CSS or Java
+
+Forum Section for students especially housing
+Find housing rm8's
+Possible place for functions aswell
+Common area for students to market items
+General School Updates/Info/Redirects
+    Common Resources
+    menue
+    Tips
+    Events
+
+Somehow have the program recommend classes for students
+
+Integrated schedules between students
+    You can see what the names of people you know listed under certain classes
+    You can search up and look at your friends schedules
+    You can have it make suggestions to fit your scheduels together
+
+
