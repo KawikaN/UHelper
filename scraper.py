@@ -5,6 +5,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+import pandas as pd
 import requests
 import time
 import timeit
@@ -91,7 +92,11 @@ def scrape_professors():
    
       #time.sleep(1)
       
+
    driver.quit()
 
-
+   # convert list to pandas dataframe and save it as csv file
+   df = pd.DataFrame(professor_list) 
+   df.to_csv("professors.csv")
+   print(df, flush=True)
    print("", flush = True) # required to be able to print to terminal while using Flask
