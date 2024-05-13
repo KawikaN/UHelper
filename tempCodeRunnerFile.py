@@ -1,2 +1,1 @@
-   # response = requests.get(url) 
-   # response.raise_for_status()
+if __name__ == "__main__":
