@@ -1,0 +1,2485 @@
+,name,rating,department,feedback,school
+0,Dorothy Goldsborough,2.6,Sociology,,University of Hawaii at Manoa
+1,Adele Casaschi,3.9,Chemistry,,University of Hawaii at Manoa
+2,Krishna Lamichhane,4.3,Engineering,,University of Hawaii at Manoa
+3,Curtis Ikehara,4.7,Computer Science,,University of Hawaii at Manoa
+4,Jan Huston,2.0,Political Science,,University of Hawaii at Manoa
+5,Charlie Weems,3.5,Science,,University of Hawaii at Manoa
+6,Karen Drozd,5.0,Music,,University of Hawaii at Manoa
+7,Nola Nahulu,4.8,Music,,University of Hawaii at Manoa
+8,Alan Teramura,3.6,Biology,,University of Hawaii at Manoa
+9,Coop Derenne,1.9,Kinesiology,,University of Hawaii at Manoa
+10,Xin Zhao,1.9,Marketing,,University of Hawaii at Manoa
+11,Kiriko Takahashi,2.0,American Studies,,University of Hawaii at Manoa
+12,Allan Millett,4.8,History,,University of Hawaii at Manoa
+13,John Dowling,3.5,Economics,,University of Hawaii at Manoa
+14,John Engel,3.8,Family Studies,,University of Hawaii at Manoa
+15,Mei Xu,2.8,East Asian Lang. & Literature,,University of Hawaii at Manoa
+16,Tep Dobry,3.9,Engineering,88%,University of Hawaii at Manoa
+17,Katja Michael,2.2,Chemistry,100%,University of Hawaii at Manoa
+18,Erik Guentner,3.4,Mathematics,100%,University of Hawaii at Manoa
+19,Marvin Ortel,2.9,Mathematics,,University of Hawaii at Manoa
+20,Stuart Henley,2.9,Fine Arts,,University of Hawaii at Manoa
+21,Gerald Kato,2.3,Journalism,0%,University of Hawaii at Manoa
+22,Gerry Russo,3.5,Economics,,University of Hawaii at Manoa
+23,Jan Stelovsky,1.8,Computer Science,0%,University of Hawaii at Manoa
+24,James Siu,2.4,Mathematics,,University of Hawaii at Manoa
+25,Glenn Cannon,2.3,Theater,,University of Hawaii at Manoa
+26,Thomas Yee,4.2,Music,,University of Hawaii at Manoa
+27,Heather Young-Leslie,4.1,Anthropology,,University of Hawaii at Manoa
+28,Andrea Labarge,3.2,Business,0%,University of Hawaii at Manoa
+29,Kathryn Hoffmann,4.3,European Studies,100%,University of Hawaii at Manoa
+30,Catherine Toth,5.0,Journalism,,University of Hawaii at Manoa
+31,Rob Vaughan,4.9,Social Science,,University of Hawaii at Manoa
+32,Jack Bilmes,3.5,Anthropology,100%,University of Hawaii at Manoa
+33,Kyoko Hijirida,3.6,Japanese,,University of Hawaii at Manoa
+34,Linda Middleton,4.3,English,100%,University of Hawaii at Manoa
+35,Miriam Sharma,2.5,Ethnic Studies,,University of Hawaii at Manoa
+36,Lee Siegel,4.2,Religion,,University of Hawaii at Manoa
+37,Chris Womersley,4.0,Zoology,72%,University of Hawaii at Manoa
+38,Michael Speidel,3.5,History,,University of Hawaii at Manoa
+39,Lynne Johnson,4.5,Music,,University of Hawaii at Manoa
+40,Heather Kurano,4.9,Spanish,,University of Hawaii at Manoa
+41,Robert Little,3.4,Mathematics,,University of Hawaii at Manoa
+42,Tom Brislin,4.2,Media,,University of Hawaii at Manoa
+43,Janice Smith,4.5,Chemistry,100%,University of Hawaii at Manoa
+44,Frances Fujiwara,2.3,Chemistry,,University of Hawaii at Manoa
+45,Judith Mills,4.2,Business,,University of Hawaii at Manoa
+46,David Pager,2.1,Computer Science,,University of Hawaii at Manoa
+47,Ben Bergen,3.5,Linguistics,,University of Hawaii at Manoa
+48,Ralph Freese,4.1,Mathematics,100%,University of Hawaii at Manoa
+49,John Head,3.6,Chemistry,100%,University of Hawaii at Manoa
+50,Thomas Bopp,4.0,Chemistry,,University of Hawaii at Manoa
+51,Chong Lee,1.7,Economics,,University of Hawaii at Manoa
+52,Joan Peters,2.6,English,0%,University of Hawaii at Manoa
+53,Stephen Canham,4.3,English,,University of Hawaii at Manoa
+54,Morgan Blair,2.8,English,,University of Hawaii at Manoa
+55,Ned Davis,3.7,History,0%,University of Hawaii at Manoa
+56,Richard Rapson,4.6,History,100%,University of Hawaii at Manoa
+57,James Marsh,2.0,Business,,University of Hawaii at Manoa
+58,Amy Anderson,3.4,Architecture,,University of Hawaii at Manoa
+59,Jack Sidener,4.0,Architecture,,University of Hawaii at Manoa
+60,Pu Miao,2.8,Architecture,100%,University of Hawaii at Manoa
+61,Paul Malley,4.7,Fine Arts,,University of Hawaii at Manoa
+62,Haunani-Kay Trask,3.3,Ethnic Studies,,University of Hawaii at Manoa
+63,Roger Ames,4.3,Philosophy,,University of Hawaii at Manoa
+64,Vic Lankas,0.0,Journalism,,University of Hawaii at Manoa
+65,Len Freed,3.1,Zoology,,University of Hawaii at Manoa
+66,James Spencer,2.9,Political Science,,University of Hawaii at Manoa
+67,John Cox,1.0,Management,,University of Hawaii at Manoa
+68,Mark Wright,3.4,Science,100%,University of Hawaii at Manoa
+69,Michael Dunn,4.8,Science,,University of Hawaii at Manoa
+70,David Muenow,3.6,Chemistry,,University of Hawaii at Manoa
+71,Peter Manicas,3.6,Sociology,,University of Hawaii at Manoa
+72,Steven Goldsberry,4.3,English,100%,University of Hawaii at Manoa
+73,Ron Brown,2.4,Mathematics,,University of Hawaii at Manoa
+74,B.J. Wie,1.8,Management,,University of Hawaii at Manoa
+75,Monisha Dasgupta,3.5,Ethnic Studies,67%,University of Hawaii at Manoa
+76,Kitty Kamaka,4.9,Business,,University of Hawaii at Manoa
+77,Keoki Farias,4.1,Hawaiian,,University of Hawaii at Manoa
+78,I-Bei Lin,3.8,Music,,University of Hawaii at Manoa
+79,Grant Okamura,4.3,Music,,University of Hawaii at Manoa
+80,Henry Miyamura,4.1,Music,,University of Hawaii at Manoa
+81,Leslie Wright,3.3,Music,,University of Hawaii at Manoa
+82,Herbert Ziegler,4.2,History,,University of Hawaii at Manoa
+83,James Brown,4.5,Russian,,University of Hawaii at Manoa
+84,Lyn Dubbs,4.8,Nursing,,University of Hawaii at Manoa
+85,Reginald Padilla,2.7,Music,,University of Hawaii at Manoa
+86,Ming GE,1.0,Physics,,University of Hawaii at Manoa
+87,Heather McMillen,1.8,Not Specified,,University of Hawaii at Manoa
+88,Paul Hudson,4.5,Business,,University of Hawaii at Manoa
+89,S Deburger,4.4,Political Science,,University of Hawaii at Manoa
+90,Teresa Bill,3.5,Women's Studies,,University of Hawaii at Manoa
+91,Robin Hadwick,4.5,Travel Industry,,University of Hawaii at Manoa
+92,Subramanian Shankar,3.4,English,0%,University of Hawaii at Manoa
+93,Betsy Fisher,4.5,Theater,0%,University of Hawaii at Manoa
+94,Peggy Adams,4.2,Theater,,University of Hawaii at Manoa
+95,Gregg Lizenbery,4.2,Theater,,University of Hawaii at Manoa
+96,Judy Vanzile,3.5,Theater,0%,University of Hawaii at Manoa
+97,Graham Parkes,3.3,Philosophy,,University of Hawaii at Manoa
+98,Paul Patek,4.4,Biology,,University of Hawaii at Manoa
+99,Mary Martini,3.5,Social Science,,University of Hawaii at Manoa
+100,J. Edward Schell,4.0,Accounting,,University of Hawaii at Manoa
+101,R. Kelly Aune,4.3,Speech,100%,University of Hawaii at Manoa
+102,Jay Junker,4.3,Music,60%,University of Hawaii at Manoa
+103,Yuko Otsuka,3.9,Linguistics,,University of Hawaii at Manoa
+104,Jack Suyderhoud,3.4,Economics,,University of Hawaii at Manoa
+105,Reg Worthley,4.7,Business,,University of Hawaii at Manoa
+106,Chris Measures,4.4,Oceanography,100%,University of Hawaii at Manoa
+107,Hugh Michael Hilden,3.1,Mathematics,,University of Hawaii at Manoa
+108,Michael Tanaka,2.3,Finance,,University of Hawaii at Manoa
+109,Dean Cost,4.7,Law,,University of Hawaii at Manoa
+110,Kent Sakoda,5.0,Languages,100%,University of Hawaii at Manoa
+111,Fred Roster,4.7,Fine Arts,,University of Hawaii at Manoa
+112,Michelle Teng,4.7,Engineering,,University of Hawaii at Manoa
+113,Robert Grace,4.0,Engineering,,University of Hawaii at Manoa
+114,Theodore Gonzalves,3.4,American Studies,,University of Hawaii at Manoa
+115,Fred Blake,3.6,Anthropology,100%,University of Hawaii at Manoa
+116,Stephen Yeh,4.4,Sociology,,University of Hawaii at Manoa
+117,Joyce Noe,2.0,Architecture,0%,University of Hawaii at Manoa
+118,Jaishree Odin,2.8,English,0%,University of Hawaii at Manoa
+119,Gary Pak,2.3,English,50%,University of Hawaii at Manoa
+120,Michael Pometta,0.0,Geography,,University of Hawaii at Manoa
+121,Ann Auman,4.3,Journalism,86%,University of Hawaii at Manoa
+122,Les Wilson,3.3,Mathematics,,University of Hawaii at Manoa
+123,Ruth Huard,4.3,Communication,,University of Hawaii at Manoa
+124,Dennis Carroll,3.4,Theater,,University of Hawaii at Manoa
+125,Wayne Smith,4.1,Mathematics,67%,University of Hawaii at Manoa
+126,S. Ghon Rhee,2.7,Finance,50%,University of Hawaii at Manoa
+127,Joel Weiner,2.0,Mathematics,,University of Hawaii at Manoa
+128,James Nation,4.2,Mathematics,,University of Hawaii at Manoa
+129,John Wendell,2.3,Accounting,,University of Hawaii at Manoa
+130,Jim Roumasset,2.0,Economics,,University of Hawaii at Manoa
+131,Min Min Thaw,3.2,Economics,,University of Hawaii at Manoa
+132,Gary Kikuchi,3.2,Economics,,University of Hawaii at Manoa
+133,Hunter McEwen,4.3,Education,,University of Hawaii at Manoa
+134,James Mak,4.0,Economics,,University of Hawaii at Manoa
+135,Richard Nettell,3.2,English,,University of Hawaii at Manoa
+136,Lucy Lower,3.4,Japanese,,University of Hawaii at Manoa
+137,Carol D'Angelo,4.0,Design,,University of Hawaii at Manoa
+138,Theodore Yoo,4.6,History,,University of Hawaii at Manoa
+139,Dineh Davis,1.9,Communication,,University of Hawaii at Manoa
+140,Blanca Polo,4.5,Computer Science,,University of Hawaii at Manoa
+141,Hanae Kurihara,4.7,Communication,,University of Hawaii at Manoa
+142,Colin MacDonald,4.7,Communication,,University of Hawaii at Manoa
+143,Gary Fontaine,5.0,Communication,,University of Hawaii at Manoa
+144,Marc Moody,4.2,Communication,80%,University of Hawaii at Manoa
+145,Lee Altenberg,4.0,Computer Science,88%,University of Hawaii at Manoa
+146,Elizabeth Davidson,4.4,Information Science,100%,University of Hawaii at Manoa
+147,Rebecca Cann,4.2,Biology,100%,University of Hawaii at Manoa
+148,Carlos Andrade,3.1,Ethnic Studies,,University of Hawaii at Manoa
+149,Rick Mills,4.3,Fine Arts,100%,University of Hawaii at Manoa
+150,Ron Solis,3.8,Hawaiian,70%,University of Hawaii at Manoa
+151,Joseph C Stanton,3.2,Art History,100%,University of Hawaii at Manoa
+152,Christopher Allday,3.6,Mathematics,,University of Hawaii at Manoa
+153,Julius Soria,4.5,Hawaiian,,University of Hawaii at Manoa
+154,Atiqa Hachimi,5.0,Arabic,,University of Hawaii at Manoa
+155,Rebecca Knuth,3.9,Information Science,,University of Hawaii at Manoa
+156,Gordon Bruce,0.0,Information Science,,University of Hawaii at Manoa
+157,David Bess,3.8,Business,100%,University of Hawaii at Manoa
+158,Nick Logue,4.7,Theater,100%,University of Hawaii at Manoa
+159,Katrina Oliveira,4.8,Geography,,University of Hawaii at Manoa
+160,Sangki Kim,3.4,Languages & Linguistics,50%,University of Hawaii at Manoa
+161,Bruce Uitto,1.0,Travel Industry,0%,University of Hawaii at Manoa
+162,Helen Spafford,4.3,Science,100%,University of Hawaii at Manoa
+163,Brent Sipes,0.0,Environmental Studies,,University of Hawaii at Manoa
+164,Mickey Seems,0.0,English,,University of Hawaii at Manoa
+165,Lee Endress,3.3,Economics,,University of Hawaii at Manoa
+166,Paul Hogan,0.0,Psychology,,University of Hawaii at Manoa
+167,Joannie Dobbs,2.1,Food Science,,University of Hawaii at Manoa
+168,Jim Dator,3.9,Political Science,,University of Hawaii at Manoa
+169,Manfred Henningsen,3.2,Political Science,67%,University of Hawaii at Manoa
+170,Neal Milner,4.1,Political Science,,University of Hawaii at Manoa
+171,John Wilson,3.0,Political Science,,University of Hawaii at Manoa
+172,Masami Tsujita,4.1,Geography,,University of Hawaii at Manoa
+173,Bruce Lindquist,4.5,Geography,,University of Hawaii at Manoa
+174,Kekailoa Perry,3.6,Hawaiian Studies,20%,University of Hawaii at Manoa
+175,Ana Zir,0.0,Public Health,,University of Hawaii at Manoa
+176,Ron Bontekoe,2.6,Philosophy,50%,University of Hawaii at Manoa
+177,Tung Bui,3.9,Business,,University of Hawaii at Manoa
+178,George Eugene Darby,0.0,Business,,University of Hawaii at Manoa
+179,Raymond Panko,2.6,Business,,University of Hawaii at Manoa
+180,Lotus Elizabeth Kam,0.0,Business,,University of Hawaii at Manoa
+181,Qianqiu Liu,3.2,Business,80%,University of Hawaii at Manoa
+182,Sung-Ho Shin,3.2,Business,40%,University of Hawaii at Manoa
+183,Kiyohiko Ito,4.1,Business,100%,University of Hawaii at Manoa
+184,William Chismar,0.0,Business,,University of Hawaii at Manoa
+185,Ralph Sprague,2.2,Business,,University of Hawaii at Manoa
+186,Steven Robinow,3.6,Zoology,,University of Hawaii at Manoa
+187,Gay Reed,4.9,Education,,University of Hawaii at Manoa
+188,Brian Jarret,2.4,Sociology,,University of Hawaii at Manoa
+189,Steven Tanaka,3.1,English,,University of Hawaii at Manoa
+190,Tina P. Ling,2.8,Accounting,0%,University of Hawaii at Manoa
+191,Qimei Chen,3.9,Marketing,100%,University of Hawaii at Manoa
+192,Nobuko Ochner,4.3,Literature,,University of Hawaii at Manoa
+193,Justin Ota,3.7,Japanese,,University of Hawaii at Manoa
+194,Lorrie Wong,4.7,Nursing,,University of Hawaii at Manoa
+195,Michelle Winn,0.0,English,,University of Hawaii at Manoa
+196,Vrinda Dalmiya,3.9,Philosophy,100%,University of Hawaii at Manoa
+197,Elton Daniel,4.0,History,,University of Hawaii at Manoa
+198,Scott Groeniger,4.4,Digital Arts,100%,University of Hawaii at Manoa
+199,Harry Ako,2.5,Biology,100%,University of Hawaii at Manoa
+200,Iris Kimura,2.6,Kinesiology,,University of Hawaii at Manoa
+201,David Stegenga,2.9,Mathematics,,University of Hawaii at Manoa
+202,Georganne Nordstrom,4.8,English,100%,University of Hawaii at Manoa
+203,Robert Bidigare,0.0,Science,,University of Hawaii at Manoa
+204,Ricardo Trimillos,4.3,Ethnic Studies,,University of Hawaii at Manoa
+205,Albert Robillard,4.8,Sociology,,University of Hawaii at Manoa
+206,Noel Jordan,2.5,Psychology,,University of Hawaii at Manoa
+207,Robert Onopa,4.4,English,,University of Hawaii at Manoa
+208,John Rieder,3.9,English,,University of Hawaii at Manoa
+209,Alan Titchenal,4.2,Nutrition,100%,University of Hawaii at Manoa
+210,Tamara Ticktin,3.3,Biology,100%,University of Hawaii at Manoa
+211,Thomas Hoover,3.3,Mathematics,,University of Hawaii at Manoa
+212,Kristi Schaller,3.5,Speech,,University of Hawaii at Manoa
+213,David Chappell,4.0,History,84%,University of Hawaii at Manoa
+214,Maria Herrera Astua,4.3,English,,University of Hawaii at Manoa
+215,Marie-Jose Fassiotto,4.2,French,,University of Hawaii at Manoa
+216,Michael Kimmitt,4.6,Economics,,University of Hawaii at Manoa
+217,Krisna Suryanata,3.5,Geography,50%,University of Hawaii at Manoa
+218,Tia Ballantine,4.4,English,,University of Hawaii at Manoa
+219,David Tholen,3.1,Physics,100%,University of Hawaii at Manoa
+220,David Bangert,3.5,Management,,University of Hawaii at Manoa
+221,Robert Doktor,4.0,Management,0%,University of Hawaii at Manoa
+222,Hugh Folk,3.5,Management,,University of Hawaii at Manoa
+223,James Richardson,3.3,Management,34%,University of Hawaii at Manoa
+224,Robert Robinson,4.0,Management,,University of Hawaii at Manoa
+225,Julian Bukalski,4.8,English,,University of Hawaii at Manoa
+226,Elaine Heiby,3.2,Psychology,,University of Hawaii at Manoa
+227,George Csordas,2.8,Mathematics,,University of Hawaii at Manoa
+228,Kathy Phillips,3.6,English,,University of Hawaii at Manoa
+229,Richard Lessa,4.0,English,,University of Hawaii at Manoa
+230,Song Jiang,3.7,Chinese,0%,University of Hawaii at Manoa
+231,Robert Joseph,4.4,Astronomy,,University of Hawaii at Manoa
+232,Leonard Andaya,3.5,History,100%,University of Hawaii at Manoa
+233,Eric Dodson,4.4,Physics,,University of Hawaii at Manoa
+234,Robert Hatanaka,2.7,Accounting,,University of Hawaii at Manoa
+235,John Charlot,4.1,Religion,,University of Hawaii at Manoa
+236,Frederick Lau,4.7,Music,100%,University of Hawaii at Manoa
+237,David Stannard,4.6,American Studies,100%,University of Hawaii at Manoa
+238,Mari Yoshihara,3.8,American Studies,100%,University of Hawaii at Manoa
+239,Malia Kaaihue,4.7,Ethnic Studies,,University of Hawaii at Manoa
+240,Noenoe Silva,4.4,Political Science,100%,University of Hawaii at Manoa
+241,Ross Sutherland,4.5,Geography,,University of Hawaii at Manoa
+242,Christine Yano,4.0,Anthropology,75%,University of Hawaii at Manoa
+243,Vail Matsumoto,4.9,Education,,University of Hawaii at Manoa
+244,Wallace Napier,4.4,Education,,University of Hawaii at Manoa
+245,Balinbin Rosela,4.8,Education,100%,University of Hawaii at Manoa
+246,Petrice Flowers,2.4,Political Science,0%,University of Hawaii at Manoa
+247,Fenny Cox,2.2,Biology,,University of Hawaii at Manoa
+248,Yida Wang,4.1,Fine Arts,,University of Hawaii at Manoa
+249,Roman Druker,4.4,French,,University of Hawaii at Manoa
+250,Mary Tiles,2.0,Philosophy,100%,University of Hawaii at Manoa
+251,Matt McGranaghan,3.2,Geography,,University of Hawaii at Manoa
+252,Brent Tully,2.3,Science,,University of Hawaii at Manoa
+253,Andrew Arno,3.3,Anthropology,,University of Hawaii at Manoa
+254,Heather Amick-Paulino,4.1,Spanish,,University of Hawaii at Manoa
+255,Karl Minke,3.1,Psychology,,University of Hawaii at Manoa
+256,David Falgout,4.2,Religion,75%,University of Hawaii at Manoa
+257,Sterling Keeley,3.4,Botany,,University of Hawaii at Manoa
+258,Jim Caron,4.2,Writing,,University of Hawaii at Manoa
+259,Fred Harris,2.9,Physics,,University of Hawaii at Manoa
+260,Chef Leslie,2.5,Hospitality,50%,University of Hawaii at Manoa
+261,Judith Kellogg,4.8,English,,University of Hawaii at Manoa
+262,Candace Fujikane,4.6,English,100%,University of Hawaii at Manoa
+263,Kuhio Vogeler,4.5,Political Science,,University of Hawaii at Manoa
+264,Hildre Herrera,4.8,Spanish,100%,University of Hawaii at Manoa
+265,Tom Craven,2.6,Mathematics,,University of Hawaii at Manoa
+266,Markus Wessendorf,2.6,Theater,100%,University of Hawaii at Manoa
+267,Chip Hughes,4.0,English,,University of Hawaii at Manoa
+268,Poul Andersen,2.3,Religion,,University of Hawaii at Manoa
+269,Stan Egi,4.0,Theater,,University of Hawaii at Manoa
+270,Luke Alapaki,4.6,Hawaiian Studies,,University of Hawaii at Manoa
+271,Diane Letoto,3.8,Women's Studies,,University of Hawaii at Manoa
+272,Lee Sang-Hyop,2.5,Economics,0%,University of Hawaii at Manoa
+273,Paul Coleman,4.3,Astronomy,100%,University of Hawaii at Manoa
+274,Angela Price,2.4,Theater,,University of Hawaii at Manoa
+275,Yeoun Varley,4.4,Political Science,,University of Hawaii at Manoa
+276,Susan Hirate,2.7,Japanese,0%,University of Hawaii at Manoa
+277,Dennis T Ogawa,4.3,Japanese,100%,University of Hawaii at Manoa
+278,Nancy Cooper,2.2,Anthropology,43%,University of Hawaii at Manoa
+279,Rodney Morales,4.4,English,100%,University of Hawaii at Manoa
+280,Amy Takahashi,4.1,Accounting,,University of Hawaii at Manoa
+281,Karen Hastings,2.8,Food Science,,University of Hawaii at Manoa
+282,Termdham Sitthilert,2.5,Economics,,University of Hawaii at Manoa
+283,Cheryl Matsumoto,1.8,Accounting,,University of Hawaii at Manoa
+284,Steve Curry,3.3,English,,University of Hawaii at Manoa
+285,Paul Lyons,4.5,English,100%,University of Hawaii at Manoa
+286,Mike Mottl,4.4,Geology,100%,University of Hawaii at Manoa
+287,Grieg Steward,4.8,Oceanography,100%,University of Hawaii at Manoa
+288,Andrew Pick,5.0,Linguistics,100%,University of Hawaii at Manoa
+289,Chantell Balaan,4.0,Zoology,100%,University of Hawaii at Manoa
+290,Tristan Holmes,3.8,Mathematics,70%,University of Hawaii at Manoa
+291,Sayed Bateni,3.3,Engineering,50%,University of Hawaii at Manoa
+292,Sladjana Prisic,4.7,Microbiology,100%,University of Hawaii at Manoa
+293,Heather Zezeck,3.3,Psychology,67%,University of Hawaii at Manoa
+294,Kim Corbin,5.0,Education,100%,University of Hawaii at Manoa
+295,Makena Coffman,2.6,Economics,,University of Hawaii at Manoa
+296,Noelani Dabis-Tom,5.0,Hawaiian Studies,,University of Hawaii at Manoa
+297,Thomas Hemscheidt,3.6,Chemistry,55%,University of Hawaii at Manoa
+298,Nancy Dowling,2.7,Art History,,University of Hawaii at Manoa
+299,Nathan Chang,5.0,Social Work,,University of Hawaii at Manoa
+300,Eric Harwit,3.8,Asian Studies,100%,University of Hawaii at Manoa
+301,Herbert Barringer,2.9,Sociology,,University of Hawaii at Manoa
+302,David Yun,1.7,Engineering,,University of Hawaii at Manoa
+303,Kahikina De Silva,4.9,Hawaiian,100%,University of Hawaii at Manoa
+304,Claire Hitosugi,3.5,Japanese,38%,University of Hawaii at Manoa
+305,Hiromi Kelley - Uchida,4.8,Japanese,,University of Hawaii at Manoa
+306,Hsin-Yi Hsieh,2.5,Chinese,100%,University of Hawaii at Manoa
+307,Mooweon Rhee,4.3,Business,,University of Hawaii at Manoa
+308,Bryan Davis,0.0,Business,,University of Hawaii at Manoa
+309,Jose Fragoso,1.3,Biology,,University of Hawaii at Manoa
+310,Thomas Gaarder,3.8,Engineering,,University of Hawaii at Manoa
+311,Neil Gowensmith,5.0,Psychology,,University of Hawaii at Manoa
+312,Galen Sasaki,3.6,Engineering,72%,University of Hawaii at Manoa
+313,Frank Sheriff,4.7,Fine Arts,,University of Hawaii at Manoa
+314,Joe O'Mealy,4.6,English,,University of Hawaii at Manoa
+315,Lorenzo Rinelli,3.6,Political Science,100%,University of Hawaii at Manoa
+316,Marc Fossorier,0.0,Engineering,,University of Hawaii at Manoa
+317,Jim Tiles,3.0,Philosophy,,University of Hawaii at Manoa
+318,Robert McHenry,4.0,English,,University of Hawaii at Manoa
+319,Kakuko Shoji,4.9,Japanese,,University of Hawaii at Manoa
+320,Brent Buckley,4.0,Science,,University of Hawaii at Manoa
+321,Douglas Vincent,4.8,Agriculture,,University of Hawaii at Manoa
+322,Fabio Bresolin,3.6,Astronomy,,University of Hawaii at Manoa
+323,Lloyd Hamasaki,5.0,Classics,100%,University of Hawaii at Manoa
+324,Peter Nicholson,4.3,English,100%,University of Hawaii at Manoa
+325,Donald Dugal,2.8,Fine Arts,,University of Hawaii at Manoa
+326,Jurgen Sang,3.9,German,,University of Hawaii at Manoa
+327,Doug Margolis,0.0,Languages,,University of Hawaii at Manoa
+328,Ronald Hetzler,4.7,Health Science,,University of Hawaii at Manoa
+329,Cindy Hunter,3.9,Biology,75%,University of Hawaii at Manoa
+330,Duncan Demster,3.5,Art,100%,University of Hawaii at Manoa
+331,Amy Healey,4.6,French,,University of Hawaii at Manoa
+332,Patricia Alverez,4.5,History,,University of Hawaii at Manoa
+333,Jinguang Andrew Zhang,4.5,Communicology,84%,University of Hawaii at Manoa
+334,Kevin Kawamoto,4.9,Journalism,100%,University of Hawaii at Manoa
+335,Matthew Lorentz,4.4,Mathematics,89%,University of Hawaii at Manoa
+336,Hannah El-Silimy,0.0,Political Science,,University of Hawaii at Manoa
+337,Philip Johnson,3.6,Computer Science,63%,University of Hawaii at Manoa
+338,Jesus Negrete,3.0,Physics,0%,University of Hawaii at Manoa
+339,Maria Simon,2.7,Architecture,50%,University of Hawaii at Manoa
+340,Cynthia Franklin,4.1,English,50%,University of Hawaii at Manoa
+341,Anders Daniels,3.8,Science,,University of Hawaii at Manoa
+342,Tom Schroeder,3.4,Science,,University of Hawaii at Manoa
+343,Mirella Vasquez-Brooks,5.0,Nursing,,University of Hawaii at Manoa
+344,Wesley Riley,4.0,Biology,,University of Hawaii at Manoa
+345,Heather Diamond,4.0,English,,University of Hawaii at Manoa
+346,Keiko Shinozuka,5.0,Languages,,University of Hawaii at Manoa
+347,Mariko Inoue,5.0,Art History,,University of Hawaii at Manoa
+348,Karen Tessier,4.1,Nursing,88%,University of Hawaii at Manoa
+349,Anna Feuerstein,4.3,English,75%,University of Hawaii at Manoa
+350,Jeffrey Orig,5.0,Communication,100%,University of Hawaii at Manoa
+351,Ariel Chardon,5.0,Spanish,100%,University of Hawaii at Manoa
+352,Michael Miller,3.0,Communicology,50%,University of Hawaii at Manoa
+353,Janitha Aswedige,3.0,Mathematics,50%,University of Hawaii at Manoa
+354,Cindy Murillo,5.0,Spanish,100%,University of Hawaii at Manoa
+355,Christopher Winfield,1.5,Mathematics,0%,University of Hawaii at Manoa
+356,Baldo Patterson,3.7,Peace & Conflict Studies,50%,University of Hawaii at Manoa
+357,David Penn,3.9,Geography,,University of Hawaii at Manoa
+358,Louise Lo,4.4,Business,72%,University of Hawaii at Manoa
+359,Stephen Meder,3.3,Architecture,50%,University of Hawaii at Manoa
+360,Pearl Imada,0.0,Economics,,University of Hawaii at Manoa
+361,Pat Henry,0.0,Science,,University of Hawaii at Manoa
+362,Meda Chesney-Lind,3.9,Women's Studies,50%,University of Hawaii at Manoa
+363,Amy Hubbard,4.4,Communicology,0%,University of Hawaii at Manoa
+364,Ruth Mabanglo,1.3,Languages,,University of Hawaii at Manoa
+365,Mike Hunt,5.0,Health Science,,University of Hawaii at Manoa
+366,Susan Hippensteele,4.1,Women's Studies,100%,University of Hawaii at Manoa
+367,Julia Kwan,2.5,Chinese,,University of Hawaii at Manoa
+368,Thomas Klobe,5.0,Art History,,University of Hawaii at Manoa
+369,Lewis Andrews,3.0,Art History,0%,University of Hawaii at Manoa
+370,Kim Thu Ton,4.5,Languages,,University of Hawaii at Manoa
+371,Dominique Mansilla Hermann,3.2,Spanish,,University of Hawaii at Manoa
+372,Allison Sherwood,3.4,Biology,,University of Hawaii at Manoa
+373,Tamara L. Pavich,4.2,English,,University of Hawaii at Manoa
+374,John Reardon,2.1,Business,100%,University of Hawaii at Manoa
+375,Peng Xu,0.0,Theatre & Dance,,University of Hawaii at Manoa
+376,Milomir Ognjanovic,4.2,Business,75%,University of Hawaii at Manoa
+377,Matthew Kanekoa,4.1,Communication,78%,University of Hawaii at Manoa
+378,Ben Bystrom,4.3,Business,100%,University of Hawaii at Manoa
+379,Rachel Neo,3.0,Communication,50%,University of Hawaii at Manoa
+380,Pratistha Gyawali,1.0,Economics,0%,University of Hawaii at Manoa
+381,Anna Jeong,3.8,Accounting,60%,University of Hawaii at Manoa
+382,Baoyan Cheng,4.1,Education,100%,University of Hawaii at Manoa
+383,aja wells,2.2,Spanish,34%,University of Hawaii at Manoa
+384,Fox Bonnie,5.0,Korean,100%,University of Hawaii at Manoa
+385,David Haymer,5.0,Biology,93%,University of Hawaii at Manoa
+386,Karen Kosasa,4.3,American Studies,75%,University of Hawaii at Manoa
+387,Min-Sun Kim,2.8,Speech,50%,University of Hawaii at Manoa
+388,Margeaux Ciraolo,3.0,Psychology,50%,University of Hawaii at Manoa
+389,Mara Miller,2.6,East Asian Lang. & Literature,50%,University of Hawaii at Manoa
+390,Amy Donahue,4.8,Philosophy,,University of Hawaii at Manoa
+391,Anne Misawa,3.9,Film,100%,University of Hawaii at Manoa
+392,Elaine Hatfield,4.4,Psychology,100%,University of Hawaii at Manoa
+393,Bed Paudyal,3.8,English,0%,University of Hawaii at Manoa
+394,Gladys Nakahara,3.1,East Asian Studies,0%,University of Hawaii at Manoa
+395,Victoria Anderson,4.8,Languages,100%,University of Hawaii at Manoa
+396,Cassian Kimhan,2.9,Psychology,,University of Hawaii at Manoa
+397,Yun Chu,4.6,Psychology,,University of Hawaii at Manoa
+398,Frank Ardolino,3.9,English,,University of Hawaii at Manoa
+399,Michael Sprunger,4.0,History,,University of Hawaii at Manoa
+400,Saili Lilo-Maiava,4.0,Geography,,University of Hawaii at Manoa
+401,Kim Shima,3.4,Accounting,,University of Hawaii at Manoa
+402,Deborah Waite,3.1,Art History,100%,University of Hawaii at Manoa
+403,Joe Niemczura,4.4,Nursing,100%,University of Hawaii at Manoa
+404,Brien Hallett,3.9,Sociology,84%,University of Hawaii at Manoa
+405,Gary Barnes,4.5,Meteorology,,University of Hawaii at Manoa
+406,Tomoaki Miura,4.3,Science,100%,University of Hawaii at Manoa
+407,Ted Yao,3.9,Languages,,University of Hawaii at Manoa
+408,Weilin Qu,2.7,Engineering,75%,University of Hawaii at Manoa
+409,Michiko Fukasawa,5.0,Japanese,100%,University of Hawaii at Manoa
+410,Heather Saito,3.8,Oceanography,100%,University of Hawaii at Manoa
+411,Amy Moran,4.0,Biology,87%,University of Hawaii at Manoa
+412,Renee Pearson,1.5,Communicology,0%,University of Hawaii at Manoa
+413,Katherine Achacoso,5.0,American Studies,100%,University of Hawaii at Manoa
+414,Joshua Irvine,3.3,Engineering,63%,University of Hawaii at Manoa
+415,Xiao Yuanzhang,2.5,Engineering,50%,University of Hawaii at Manoa
+416,Maile Gresham,4.8,English,,University of Hawaii at Manoa
+417,Sheri Gon,3.7,Medicine,,University of Hawaii at Manoa
+418,J.D. Brown,4.5,Languages,,University of Hawaii at Manoa
+419,Dick Schmidt,4.5,Languages,,University of Hawaii at Manoa
+420,Amy Stehlik,0.0,Communication,,University of Hawaii at Manoa
+421,Rebecca Horne,4.5,Fine Arts,,University of Hawaii at Manoa
+422,Hokulani Aikau,4.3,Political Science,,University of Hawaii at Manoa
+423,Joseph Zilliox,2.7,Education,,University of Hawaii at Manoa
+424,David Frederick,4.6,Psychology,100%,University of Hawaii at Manoa
+425,Lin Liu,3.3,Sociology,67%,University of Hawaii at Manoa
+426,Marc Le Pape,1.2,Computer Science,0%,University of Hawaii at Manoa
+427,Brooke Hasegawa,4.1,Business,100%,University of Hawaii at Manoa
+428,Evelyn Coffey,4.9,French,100%,University of Hawaii at Manoa
+429,Jaerim Choi,4.5,Economics,100%,University of Hawaii at Manoa
+430,Suzanna Reiss,4.7,History,100%,University of Hawaii at Manoa
+431,Nori Tarui,3.6,Economics,100%,University of Hawaii at Manoa
+432,Robert McGlone,4.4,History,,University of Hawaii at Manoa
+433,Vina Lanzona,2.4,History,34%,University of Hawaii at Manoa
+434,Kyle Hampton,4.3,Economics,,University of Hawaii at Manoa
+435,Marja Sarvimaki,3.8,Architecture,,University of Hawaii at Manoa
+436,Gay Satsuma,4.2,Pacific & Asian Studies,100%,University of Hawaii at Manoa
+437,Adolf Mader,2.1,Mathematics,,University of Hawaii at Manoa
+438,H Ronald Riggs,1.9,Engineering,50%,University of Hawaii at Manoa
+439,Albert Kim,4.5,Engineering,100%,University of Hawaii at Manoa
+440,Clark Liu,0.0,Engineering,,University of Hawaii at Manoa
+441,Chittaranjan Ray,1.5,Engineering,,University of Hawaii at Manoa
+442,David Ma,1.7,Engineering,,University of Hawaii at Manoa
+443,Constantinos S. Papacostas,2.8,Engineering,,University of Hawaii at Manoa
+444,Peter Lenhart,3.0,Accounting,,University of Hawaii at Manoa
+445,Cathryn Clayton,4.7,Anthropology,,University of Hawaii at Manoa
+446,Georgia Yamashita,4.4,Family Studies,,University of Hawaii at Manoa
+447,Helene Tom,0.0,Education,,University of Hawaii at Manoa
+448,Michael Weinstein,3.1,Sociology,,University of Hawaii at Manoa
+449,Ed Bieda,5.0,Psychology,,University of Hawaii at Manoa
+450,Saiful Momen,2.5,Psychology,,University of Hawaii at Manoa
+451,David Carlon,4.5,Zoology,,University of Hawaii at Manoa
+452,Patricia Donnegan,3.8,Languages,,University of Hawaii at Manoa
+453,Nicholas Ordway,3.3,Business,45%,University of Hawaii at Manoa
+454,Y. Han Lau,1.6,Biology,0%,University of Hawaii at Manoa
+455,Terry Klafehn,4.6,Japanese,100%,University of Hawaii at Manoa
+456,John Haig,4.1,Japanese,,University of Hawaii at Manoa
+457,Joyce Vogler,4.4,Nursing,,University of Hawaii at Manoa
+458,Stephen Saul,0.0,Agriculture,,University of Hawaii at Manoa
+459,Chunfeng Lin,5.0,Communication,,University of Hawaii at Manoa
+460,Shaobin Zhong,0.0,Agriculture,,University of Hawaii at Manoa
+461,Joel Cohn,3.7,Literature,,University of Hawaii at Manoa
+462,Heinz Gert De Couet,2.4,Zoology,0%,University of Hawaii at Manoa
+463,Sean Callahan,4.5,Biology,,University of Hawaii at Manoa
+464,Incoronata (nadia) Inserra,2.0,English,0%,University of Hawaii at Manoa
+465,Chintana Takahashi,5.0,Languages,,University of Hawaii at Manoa
+466,Sang Yee Cheon,4.8,Korean,100%,University of Hawaii at Manoa
+467,Noah Viernes,4.8,Political Science,,University of Hawaii at Manoa
+468,Corey Jamieson,4.6,Chemistry,,University of Hawaii at Manoa
+469,Vernadette Gonzalez,4.2,American Studies,,University of Hawaii at Manoa
+470,Caroline Sinavaiana,2.4,English,34%,University of Hawaii at Manoa
+471,Mushtaq Ikramullah,3.1,Kinesiology,,University of Hawaii at Manoa
+472,Sabrina Saiki-Mita,4.8,Music,,University of Hawaii at Manoa
+473,Kayoko Madsen,3.5,Japanese,0%,University of Hawaii at Manoa
+474,Valli Kanuha,4.7,Sociology,100%,University of Hawaii at Manoa
+475,Nandita Sharma,3.9,Sociology,100%,University of Hawaii at Manoa
+476,Stephen Vargo,3.0,Marketing,,University of Hawaii at Manoa
+477,Aiddy Weisbecker,4.0,Spanish,,University of Hawaii at Manoa
+478,Kristy Ringor,5.0,American Studies,100%,University of Hawaii at Manoa
+479,Sara Olson,5.0,Languages,,University of Hawaii at Manoa
+480,Jermey Henkel,4.5,Philosophy,,University of Hawaii at Manoa
+481,F Bain,3.6,English,,University of Hawaii at Manoa
+482,Wayne Iwaoka,3.8,Food Science,,University of Hawaii at Manoa
+483,Brandy McDougall,4.7,English,88%,University of Hawaii at Manoa
+484,Amelia Pasi,5.0,Not Specified,100%,University of Hawaii at Manoa
+485,F Gae,0.0,Urban Planning,,University of Hawaii at Manoa
+486,Aki Teshigahara,4.9,Japanese,100%,University of Hawaii at Manoa
+487,Anthony Amend,4.7,Biology,88%,University of Hawaii at Manoa
+488,Reginald Kwok,3.3,Asian Studies,,University of Hawaii at Manoa
+489,David Swift,3.7,Sociology,,University of Hawaii at Manoa
+490,David McCraw,4.4,East Asian Lang. & Literature,100%,University of Hawaii at Manoa
+491,Gregg Wong,4.5,Kinesiology,,University of Hawaii at Manoa
+492,Dan Jenkins,2.6,Agriculture,,University of Hawaii at Manoa
+493,Misako Steverson,4.1,Japanese,,University of Hawaii at Manoa
+494,Pensri Ho,2.6,Ethnic Studies,,University of Hawaii at Manoa
+495,Sun Young Park,3.1,Hospitality,,University of Hawaii at Manoa
+496,Mark Ridgley,1.6,Geography,,University of Hawaii at Manoa
+497,Bruce Chorpita,5.0,Psychology,,University of Hawaii at Manoa
+498,Krista Steinfeld,3.6,Hawaiian Studies,,University of Hawaii at Manoa
+499,Clifton Tanabe,4.9,Education,,University of Hawaii at Manoa
+500,David Shinn,3.3,Chemistry,,University of Hawaii at Manoa
+501,Linda Bangert Harris,3.7,Business,,University of Hawaii at Manoa
+502,Gay Sibley,4.5,English,,University of Hawaii at Manoa
+503,Amy Matsen,4.6,Women's Studies,,University of Hawaii at Manoa
+504,James Moncur,2.6,Economics,,University of Hawaii at Manoa
+505,Robert Curry,4.0,Economics,,University of Hawaii at Manoa
+506,Peter Flachsbart,3.7,Urban Planning,,University of Hawaii at Manoa
+507,Elisabeth Hutchison,4.7,Law,,University of Hawaii at Manoa
+508,Yung-Hee Kim,2.5,Korean,0%,University of Hawaii at Manoa
+509,Leslie Lopez,4.8,Education,,University of Hawaii at Manoa
+510,Hong Jiang,3.2,Geography,50%,University of Hawaii at Manoa
+511,Andrew Dewald,4.4,Psychology,94%,University of Hawaii at Manoa
+512,Soo Jin Jung,4.8,Korean,,University of Hawaii at Manoa
+513,Luciano Minerbi,4.3,Urban Planning,,University of Hawaii at Manoa
+514,Ashley Lukens,3.7,Political Science,,University of Hawaii at Manoa
+515,Matthew Peck,3.3,Spanish,,University of Hawaii at Manoa
+516,Cathy Kaiama,4.0,Accounting,100%,University of Hawaii at Manoa
+517,Maria Astua,2.3,Languages,,University of Hawaii at Manoa
+518,Jonathan Osorio,3.6,Hawaiian Studies,50%,University of Hawaii at Manoa
+519,Nathan Hiraoka,5.0,Kinesiology,,University of Hawaii at Manoa
+520,Xiaoming Hu,4.4,Languages,,University of Hawaii at Manoa
+521,Mathew Savage,4.7,Speech,,University of Hawaii at Manoa
+522,Jim Henry,4.9,English,,University of Hawaii at Manoa
+523,Roy Perrett,2.3,Philosophy,0%,University of Hawaii at Manoa
+524,Stephen Tschudi,5.0,East Asian Lang. & Literature,,University of Hawaii at Manoa
+525,Diane Lois Parker,0.0,Education,,University of Hawaii at Manoa
+526,Maqsudul Alam,3.0,Biology,,University of Hawaii at Manoa
+527,Saori Hoshi,4.9,Japanese,,University of Hawaii at Manoa
+528,Rachele Vogelpohl Vogelpohl,3.5,Kinesiology,,University of Hawaii at Manoa
+529,Glenn Man,4.0,English,100%,University of Hawaii at Manoa
+530,John Mayer,4.8,Languages,100%,University of Hawaii at Manoa
+531,David Toohey,1.5,Political Science,,University of Hawaii at Manoa
+532,Miriam Fuchs,4.5,English,,University of Hawaii at Manoa
+533,Lysandra Cook,3.3,Education,,University of Hawaii at Manoa
+534,Zachary Kent,4.8,Mathematics,,University of Hawaii at Manoa
+535,Jonathan Jarvis,5.0,Sociology,,University of Hawaii at Manoa
+536,M Chyaba,2.8,Mathematics,,University of Hawaii at Manoa
+537,Glen Mann,3.6,English,,University of Hawaii at Manoa
+538,Wesley Fong,3.8,Law,100%,University of Hawaii at Manoa
+539,Julie Brock,2.7,Zoology,100%,University of Hawaii at Manoa
+540,Andrew Taylor,5.0,Zoology,,University of Hawaii at Manoa
+541,Hazel Parcon,4.5,Economics,100%,University of Hawaii at Manoa
+542,Joe Genz,4.5,Anthropology,,University of Hawaii at Manoa
+543,Karadeen Kam,3.6,Speech,100%,University of Hawaii at Manoa
+544,Cynthia Tsark,4.3,Design,100%,University of Hawaii at Manoa
+545,Hyong June Park,4.3,Architecture,,University of Hawaii at Manoa
+546,. Luna,4.8,Anthropology,,University of Hawaii at Manoa
+547,Frank Stewart,4.5,English,,University of Hawaii at Manoa
+548,Roger Debreceny,3.5,Accounting,,University of Hawaii at Manoa
+549,Linda Kane,2.2,Fine Arts,,University of Hawaii at Manoa
+550,John Stimson,1.3,Zoology,,University of Hawaii at Manoa
+551,Budi Staven,3.2,Design,,University of Hawaii at Manoa
+552,Harold Richins,3.5,Hospitality,,University of Hawaii at Manoa
+553,Makanani Parker,2.9,Hawaiian Studies,100%,University of Hawaii at Manoa
+554,R Netell,3.2,English,,University of Hawaii at Manoa
+555,Carmen Nolte,4.9,English,100%,University of Hawaii at Manoa
+556,R Adiga,3.7,English,0%,University of Hawaii at Manoa
+557,Olga Cordero-Brana,2.3,Mathematics,50%,University of Hawaii at Manoa
+558,Reem Bassous,4.7,Fine Arts,0%,University of Hawaii at Manoa
+559,Ethel Villalobos,4.2,Women's Studies,,University of Hawaii at Manoa
+560,Jonathan Baker,4.3,Anthropology,100%,University of Hawaii at Manoa
+561,James Wills,2.4,Marketing,0%,University of Hawaii at Manoa
+562,Clifford Clarke,4.5,Communication,,University of Hawaii at Manoa
+563,Gregg Romano,0.0,English,,University of Hawaii at Manoa
+564,Christopher Kelsey,4.9,English,100%,University of Hawaii at Manoa
+565,Roy Gal,4.3,Astronomy,100%,University of Hawaii at Manoa
+566,Erica Okada,3.2,Business,,University of Hawaii at Manoa
+567,Keawe Lopes,3.9,Hawaiian,100%,University of Hawaii at Manoa
+568,N Losch,3.0,Hawaiian,,University of Hawaii at Manoa
+569,Marie Kumabe,4.9,Travel Industry,,University of Hawaii at Manoa
+570,Faith Milnes,2.7,Fine Arts,,University of Hawaii at Manoa
+571,Rucci Aamodt,4.5,Music,100%,University of Hawaii at Manoa
+572,Stephen O'Harrow,4.5,East Asian Lang. & Literature,,University of Hawaii at Manoa
+573,L Keawe,4.4,Hawaiian Studies,100%,University of Hawaii at Manoa
+574,Min Koo Choi,4.5,Korean,,University of Hawaii at Manoa
+575,Dimal Disanayake,4.8,Film,,University of Hawaii at Manoa
+576,Kenneth Kipnis,3.5,Philosophy,,University of Hawaii at Manoa
+577,Ronaele Whittington,2.7,Humanities,,University of Hawaii at Manoa
+578,Norma Fujise,4.6,Nursing,,University of Hawaii at Manoa
+579,Fred Bail,2.0,Education,,University of Hawaii at Manoa
+580,Barry Menikoff,2.7,English,,University of Hawaii at Manoa
+581,Blake Hendrickson,4.2,Speech,0%,University of Hawaii at Manoa
+582,Hye-young Kwak,0.0,Korean,,University of Hawaii at Manoa
+583,Erin Brown,2.2,Speech,,University of Hawaii at Manoa
+584,Erica Clayton,4.9,English,,University of Hawaii at Manoa
+585,Ania Wieczorek,4.8,Agriculture,,University of Hawaii at Manoa
+586,Debbie Gundaya,3.1,Economics,,University of Hawaii at Manoa
+587,Sheleigh Solis,3.4,Hawaiian Studies,,University of Hawaii at Manoa
+588,Sandra Sinclair,3.8,Nursing,,University of Hawaii at Manoa
+589,Krista Hodges,2.7,Sociology,7%,University of Hawaii at Manoa
+590,Thomas Osborne,4.4,Music,,University of Hawaii at Manoa
+591,Gavin Furukawa,3.4,English Language Institute,,University of Hawaii at Manoa
+592,Katherine Aumer-Ryan,4.2,Psychology,,University of Hawaii at Manoa
+593,John Cusick,2.5,Geography,0%,University of Hawaii at Manoa
+594,Don Drake,4.5,Biology,80%,University of Hawaii at Manoa
+595,Sachin Ruikar,3.8,Information Science,100%,University of Hawaii at Manoa
+596,Dennis Streveler,2.8,Computer Science,100%,University of Hawaii at Manoa
+597,A Seita,0.0,Information Science,100%,University of Hawaii at Manoa
+598,Rachel Mamiya,4.5,Spanish,100%,University of Hawaii at Manoa
+599,Mary Babcock,4.0,Fine Arts,86%,University of Hawaii at Manoa
+600,James Potemra,4.7,Oceanography,100%,University of Hawaii at Manoa
+601,Michael Gardner,0.0,Asian Studies,,University of Hawaii at Manoa
+602,Veronica Hotton,4.3,Geography,,University of Hawaii at Manoa
+603,Linda Dorn,4.0,Film,,University of Hawaii at Manoa
+604,John Harrison,0.0,Public Policy,,University of Hawaii at Manoa
+605,Suzanne Zeng,4.2,East Asian Lang. & Literature,,University of Hawaii at Manoa
+606,Evan Yoshimura,4.7,Mathematics,,University of Hawaii at Manoa
+607,Betty Tamayo,4.8,Nursing,,University of Hawaii at Manoa
+608,Ritsuko Narita,0.0,Linguistics,,University of Hawaii at Manoa
+609,Jessica Fine,0.0,Spanish,,University of Hawaii at Manoa
+610,Jake Terrell,4.6,Linguistics,100%,University of Hawaii at Manoa
+611,Hazel Beh,4.3,Law,100%,University of Hawaii at Manoa
+612,James Viernes,4.5,Pacific & Asian Studies,,University of Hawaii at Manoa
+613,Trang Phan,1.8,Finance,,University of Hawaii at Manoa
+614,Leanne Sims,3.5,English,100%,University of Hawaii at Manoa
+615,Supachai Srisuchart,2.3,Economics,,University of Hawaii at Manoa
+616,Richard Gazan,3.1,Computer Science,,University of Hawaii at Manoa
+617,Uluwehi Hopkins,5.0,Hawaiian Studies,,University of Hawaii at Manoa
+618,Kai Gaspar,4.8,English,,University of Hawaii at Manoa
+619,Christine Beaule,4.3,Anthropology,100%,University of Hawaii at Manoa
+620,Dina Yoshimi,2.3,Japanese,25%,University of Hawaii at Manoa
+621,Lufi Luteru,3.6,Hawaiian Studies,,University of Hawaii at Manoa
+622,Sorin Huh,4.7,Korean,,University of Hawaii at Manoa
+623,R Luna,5.0,Biology,,University of Hawaii at Manoa
+624,Jennifer Matayoshi,4.5,Speech,88%,University of Hawaii at Manoa
+625,Matthew Shores,4.4,Japanese,,University of Hawaii at Manoa
+626,Lucy Jokiel,2.8,Journalism,,University of Hawaii at Manoa
+627,Janice Uchida,2.7,Environmental Studies,0%,University of Hawaii at Manoa
+628,Marta Gonazalez-Lloret,4.2,Spanish,,University of Hawaii at Manoa
+629,Bruce Suwa,3.4,Hawaiian,,University of Hawaii at Manoa
+630,Spencer Leineweber,3.3,Architecture,,University of Hawaii at Manoa
+631,Leonidas Doumas,4.0,Psychology,,University of Hawaii at Manoa
+632,Kathryn Davis,0.0,Languages,,University of Hawaii at Manoa
+633,Brandy Frazier,4.2,Psychology,,University of Hawaii at Manoa
+634,Masumi Hamada,4.1,Japanese,,University of Hawaii at Manoa
+635,Hye-Eun Kate Lee,3.5,Speech,,University of Hawaii at Manoa
+636,Laxman Sharma,4.7,Engineering,,University of Hawaii at Manoa
+637,Chanju Mun,4.0,Philosophy,,University of Hawaii at Manoa
+638,Estelle Codier,2.7,Nursing,,University of Hawaii at Manoa
+639,Megan Mount,4.8,Music,,University of Hawaii at Manoa
+640,Wei Zhang,4.3,Sociology,100%,University of Hawaii at Manoa
+641,Lilia Omarouayache,4.7,French,,University of Hawaii at Manoa
+642,Karen Meech,1.9,Astronomy,,University of Hawaii at Manoa
+643,Ann Rayson,5.0,English,,University of Hawaii at Manoa
+644,Kerri Cummins,4.2,Zoology,50%,University of Hawaii at Manoa
+645,Ying Liu,4.2,Business,,University of Hawaii at Manoa
+646,Yoko Makishima,4.7,Japanese,,University of Hawaii at Manoa
+647,Alan Stockton,3.5,Astronomy,,University of Hawaii at Manoa
+648,Kimberly Brooks,0.0,Travel Industry,,University of Hawaii at Manoa
+649,Blane Benevides,4.8,Hawaiian Studies,100%,University of Hawaii at Manoa
+650,Marcia Morgado,4.0,Family Studies,,University of Hawaii at Manoa
+651,Kris Palagi,4.0,Architecture,100%,University of Hawaii at Manoa
+652,John Kupchik,5.0,Linguistics,,University of Hawaii at Manoa
+653,Shu-Ling Wu,4.0,Languages,,University of Hawaii at Manoa
+654,Kelly Merrill,4.5,Education,,University of Hawaii at Manoa
+655,Eric Szarmes,4.7,Physics,100%,University of Hawaii at Manoa
+656,Reece Jones,4.8,Geography,100%,University of Hawaii at Manoa
+657,Luca MacChiarulo,4.5,Engineering,,University of Hawaii at Manoa
+658,Feng Wu,0.0,Business,,University of Hawaii at Manoa
+659,Aparajita Jeedigunta,3.3,Women's Studies,,University of Hawaii at Manoa
+660,Archimedes Gatchalian,3.5,Economics,,University of Hawaii at Manoa
+661,Patrick Ball,4.7,Anthropology,,University of Hawaii at Manoa
+662,Robert Boller,4.3,Communicology,,University of Hawaii at Manoa
+663,Lani Brown,4.6,Family Studies,100%,University of Hawaii at Manoa
+664,Kathryn Hoffman,4.5,Literature,,University of Hawaii at Manoa
+665,Tom Gammarino,4.7,English,,University of Hawaii at Manoa
+666,Phillip Drake,4.9,English,,University of Hawaii at Manoa
+667,Pono Fernandez,4.5,Hawaiian,,University of Hawaii at Manoa
+668,David Hunter,2.8,Finance,0%,University of Hawaii at Manoa
+669,Elise Thompson,3.8,Nursing,,University of Hawaii at Manoa
+670,Maria Guerriero,5.0,Nursing,,University of Hawaii at Manoa
+671,Jing Ai,3.3,Finance,,University of Hawaii at Manoa
+672,Cliff Morden,4.9,Botany,100%,University of Hawaii at Manoa
+673,Michelle Manes,4.7,Mathematics,100%,University of Hawaii at Manoa
+674,Calvin Collins,0.0,Art History,,University of Hawaii at Manoa
+675,Beei-Huan Chao,4.3,Engineering,,University of Hawaii at Manoa
+676,Jill Dahlman,3.0,English,0%,University of Hawaii at Manoa
+677,Eileen Tamura,4.0,Education,,University of Hawaii at Manoa
+678,Maiko Ikeda,3.9,Japanese,80%,University of Hawaii at Manoa
+679,Eun Ho Kim,4.8,Korean,,University of Hawaii at Manoa
+680,Heisoon Yang,3.5,Korean,,University of Hawaii at Manoa
+681,Chiara Bauzulli,4.5,Languages,,University of Hawaii at Manoa
+682,James Hafford,3.9,Linguistics,,University of Hawaii at Manoa
+683,Dana Davidson,4.0,Family Studies,,University of Hawaii at Manoa
+684,Ida Yoshinaga,4.5,English,72%,University of Hawaii at Manoa
+685,"Karyn ""Mo"" Wells",3.9,American Studies,100%,University of Hawaii at Manoa
+686,James Douglas,2.2,Biology,,University of Hawaii at Manoa
+687,Kazue Kanno,4.9,Japanese,100%,University of Hawaii at Manoa
+688,Nina Etkin,0.0,Anthropology,,University of Hawaii at Manoa
+689,Tyler Salvo,4.5,Spanish,,University of Hawaii at Manoa
+690,Justin Kam,0.0,Athletics,,University of Hawaii at Manoa
+691,Justin Kam,0.0,Economics,,University of Hawaii at Manoa
+692,Pahole Sookkasikon,0.0,Asian Studies,,University of Hawaii at Manoa
+693,Kristin McAndrews,3.7,English,50%,University of Hawaii at Manoa
+694,Richard Day,3.2,Languages,100%,University of Hawaii at Manoa
+695,Jinhyun Jun,4.2,Travel Industry,67%,University of Hawaii at Manoa
+696,Geoffrey Mathews,2.9,Astronomy,19%,University of Hawaii at Manoa
+697,Jeffrey Gillis,3.4,Geology,,University of Hawaii at Manoa
+698,Dwight Hopkins,0.0,Religion,,University of Hawaii at Manoa
+699,Anna Gleisberg,4.7,English,,University of Hawaii at Manoa
+700,Hui Jiang,3.3,East Asian Lang. & Literature,,University of Hawaii at Manoa
+701,Stuart Harten,5.0,History,,University of Hawaii at Manoa
+702,Ann Bayer,5.0,Education,,University of Hawaii at Manoa
+703,William Yu,0.0,Korean,,University of Hawaii at Manoa
+704,Francoise Robert,2.0,Biology,,University of Hawaii at Manoa
+705,Alex Bergo,2.9,Communication,,University of Hawaii at Manoa
+706,Paula Morelli,5.0,Social Work,,University of Hawaii at Manoa
+707,Rowan Gard,5.0,Anthropology,,University of Hawaii at Manoa
+708,Patricia Halagao,4.7,Education,,University of Hawaii at Manoa
+709,Bruce Houghton,4.5,Geology,,University of Hawaii at Manoa
+710,Bjoern Kjos-Hanssen,2.2,Mathematics,40%,University of Hawaii at Manoa
+711,Steven Itoga,0.0,Computer Science,,University of Hawaii at Manoa
+712,Ilia Roussev,4.7,Astronomy,,University of Hawaii at Manoa
+713,Adriana Diaz,1.0,Spanish,,University of Hawaii at Manoa
+714,Brad Nakamura,0.0,Psychology,,University of Hawaii at Manoa
+715,Rikki Hickey,4.0,Theater,,University of Hawaii at Manoa
+716,Joseph Cardinale,4.3,English,,University of Hawaii at Manoa
+717,Farshad Rajabipour,5.0,Engineering,,University of Hawaii at Manoa
+718,Rawitawan Pulam,0.0,English,,University of Hawaii at Manoa
+719,Alvin Lim,4.7,Political Science,,University of Hawaii at Manoa
+720,David Maine,3.8,English,,University of Hawaii at Manoa
+721,John Laimana,4.0,Hawaiian Studies,,University of Hawaii at Manoa
+722,Esther HU,3.2,Astronomy,,University of Hawaii at Manoa
+723,B.J. Awa,3.7,Economics,0%,University of Hawaii at Manoa
+724,Hikari Nishida,5.0,Japanese,,University of Hawaii at Manoa
+725,QI Chen,3.0,Geography,50%,University of Hawaii at Manoa
+726,Zachary Tomashosky,3.8,French,,University of Hawaii at Manoa
+727,BJ Awa,4.5,Economics,,University of Hawaii at Manoa
+728,Holly Kim,4.9,French,,University of Hawaii at Manoa
+729,Byron Yasui,0.0,Music,,University of Hawaii at Manoa
+730,Cynthia Ning,4.3,Asian Studies,,University of Hawaii at Manoa
+731,David Vicic,2.4,Chemistry,,University of Hawaii at Manoa
+732,Rhian Waller,4.0,Oceanography,,University of Hawaii at Manoa
+733,David Griffith,4.5,Theater,,University of Hawaii at Manoa
+734,Stephen Itoga,1.3,Computer Science,,University of Hawaii at Manoa
+735,Karen Huang,5.0,Linguistics,,University of Hawaii at Manoa
+736,In Mei Sou,1.8,Engineering,,University of Hawaii at Manoa
+737,Peter Mataira,4.8,Social Work,,University of Hawaii at Manoa
+738,Sarah Hadmack,4.6,Religion,,University of Hawaii at Manoa
+739,Stephen Niles,4.1,Fine Arts,,University of Hawaii at Manoa
+740,Hosam Dakhakhni,5.0,Accounting,,University of Hawaii at Manoa
+741,Francisco Brignole,4.0,Spanish,,University of Hawaii at Manoa
+742,Jawee Perla,2.8,Linguistics,100%,University of Hawaii at Manoa
+743,Alexander Gottlieb,4.1,Mathematics,,University of Hawaii at Manoa
+744,Hiro Saito,4.2,Sociology,,University of Hawaii at Manoa
+745,Aleksandar Kavcic,2.8,Engineering,,University of Hawaii at Manoa
+746,Mari Ono,0.0,Social Work,,University of Hawaii at Manoa
+747,Joel Fischer,0.0,Social Work,,University of Hawaii at Manoa
+748,Raquel Avila,5.0,French,,University of Hawaii at Manoa
+749,Wagner Awa,0.0,Economics,,University of Hawaii at Manoa
+750,Kathryn Hoffmann,0.0,French,100%,University of Hawaii at Manoa
+751,Daniel Randerson,4.8,Theater,,University of Hawaii at Manoa
+752,Robert Benham,0.0,Kinesiology,,University of Hawaii at Manoa
+753,Hope Jahren,5.0,Geology,,University of Hawaii at Manoa
+754,Joyce Hwang,2.6,Travel Industry,,University of Hawaii at Manoa
+755,Keita Fukushima,1.9,Physics,,University of Hawaii at Manoa
+756,Jennifer Chandler,3.9,Business,,University of Hawaii at Manoa
+757,Frank Haas,2.5,Travel Industry,,University of Hawaii at Manoa
+758,Moti Chapagain,0.0,Medicine,,University of Hawaii at Manoa
+759,Lani Starkey,4.8,Finance,,University of Hawaii at Manoa
+760,Corilee Watters,4.3,Food Science,,University of Hawaii at Manoa
+761,Willie Marshall,5.0,Nursing,,University of Hawaii at Manoa
+762,Christopher Norton,0.0,Anthropology,,University of Hawaii at Manoa
+763,Herve Collin,4.5,Physics,,University of Hawaii at Manoa
+764,William Chain,4.6,Chemistry,,University of Hawaii at Manoa
+765,Gary Varner,2.0,Physics,0%,University of Hawaii at Manoa
+766,Keri Fehrenbach,2.5,Speech,,University of Hawaii at Manoa
+767,Diane Masuo,2.3,Family Studies,12%,University of Hawaii at Manoa
+768,Byong Lee,2.0,Music,0%,University of Hawaii at Manoa
+769,Keith Fong,3.1,Biochemistry,,University of Hawaii at Manoa
+770,Irina Velicu,1.0,Political Science,,University of Hawaii at Manoa
+771,Nate Brown,0.0,Mathematics,,University of Hawaii at Manoa
+772,Alex Rhinehart,0.0,Kinesiology,,University of Hawaii at Manoa
+773,Gordana Kostich,0.0,Architecture,,University of Hawaii at Manoa
+774,Luca Onnis,0.0,Linguistics,,University of Hawaii at Manoa
+775,Shan Lan,4.5,East Asian Lang. & Literature,,University of Hawaii at Manoa
+776,Geoff Patterson,5.0,Mathematics,,University of Hawaii at Manoa
+777,Barbara Matthews,0.0,Nursing,,University of Hawaii at Manoa
+778,Barbara Kooker,2.5,Nursing,,University of Hawaii at Manoa
+779,Aaron Creller,4.5,Philosophy,100%,University of Hawaii at Manoa
+780,Eric Gaidos,4.0,Geology,100%,University of Hawaii at Manoa
+781,Brent Rubio,4.8,Chemistry,,University of Hawaii at Manoa
+782,Yuma Totani,4.4,History,100%,University of Hawaii at Manoa
+783,Eric Umemoto,3.4,Biology,55%,University of Hawaii at Manoa
+784,Eun Bum Cho,0.0,Management,,University of Hawaii at Manoa
+785,Paul Beaumont,4.5,Chemistry,,University of Hawaii at Manoa
+786,Katie Drager,3.3,Linguistics,,University of Hawaii at Manoa
+787,Alexandra Springer,4.3,Sociology,,University of Hawaii at Manoa
+788,Jason Michael Adams,0.0,Political Science,,University of Hawaii at Manoa
+789,Jason Adams,5.0,Political Science,,University of Hawaii at Manoa
+790,Keao Nesmith,4.2,Hawaiian,100%,University of Hawaii at Manoa
+791,Margaret South,0.0,Academy for Creative Media,,University of Hawaii at Manoa
+792,Kyle Takaki,4.3,Philosophy,,University of Hawaii at Manoa
+793,Gareth Wynn-Williams,2.9,Astronomy,,University of Hawaii at Manoa
+794,Hunter Hatfield,0.0,Linguistics,,University of Hawaii at Manoa
+795,Alexander Vovin,3.9,Japanese,100%,University of Hawaii at Manoa
+796,James Collins,0.0,Linguistics,,University of Hawaii at Manoa
+797,Jennifer Kearns,4.0,Education,100%,University of Hawaii at Manoa
+798,Dusko Pavlovic,3.0,Computer Science,50%,University of Hawaii at Manoa
+799,Kathleen Lewis,0.0,Hawaiian,,University of Hawaii at Manoa
+800,Leora Kava,4.8,English,100%,University of Hawaii at Manoa
+801,Zoia Stoytcheva,4.0,Honors,100%,University of Hawaii at Manoa
+802,Anna Pruitt,4.3,Psychology,100%,University of Hawaii at Manoa
+803,Aaron Hunger,3.0,Political Science,0%,University of Hawaii at Manoa
+804,Hui HE,3.5,Economics,,University of Hawaii at Manoa
+805,Lukasz Grabarek,3.5,Mathematics,100%,University of Hawaii at Manoa
+806,Amy Wisner,4.9,Speech,,University of Hawaii at Manoa
+807,Maria Stewart,4.8,Nutrition,,University of Hawaii at Manoa
+808,Emilio Herrero,3.9,Geology,50%,University of Hawaii at Manoa
+809,Isabella Tobin,4.5,Mathematics,100%,University of Hawaii at Manoa
+810,Lindsay Mochkatel,0.0,Education,,University of Hawaii at Manoa
+811,Ava Fedorov,5.0,Fine Arts,100%,University of Hawaii at Manoa
+812,Alexander Gitter,0.0,History,,University of Hawaii at Manoa
+813,Nandini Chandra,4.3,English,92%,University of Hawaii at Manoa
+814,Theresa Lock,2.8,Education,25%,University of Hawaii at Manoa
+815,Ali Musleh,4.8,Political Science,100%,University of Hawaii at Manoa
+816,Joseph Harroff,4.3,Philosophy,88%,University of Hawaii at Manoa
+817,Marina George,5.0,Art History,100%,University of Hawaii at Manoa
+818,Allison Rieser,2.8,Geography,,University of Hawaii at Manoa
+819,Marc Lizama,1.5,Travel Industry,34%,University of Hawaii at Manoa
+820,Keith Bettinger,4.0,Geography,,University of Hawaii at Manoa
+821,Cristina Bacchilega,5.0,English,,University of Hawaii at Manoa
+822,Makena Coffman,3.3,Urban Planning,,University of Hawaii at Manoa
+823,Priyam Das,4.9,Urban Planning,100%,University of Hawaii at Manoa
+824,Wendy Yamashita,0.0,Music,,University of Hawaii at Manoa
+825,Skylar Powell,4.9,Business,,University of Hawaii at Manoa
+826,Brian Bilsky,4.4,Women's Studies,,University of Hawaii at Manoa
+827,Abbie Neves,0.0,Nursing,,University of Hawaii at Manoa
+828,Adrianna Deise,5.0,Nursing,,University of Hawaii at Manoa
+829,Dana Ing,0.0,Nursing,,University of Hawaii at Manoa
+830,Jason Kumar,3.5,Physics,100%,University of Hawaii at Manoa
+831,Laura Gershuni,5.0,Travel Industry,100%,University of Hawaii at Manoa
+832,Virginia Bennett,2.6,Literature,,University of Hawaii at Manoa
+833,Bobby Ramsey,3.5,Mathematics,,University of Hawaii at Manoa
+834,Pavlina Lutfey,2.3,Music,,University of Hawaii at Manoa
+835,Oh Kyoungwon,4.5,East Asian Lang. & Literature,,University of Hawaii at Manoa
+836,Mary Walworth,4.8,Linguistics,,University of Hawaii at Manoa
+837,Michele Hamada,5.0,Speech,,University of Hawaii at Manoa
+838,Donald Blakely,0.0,Philosophy,,University of Hawaii at Manoa
+839,Emilio Ganitano,0.0,Medicine,,University of Hawaii at Manoa
+840,Meejeong Park,5.0,Korean,,University of Hawaii at Manoa
+841,Soo-Jung Youn,0.0,English Language Institute,,University of Hawaii at Manoa
+842,Matt Judd,2.7,Chemistry,,University of Hawaii at Manoa
+843,Stephen Parrish,5.0,Chemistry,100%,University of Hawaii at Manoa
+844,Frank Walton,3.5,Education,,University of Hawaii at Manoa
+845,Eriza Bareng,5.0,American Studies,,University of Hawaii at Manoa
+846,Helen Saar,0.0,Business,,University of Hawaii at Manoa
+847,Luis Elias,3.0,Physics,,University of Hawaii at Manoa
+848,Sang Gu Kang,0.0,Linguistics,,University of Hawaii at Manoa
+849,Neil Frazer,1.7,Geology,0%,University of Hawaii at Manoa
+850,Bobbi Carlson,3.5,Psychology,,University of Hawaii at Manoa
+851,David McClain,2.9,Economics,50%,University of Hawaii at Manoa
+852,Eusin Kim,0.0,Business,,University of Hawaii at Manoa
+853,Carolyn Constantin,0.0,Nursing,,University of Hawaii at Manoa
+854,Mehana Vaughn,3.8,Natural Resources,67%,University of Hawaii at Manoa
+855,Prabath Silva,1.1,Mathematics,0%,University of Hawaii at Manoa
+856,Marie Brown,3.9,English,50%,University of Hawaii at Manoa
+857,Kazuo Sugihara,2.0,Computer Science,40%,University of Hawaii at Manoa
+858,Achilles Beros,4.5,Mathematics,100%,University of Hawaii at Manoa
+859,Jeffrey Lyons,3.9,Mathematics,89%,University of Hawaii at Manoa
+860,Richard Pratt,5.0,Continuing Education,,University of Hawaii at Manoa
+861,Kristie Matsuyama,3.8,Nursing,,University of Hawaii at Manoa
+862,Michael Liu,4.3,Astronomy,0%,University of Hawaii at Manoa
+863,Meng Zhao,0.0,Communication,,University of Hawaii at Manoa
+864,Brian Cassity,0.0,History,,University of Hawaii at Manoa
+865,Lisa Yanagi,4.0,Kinesiology,50%,University of Hawaii at Manoa
+866,Brenden Burk,4.5,Sociology,,University of Hawaii at Manoa
+867,Ina Sebastian,4.3,Business,,University of Hawaii at Manoa
+868,Steven Gin,4.0,English,25%,University of Hawaii at Manoa
+869,Michelle Koo,2.9,Speech,,University of Hawaii at Manoa
+870,Berkelman Peter,3.0,Engineering,84%,University of Hawaii at Manoa
+871,Botir Okhunjanov,2.3,Economics,0%,University of Hawaii at Manoa
+872,Samantha Barnett,2.0,Political Science,0%,University of Hawaii at Manoa
+873,Marta Gonzalez Lloret,3.6,Languages,100%,University of Hawaii at Manoa
+874,Haidan Wang,2.3,East Asian Lang. & Literature,34%,University of Hawaii at Manoa
+875,Summer Maunakea,5.0,Education,100%,University of Hawaii at Manoa
+876,John Friend,4.5,Political Science,67%,University of Hawaii at Manoa
+877,Wei Huang,3.5,Finance,67%,University of Hawaii at Manoa
+878,Tyrone Sanga,3.7,Academy for Creative Media,67%,University of Hawaii at Manoa
+879,Monica Dadlani,5.0,French,,University of Hawaii at Manoa
+880,Nicole Rabin,4.5,English,,University of Hawaii at Manoa
+881,Sharain Naylor,3.3,Political Science,,University of Hawaii at Manoa
+882,Sven Vahsen,3.9,Physics,100%,University of Hawaii at Manoa
+883,Linda Yamamoto,3.9,Fine Arts,67%,University of Hawaii at Manoa
+884,Susan Wurtzburg,3.5,Sociology,20%,University of Hawaii at Manoa
+885,Timothy Dubuc,0.0,Zoology,100%,University of Hawaii at Manoa
+886,Austin Anderson,2.8,Mathematics,,University of Hawaii at Manoa
+887,Lehua Ledbetter,0.0,English,,University of Hawaii at Manoa
+888,M. Armstrong,1.0,Nursing,,University of Hawaii at Manoa
+889,Nolan Kim,4.1,English,,University of Hawaii at Manoa
+890,Heather Diamond,1.0,East Asian Studies,,University of Hawaii at Manoa
+891,Heiko Wieland,5.0,Marketing,,University of Hawaii at Manoa
+892,Carol McCann,0.0,Nursing,,University of Hawaii at Manoa
+893,Shadia Habbal,3.7,Astronomy,,University of Hawaii at Manoa
+894,Laurel Mei-Singh,4.8,Ethnic Studies,100%,University of Hawaii at Manoa
+895,Jonathan Itokazu,4.0,Engineering,84%,University of Hawaii at Manoa
+896,Rico Vicente,0.0,Mathematics,,University of Hawaii at Manoa
+897,Frank Damas,2.9,Hawaiian,43%,University of Hawaii at Manoa
+898,Lilikala Kameeleihiwa,4.5,Hawaiian Studies,100%,University of Hawaii at Manoa
+899,Roderick Labrador,3.5,Ethnic Studies,58%,University of Hawaii at Manoa
+900,Patrick Patterson,5.0,Asian Studies,100%,University of Hawaii at Manoa
+901,Cody Anderson,0.0,Art History,,University of Hawaii at Manoa
+902,Lucia Aranda,4.6,Spanish,88%,University of Hawaii at Manoa
+903,Eirik Saethre,3.3,Anthropology,100%,University of Hawaii at Manoa
+904,Pipel Heng,3.0,History,0%,University of Hawaii at Manoa
+905,Brandy McDougall,4.7,American Studies,80%,University of Hawaii at Manoa
+906,Cornelius Rubsamen,4.5,English,88%,University of Hawaii at Manoa
+907,Tammy Baker,4.6,Hawaiian,50%,University of Hawaii at Manoa
+908,Sarah Allen,4.5,English,100%,University of Hawaii at Manoa
+909,Jackie Lindo,4.0,Economics,50%,University of Hawaii at Manoa
+910,Debora Halbert,4.7,Political Science,100%,University of Hawaii at Manoa
+911,Sachie Etherington,0.0,Biology,,University of Hawaii at Manoa
+912,Aurora Saulo,1.0,Not Specified,,University of Hawaii at Manoa
+913,Laura Corlew,4.9,Psychology,100%,University of Hawaii at Manoa
+914,Haeree Park,2.8,Languages,,University of Hawaii at Manoa
+915,Blane Benevedes,0.0,Hawaiian Studies,,University of Hawaii at Manoa
+916,Erin Cozen,5.0,Pacific & Asian Studies,,University of Hawaii at Manoa
+917,Ryan Shriver,5.0,Philosophy,,University of Hawaii at Manoa
+918,Katherine Livins,2.9,Psychology,,University of Hawaii at Manoa
+919,Mari Kita,3.6,Sociology,50%,University of Hawaii at Manoa
+920,Ruth Pagell,1.5,Library Science,,University of Hawaii at Manoa
+921,Thomas Carment,0.0,Accounting,,University of Hawaii at Manoa
+922,Shinichiro Fukuda,5.0,Japanese,100%,University of Hawaii at Manoa
+923,Jing Paul,4.8,Languages,,University of Hawaii at Manoa
+924,Wendy Meguro,3.9,Architecture,0%,University of Hawaii at Manoa
+925,Joanne Qina'au,2.5,Psychology,0%,University of Hawaii at Manoa
+926,Kenneth Omolo,3.5,Chemistry,100%,University of Hawaii at Manoa
+927,Alex Hittle,4.6,Finance,94%,University of Hawaii at Manoa
+928,Scott Sinnett,4.1,Psychology,88%,University of Hawaii at Manoa
+929,John Rosa,4.6,History,100%,University of Hawaii at Manoa
+930,Njoroge Njoroge,4.2,American Studies,93%,University of Hawaii at Manoa
+931,Sankaran Krishna,4.6,Political Science,100%,University of Hawaii at Manoa
+932,Shanna Clinton,2.5,Anthropology,,University of Hawaii at Manoa
+933,Yangrae Cho,0.0,Science,,University of Hawaii at Manoa
+934,Laura Allen,0.0,Geography,,University of Hawaii at Manoa
+935,Lawrence Seward,0.0,Fine Arts,,University of Hawaii at Manoa
+936,Baybars Karacaovali,5.0,Economics,100%,University of Hawaii at Manoa
+937,Lawrence Wolfe,2.5,Engineering,,University of Hawaii at Manoa
+938,Robert Ventura,5.0,Political Science,,University of Hawaii at Manoa
+939,Greg Pugh,3.5,Social Work,,University of Hawaii at Manoa
+940,Seunghye Hong,4.0,Social Work,,University of Hawaii at Manoa
+941,Robin Arndt,5.0,Social Work,,University of Hawaii at Manoa
+942,Kathleen Brennan,3.8,Political Science,,University of Hawaii at Manoa
+943,Joseph (iokepa) Salazar,4.1,Political Science,100%,University of Hawaii at Manoa
+944,Jonnah Eagle,4.4,American Studies,100%,University of Hawaii at Manoa
+945,Jonathan Deenik,4.8,Agriculture,100%,University of Hawaii at Manoa
+946,Elizabeth Keith,3.9,East Asian Lang.  Literature,75%,University of Hawaii at Manoa
+947,Margaret Ransdell-Green,0.0,Linguistics,,University of Hawaii at Manoa
+948,Kelli Nakamura,4.4,History,88%,University of Hawaii at Manoa
+949,Joy Lacanienta,3.6,Peace & Conflict Studies,74%,University of Hawaii at Manoa
+950,Jeffrey Lyon,4.1,Religion,50%,University of Hawaii at Manoa
+951,Lyon Lanerolle,2.7,Mathematics,92%,University of Hawaii at Manoa
+952,Sonia Ghumman,4.9,Management,91%,University of Hawaii at Manoa
+953,Nini Li,0.0,Languages,,University of Hawaii at Manoa
+954,Dannie Bobbitt,3.6,Hawaiian,67%,University of Hawaii at Manoa
+955,Nami Kim,5.0,Korean,100%,University of Hawaii at Manoa
+956,Bradley Weiss,0.0,Natural Resources,,University of Hawaii at Manoa
+957,Daisuke Takagi,3.5,Mathematics,86%,University of Hawaii at Manoa
+958,Forest Young,3.4,Anthropology,100%,University of Hawaii at Manoa
+959,Dana Arakawa,4.2,Psychology,75%,University of Hawaii at Manoa
+960,Josephine Calvo,4.4,Theater,,University of Hawaii at Manoa
+961,Brandon Yoza,0.0,Microbiology,,University of Hawaii at Manoa
+962,Jeffrey Traczynski,4.1,Economics,,University of Hawaii at Manoa
+963,Amanda Christie,4.8,English,88%,University of Hawaii at Manoa
+964,Urvashi Chakravarty,3.8,English,,University of Hawaii at Manoa
+965,Sarah Sherman,4.5,Geology,,University of Hawaii at Manoa
+966,Didier Lenglare,4.7,French,100%,University of Hawaii at Manoa
+967,Troy Tada,5.0,Biology,,University of Hawaii at Manoa
+968,D Gefroh,4.5,Mathematics,,University of Hawaii at Manoa
+969,J. Szostak,4.0,Art History,100%,University of Hawaii at Manoa
+970,Laura ORourke,0.0,Anthropology,,University of Hawaii at Manoa
+971,Chuck Gee,4.5,Travel Industry,,University of Hawaii at Manoa
+972,Emerson Odango,4.7,Linguistics,,University of Hawaii at Manoa
+973,Matt Dupont,4.0,Economics,,University of Hawaii at Manoa
+974,Jane Schoonmaker,4.7,Oceanography,,University of Hawaii at Manoa
+975,Nobuo Kubota,4.5,Japanese,,University of Hawaii at Manoa
+976,Christopher Lepczyk,3.8,Natural Resources,50%,University of Hawaii at Manoa
+977,Fong WA,0.0,Not Specified,100%,University of Hawaii at Manoa
+978,Guanpei Ming,3.9,Political Science,100%,University of Hawaii at Manoa
+979,Lisa King,3.7,English,,University of Hawaii at Manoa
+980,Kelly Shinn,0.0,Sociology,,University of Hawaii at Manoa
+981,Christina Low,3.0,English,,University of Hawaii at Manoa
+982,Chizuko Allen,4.5,Asian Pacific American Studies,100%,University of Hawaii at Manoa
+983,Ken Ito,3.8,Japanese Literature,,University of Hawaii at Manoa
+984,Paula Gendreau,2.3,Nursing,,University of Hawaii at Manoa
+985,Jing Zhang Paul,5.0,Not Specified,,University of Hawaii at Manoa
+986,Faanofo Uperesa,3.7,Ethnic Studies,,University of Hawaii at Manoa
+987,Wayne Lewis,5.0,Mathematics,,University of Hawaii at Manoa
+988,Hiroko Sato,4.6,Linguistics,,University of Hawaii at Manoa
+989,Andrea Shearer,0.0,Education,,University of Hawaii at Manoa
+990,Mike Laughlin,0.0,Kinesiology,,University of Hawaii at Manoa
+991,Hongwei LI,4.3,Biology,100%,University of Hawaii at Manoa
+992,Mayumi Owia,0.0,Linguistics,,University of Hawaii at Manoa
+993,Sun-Ki Chai,2.9,Sociology,25%,University of Hawaii at Manoa
+994,Rathina Pandi,2.8,Sociology,,University of Hawaii at Manoa
+995,Claire Morais,3.3,Honors,50%,University of Hawaii at Manoa
+996,Miguel Felipe,4.7,Music,,University of Hawaii at Manoa
+997,Margaret McManus,5.0,Oceanography,,University of Hawaii at Manoa
+998,Creighton Litton,4.8,Natural Resources,,University of Hawaii at Manoa
+999,Ian Talisman,3.5,Chemistry,,University of Hawaii at Manoa
+1000,Doris Christopher,5.0,Education,,University of Hawaii at Manoa
+1001,Robert Swanson,2.6,Engineering,,University of Hawaii at Manoa
+1002,Mayumi Oiwa,3.8,Linguistics,,University of Hawaii at Manoa
+1003,Chelsea L. McCarty,4.5,French,,University of Hawaii at Manoa
+1004,Allen Hanberg,4.8,Nursing,,University of Hawaii at Manoa
+1005,Yujing Shentu,2.8,Languages,,University of Hawaii at Manoa
+1006,Megan Bent,4.8,Fine Arts,100%,University of Hawaii at Manoa
+1007,Nga Nguyen,0.0,Speech,,University of Hawaii at Manoa
+1008,Judy Daniels,5.0,Kinesiology,,University of Hawaii at Manoa
+1009,Kazuhiko Yanagi,3.8,Kinesiology,,University of Hawaii at Manoa
+1010,Todd Shelly,5.0,Honors,,University of Hawaii at Manoa
+1011,Lance Walters,4.1,Architecture,,University of Hawaii at Manoa
+1012,Julio Rivera,0.0,Zoology,,University of Hawaii at Manoa
+1013,Keala Dichens,4.3,English,,University of Hawaii at Manoa
+1014,Tijana Jovanovic-Talisman,5.0,Chemistry,,University of Hawaii at Manoa
+1015,Ho Leung NG,3.5,Chemistry,100%,University of Hawaii at Manoa
+1016,Steven Gray,4.8,Natural Resources,,University of Hawaii at Manoa
+1017,Andrew Rumbach,4.8,Urban Planning,,University of Hawaii at Manoa
+1018,Carolyn Tari-Sanchez,5.0,Nursing,,University of Hawaii at Manoa
+1019,Lucie Dufkova,0.0,French,,University of Hawaii at Manoa
+1020,Tomoki Kimura,4.7,Japanese,100%,University of Hawaii at Manoa
+1021,Erin Yuasa,4.8,Fine Arts,,University of Hawaii at Manoa
+1022,Sean Trundle,5.0,American Studies,,University of Hawaii at Manoa
+1023,Hunter McEwan,0.0,Education,,University of Hawaii at Manoa
+1024,XU DI,4.5,Education,100%,University of Hawaii at Manoa
+1025,Allison Tsuchida,0.0,Health Science,,University of Hawaii at Manoa
+1026,Pedro Villarreal,3.5,Management,58%,University of Hawaii at Manoa
+1027,Shana Brown,4.2,History,91%,University of Hawaii at Manoa
+1028,Wesley Lucas,4.5,Business,97%,University of Hawaii at Manoa
+1029,Ronald Nicholas,3.4,Business,84%,University of Hawaii at Manoa
+1030,Carole Petersen,2.6,Law,75%,University of Hawaii at Manoa
+1031,Benjamin Chu,5.0,Economics,100%,University of Hawaii at Manoa
+1032,Lisa Vallin,5.0,Women's Studies,100%,University of Hawaii at Manoa
+1033,Blair Finlayson,5.0,Communication,100%,University of Hawaii at Manoa
+1034,Kristy Bowen,4.6,Psychology,100%,University of Hawaii at Manoa
+1035,Joseph Stepec,2.5,Music,100%,University of Hawaii at Manoa
+1036, Hamid Bouaicha,0.0,Economics,100%,University of Hawaii at Manoa
+1037,Christian Bergum,2.4,Architecture,67%,University of Hawaii at Manoa
+1038,Jennifer Joines,0.0,Political Science,,University of Hawaii at Manoa
+1039,Thayanan Phuaphanthong,3.3,Business,57%,University of Hawaii at Manoa
+1040,Alex Golub,3.0,Anthropology,23%,University of Hawaii at Manoa
+1041,Chie Fukuda,3.9,Japanese,50%,University of Hawaii at Manoa
+1042,Hui-Ju Chuang,4.6,East Asian Lang. & Literature,100%,University of Hawaii at Manoa
+1043,Brigitte Nicolet,3.4,French,80%,University of Hawaii at Manoa
+1044,Kenneth Regh,2.0,Linguistics,,University of Hawaii at Manoa
+1045,Sarah Fukumoto,0.0,Speech,,University of Hawaii at Manoa
+1046,Alex Morrison,4.0,Anthropology,,University of Hawaii at Manoa
+1047,Sean Koegel,3.3,Education,,University of Hawaii at Manoa
+1048,Nicolas Fernandez,4.9,Physics,,University of Hawaii at Manoa
+1049,Kathleen Tran,4.8,Education,,University of Hawaii at Manoa
+1050,Gina Cardazone,5.0,Psychology,,University of Hawaii at Manoa
+1051,Mihyang Ahn,0.0,Sociology,,University of Hawaii at Manoa
+1052,Deon Canyon,0.0,Public Health,,University of Hawaii at Manoa
+1053,Lu Liang,4.3,Psychology,,University of Hawaii at Manoa
+1054,Maribel Zaporteza,2.7,Microbiology,,University of Hawaii at Manoa
+1055,Sarah-Kalicki Nakamura,4.8,Travel Industry,,University of Hawaii at Manoa
+1056,Stuart Donachie,4.2,Microbiology,100%,University of Hawaii at Manoa
+1057,Becky Handle,3.0,Kinesiology,,University of Hawaii at Manoa
+1058,Doug McCulloch,4.5,Music,,University of Hawaii at Manoa
+1059,Kwanglim Seo,3.0,Travel Industry,100%,University of Hawaii at Manoa
+1060,Ken Rubin,5.0,Geology,,University of Hawaii at Manoa
+1061,Peter Berkelman,2.0,Engineering,0%,University of Hawaii at Manoa
+1062,David Strauch,4.0,Geography,100%,University of Hawaii at Manoa
+1063,Lipyeow Lim,3.3,Computer Science,,University of Hawaii at Manoa
+1064,Brian Shevelenko,4.3,Theater,100%,University of Hawaii at Manoa
+1065,Christina Higgins,3.9,Languages,0%,University of Hawaii at Manoa
+1066,Haley Zdybel,4.3,French,,University of Hawaii at Manoa
+1067,Erik Van Erp,5.0,Mathematics,,University of Hawaii at Manoa
+1068,Shawn Arita,3.6,Economics,,University of Hawaii at Manoa
+1069,Thuy Da Lam,4.3,English,100%,University of Hawaii at Manoa
+1070,Noriko Asato,4.0,Library Science,,University of Hawaii at Manoa
+1071,Ryan Knight,4.5,Political Science,,University of Hawaii at Manoa
+1072,Na Young Kim,5.0,Korean,,University of Hawaii at Manoa
+1073,Thilanka Appuhamillage,4.3,Mathematics,,University of Hawaii at Manoa
+1074,Elizabeth Letchford,4.9,Kinesiology,,University of Hawaii at Manoa
+1075,Marny Hall-Moriyasu,5.0,Nursing,,University of Hawaii at Manoa
+1076,Ellen Ben-Sefer,4.9,Nursing,,University of Hawaii at Manoa
+1077,Bryan Bushley,3.3,Urban Planning,,University of Hawaii at Manoa
+1078,Junko Imai,2.3,Not Specified,,University of Hawaii at Manoa
+1079,Sydney Coelho,4.8,Hawaiian Studies,,University of Hawaii at Manoa
+1080,Kerry San Chirico,4.1,Religion,0%,University of Hawaii at Manoa
+1081,Dongmin Kim,4.3,Korean,100%,University of Hawaii at Manoa
+1082,Tamara Smith,5.0,Spanish,100%,University of Hawaii at Manoa
+1083,Kristen Bean,3.5,Social Work,,University of Hawaii at Manoa
+1084,Rosalie Schreiber,1.3,Nursing,,University of Hawaii at Manoa
+1085,Salvatore Aurigemma,5.0,Business,100%,University of Hawaii at Manoa
+1086,Jeff Kuwabara,0.0,Biology,,University of Hawaii at Manoa
+1087,Keisha Rogers,0.0,Kinesiology,,University of Hawaii at Manoa
+1088,Sedef Maloy,4.3,Chemistry,,University of Hawaii at Manoa
+1089,Kenneth Hayes,3.8,Biology,,University of Hawaii at Manoa
+1090,Kapena Landgraf,4.5,English,93%,University of Hawaii at Manoa
+1091,Suzanne Kosanke,4.1,English,,University of Hawaii at Manoa
+1092,Frederick Larson,4.7,Journalism,,University of Hawaii at Manoa
+1093,John Rush,3.2,Economics,,University of Hawaii at Manoa
+1094,Steve Chailloux,2.8,Not Specified,0%,University of Hawaii at Manoa
+1095,Novelynn Rubsamen,4.8,English,,University of Hawaii at Manoa
+1096,Williaqm Wood,5.0,Sociology,,University of Hawaii at Manoa
+1097,Ellen Hoffman,4.5,Education,,University of Hawaii at Manoa
+1098,Larry Catungal,5.0,Music,,University of Hawaii at Manoa
+1099,Veronica Bindi,2.4,Physics,0%,University of Hawaii at Manoa
+1100,Joel LeBel,5.0,Philosophy,,University of Hawaii at Manoa
+1101,Wendan LI,3.6,Languages,100%,University of Hawaii at Manoa
+1102,Katherine Love,3.0,Fine Arts,,University of Hawaii at Manoa
+1103,Jeffrey Acido,4.2,Asian Studies,,University of Hawaii at Manoa
+1104,J Grissmerson,4.6,Chemistry,,University of Hawaii at Manoa
+1105,Alex Holowicki,4.9,History,,University of Hawaii at Manoa
+1106,John (jack) Barile,4.7,Psychology,100%,University of Hawaii at Manoa
+1107,Karissa Murrell Myers,4.5,Theater,,University of Hawaii at Manoa
+1108,David Cicero,3.0,Psychology,,University of Hawaii at Manoa
+1109,Jovanie De La Cruz,5.0,Filipino,,University of Hawaii at Manoa
+1110,James Kieler,3.8,Economics,,University of Hawaii at Manoa
+1111,Christella Guzman,0.0,Nursing,,University of Hawaii at Manoa
+1112,Maya Iriondo Simek,3.2,Spanish,,University of Hawaii at Manoa
+1113,Oceana Francis,1.5,Engineering,34%,University of Hawaii at Manoa
+1114,Deborah Fitzgerald,3.6,Travel Industry,100%,University of Hawaii at Manoa
+1115,Jennifer Beamer,0.0,Library Science,,University of Hawaii at Manoa
+1116,Joe Ramos,4.5,Medicine,,University of Hawaii at Manoa
+1117,Sara Cook,4.5,Education,,University of Hawaii at Manoa
+1118,Haidan Wang,0.0,Languages,,University of Hawaii at Manoa
+1119,Ken Lawson,5.0,Law,100%,University of Hawaii at Manoa
+1120,Tyler Heston,2.8,Linguistics,0%,University of Hawaii at Manoa
+1121,Mary Jo Freshley,4.0,Theatre & Dance,50%,University of Hawaii at Manoa
+1122,Maya Portner,3.3,Fine Arts,0%,University of Hawaii at Manoa
+1123,Rammy Haija,4.8,Sociology,,University of Hawaii at Manoa
+1124,Guy Kaulukukui,2.0,Economics,,University of Hawaii at Manoa
+1125,Nathan Black,5.0,Food Science,,University of Hawaii at Manoa
+1126,Michael Tsai,4.5,Education,,University of Hawaii at Manoa
+1127,Jonathan Dial,4.4,Sociology,100%,University of Hawaii at Manoa
+1128,Zhengqing Yun,2.2,Engineering,29%,University of Hawaii at Manoa
+1129,Pooja Sreekakula,0.0,Education,,University of Hawaii at Manoa
+1130,Andrea Berez,0.0,Linguistics,,University of Hawaii at Manoa
+1131,Ann Akamine,0.0,Dental Hygiene,,University of Hawaii at Manoa
+1132,Carolyn Kuba,0.0,Dental Hygiene,,University of Hawaii at Manoa
+1133,Gina Lau,0.0,Dental Hygiene,,University of Hawaii at Manoa
+1134,Kristine Osada,1.0,Dental Hygiene,0%,University of Hawaii at Manoa
+1135,Katherine Bennett,4.5,Social Work,100%,University of Hawaii at Manoa
+1136,Nicole Lautze,4.5,Geology,100%,University of Hawaii at Manoa
+1137,Clinton Conrad,4.3,Geology,,University of Hawaii at Manoa
+1138,Michael Garcia,2.0,Geology,,University of Hawaii at Manoa
+1139,Gregory Ravizza,4.5,Geology,100%,University of Hawaii at Manoa
+1140,Ralph Moberly,0.0,Geology,,University of Hawaii at Manoa
+1141,Aly Al-Kadi,0.0,Geology,,University of Hawaii at Manoa
+1142,Eric Hellebrand,0.0,Geology,,University of Hawaii at Manoa
+1143,Christian Miller,0.0,Geology,,University of Hawaii at Manoa
+1144,John Sinton,0.0,Geology,,University of Hawaii at Manoa
+1145,Garrett Ito,0.0,Geology,,University of Hawaii at Manoa
+1146,Gerard Elmore,2.0,Academy for Creative Media,0%,University of Hawaii at Manoa
+1147,Megan Carpenter,5.0,Psychology,,University of Hawaii at Manoa
+1148,Mariana Latimer,4.7,Spanish,,University of Hawaii at Manoa
+1149,Karyl Reynolds,4.9,English,,University of Hawaii at Manoa
+1150,Jonathan (Cheng-Chuen) Kuo,2.0,Languages & Linguistics,,University of Hawaii at Manoa
+1151,Katherine Neibel,1.7,Microbiology,0%,University of Hawaii at Manoa
+1152,Allan Yashinski,3.9,Mathematics,,University of Hawaii at Manoa
+1153,Laura Boehm,2.9,Nursing,100%,University of Hawaii at Manoa
+1154,Benjamin Zenk,4.6,Philosophy,100%,University of Hawaii at Manoa
+1155,Marty Oliphant,4.8,Social Work,,University of Hawaii at Manoa
+1156,Andrei Natarov,2.2,Chemistry,19%,University of Hawaii at Manoa
+1157,Mary Baker,3.3,Political Science,,University of Hawaii at Manoa
+1158,Christopher Nold,2.5,Chemistry,,University of Hawaii at Manoa
+1159,Te Roa,4.8,Languages,,University of Hawaii at Manoa
+1160,Brant Songsong,0.0,Languages,,University of Hawaii at Manoa
+1161,Michael Amrhein,5.0,Psychology,,University of Hawaii at Manoa
+1162,Mihajlo Kornicer,1.3,Physics,,University of Hawaii at Manoa
+1163,Hallory Ho,2.8,Nursing,,University of Hawaii at Manoa
+1164,Nathaniel Hartmann,4.8,Marketing,100%,University of Hawaii at Manoa
+1165,Stephen Martel,3.4,Geology,0%,University of Hawaii at Manoa
+1166,Krista Brown,4.9,Psychology,,University of Hawaii at Manoa
+1167,Skyler Kawahara,4.3,Theatre & Dance,,University of Hawaii at Manoa
+1168,Jill Williams,3.8,Geography,,University of Hawaii at Manoa
+1169,Theres Gruter,4.5,Languages & Linguistics,100%,University of Hawaii at Manoa
+1170,Liezel Pagala,5.0,Design,,University of Hawaii at Manoa
+1171,William Chapman,4.9,American Studies,100%,University of Hawaii at Manoa
+1172,Maria Diez,5.0,Spanish,,University of Hawaii at Manoa
+1173,Chloe Desmoulins,5.0,French,,University of Hawaii at Manoa
+1174,Shailesh Namekar,4.0,Engineering,,University of Hawaii at Manoa
+1175,Maylene Pascual,5.0,Nursing,,University of Hawaii at Manoa
+1176,Shawna Ryan,4.8,English,,University of Hawaii at Manoa
+1177,Joe Smith,5.0,Kinesiology,100%,University of Hawaii at Manoa
+1178,Crystal Cooper,4.5,Sociology,,University of Hawaii at Manoa
+1179,Jonny Kim,2.0,Linguistics,,University of Hawaii at Manoa
+1180,Lucille Gilbert,3.8,Communicology,60%,University of Hawaii at Manoa
+1181,Robin O'Day,5.0,Sociology,,University of Hawaii at Manoa
+1182,Ivonne Chambi,3.6,Spanish,,University of Hawaii at Manoa
+1183,Sook Suh,2.0,Korean,,University of Hawaii at Manoa
+1184,Christine Malsbary,0.0,Education,,University of Hawaii at Manoa
+1185,Angel Camacho,4.7,Sociology,89%,University of Hawaii at Manoa
+1186,Torsha Bhattacharya,5.0,Travel Industry,,University of Hawaii at Manoa
+1187,Matthew Izor,4.8,Philosophy,100%,University of Hawaii at Manoa
+1188,Lisa Shea,4.8,English,,University of Hawaii at Manoa
+1189,Stephen Margosiak,2.1,Chemistry,,University of Hawaii at Manoa
+1190,Brenda Clark,4.5,Linguistics,,University of Hawaii at Manoa
+1191,Martina Bingham,5.0,Music,,University of Hawaii at Manoa
+1192,Katharine Beutner,3.6,English,50%,University of Hawaii at Manoa
+1193,Brian Faria,5.0,Hawaiian,100%,University of Hawaii at Manoa
+1194,Jiyoung Kim,2.0,Korean,0%,University of Hawaii at Manoa
+1195,Cheri Vasek,5.0,Theater,,University of Hawaii at Manoa
+1196,Bill Ogilvie,5.0,Theater,,University of Hawaii at Manoa
+1197,Lurana O'Malley,3.9,Theater,50%,University of Hawaii at Manoa
+1198,John Branner,5.0,Theater,100%,University of Hawaii at Manoa
+1199,Patricia Leong,4.0,Theatre & Dance,,University of Hawaii at Manoa
+1200,Hannah Schauer,0.0,Theater,,University of Hawaii at Manoa
+1201,Marty Myers,5.0,Theater,,University of Hawaii at Manoa
+1202,Robert Armstrong,0.0,Communication,,University of Hawaii at Manoa
+1203,Sarah Fischbach,5.0,Marketing,,University of Hawaii at Manoa
+1204,Jeanette Hall,5.0,American Studies,,University of Hawaii at Manoa
+1205,Joung Mok Lee,5.0,Korean,,University of Hawaii at Manoa
+1206,Anna Stirr,3.4,Asian Studies,67%,University of Hawaii at Manoa
+1207,Rebecca Romine,4.3,Kinesiology,,University of Hawaii at Manoa
+1208,Fa'Afetai Lesa,4.8,Languages,100%,University of Hawaii at Manoa
+1209,William Williams,1.5,Fine Arts,0%,University of Hawaii at Manoa
+1210,Virginia Hench,0.0,Law,,University of Hawaii at Manoa
+1211,Edward Weldon,0.0,Engineering,,University of Hawaii at Manoa
+1212,Leane Darling,5.0,Spanish,,University of Hawaii at Manoa
+1213,Yong Soo Kim,0.0,Agriculture,,University of Hawaii at Manoa
+1214,Maria Diaz,4.8,Spanish,,University of Hawaii at Manoa
+1215,Raghu Srinivasan,4.7,Engineering,,University of Hawaii at Manoa
+1216,Donovan Colleps,4.0,English,,University of Hawaii at Manoa
+1217,Samantha O'Hanlon,3.9,Psychology,,University of Hawaii at Manoa
+1218,Jennifer Kwak,3.0,Psychology,25%,University of Hawaii at Manoa
+1219,Abraham Flores Jr,5.0,Languages,100%,University of Hawaii at Manoa
+1220,Francois Ramaroson,3.0,Mathematics,,University of Hawaii at Manoa
+1221,Abi Good,0.0,Fine Arts,,University of Hawaii at Manoa
+1222,Kristen Gleason,3.2,Psychology,,University of Hawaii at Manoa
+1223,Sydney Morrow,4.6,Philosophy,100%,University of Hawaii at Manoa
+1224,Jack Taylor,4.1,English,80%,University of Hawaii at Manoa
+1225,Alice Te Punga Somerville,4.0,English,,University of Hawaii at Manoa
+1226,Allison Henward,4.5,Education,,University of Hawaii at Manoa
+1227,Nana Suzumura,5.0,Japanese,100%,University of Hawaii at Manoa
+1228,Suzanne Roig,4.3,Journalism,50%,University of Hawaii at Manoa
+1229,Alice Kang,0.0,Mathematics,,University of Hawaii at Manoa
+1230,Jared Mukai,5.0,Mathematics,,University of Hawaii at Manoa
+1231,Ann Castelfranco,1.1,Mathematics,,University of Hawaii at Manoa
+1232,Laura Yee,4.8,Speech,,University of Hawaii at Manoa
+1233,Sofia de la Sota,0.0,Biology,,University of Hawaii at Manoa
+1234,Alexander Krieg,5.0,Psychology,,University of Hawaii at Manoa
+1235,Mushfeq Khan,4.5,Mathematics,100%,University of Hawaii at Manoa
+1236,Nozomi Tanaka,3.2,Linguistics,100%,University of Hawaii at Manoa
+1237,Troy Apostol,4.0,Theater,,University of Hawaii at Manoa
+1238,Madeleine  Soder,4.4,Fine Arts,67%,University of Hawaii at Manoa
+1239,Amanda Fenner,4.0,Chemistry,100%,University of Hawaii at Manoa
+1240,Dominik Kalisch,1.9,Business,0%,University of Hawaii at Manoa
+1241,Sanna King,4.2,Sociology,0%,University of Hawaii at Manoa
+1242,Prem Phyak,0.0,Languages,,University of Hawaii at Manoa
+1243,Moana Nepia,2.1,Pacific  Asian Studies,34%,University of Hawaii at Manoa
+1244,Julia Peres Guimaraes,4.0,Political Science,,University of Hawaii at Manoa
+1245,Andrew Grandinetti,4.2,Public Health,100%,University of Hawaii at Manoa
+1246,Michael Uptegrove ,4.0,Spanish,,University of Hawaii at Manoa
+1247,Brian  Turano,5.0,Science,,University of Hawaii at Manoa
+1248,Travis Lockwood,5.0,English Language Institute,,University of Hawaii at Manoa
+1249,Kevin Bennett,3.9,Biology,62%,University of Hawaii at Manoa
+1250,Cheri Tarutani,0.0,Social Work,,University of Hawaii at Manoa
+1251,Paul Bienfang,0.0,Oceanography,,University of Hawaii at Manoa
+1252,Elizabeth Soto,4.7,English,50%,University of Hawaii at Manoa
+1253,Ladan Hamedani,5.0,Languages,100%,University of Hawaii at Manoa
+1254,Daniele Spirandelli,4.0,Urban Planning,100%,University of Hawaii at Manoa
+1255,Jessica Tan,1.5,American Studies,0%,University of Hawaii at Manoa
+1256,Lucia Puente Trevino,2.0,Theater,,University of Hawaii at Manoa
+1257,Carey Moyer,4.8,Business,100%,University of Hawaii at Manoa
+1258,Carol  Beresiwsky,0.0,Spanish,,University of Hawaii at Manoa
+1259,Jason Leigh,3.8,Computer Science,74%,University of Hawaii at Manoa
+1260,john friend,0.0,Business,100%,University of Hawaii at Manoa
+1261,Evan Jordan,4.7,Travel Industry,100%,University of Hawaii at Manoa
+1262,Rebecca Evans,3.4,English,,University of Hawaii at Manoa
+1263,M. Cristi-Kim,0.0,Family  Consumer Sciences,,University of Hawaii at Manoa
+1264,Hyunjoo Hwang,0.0,Travel Industry,,University of Hawaii at Manoa
+1265,Edward Lasky,0.0,Classics,,University of Hawaii at Manoa
+1266,Veselina Lambrev,4.5,Education,100%,University of Hawaii at Manoa
+1267,Sooran Pak,4.5,Korean,100%,University of Hawaii at Manoa
+1268,Harry Hale,4.8,Japanese,,University of Hawaii at Manoa
+1269,Talitha Amalia,5.0,Languages,100%,University of Hawaii at Manoa
+1270,Elizabeth  Harper ,4.0,Communicology,100%,University of Hawaii at Manoa
+1271,Janet Graham,4.4,English,100%,University of Hawaii at Manoa
+1272,Gordon Lee,5.0,Education,,University of Hawaii at Manoa
+1273,Jonathan Whitney,0.0,Biology,,University of Hawaii at Manoa
+1274,Gabriel Amos,2.2,Mathematics,10%,University of Hawaii at Manoa
+1275,Julie Walsh,0.0,Pacific  Asian Studies,100%,University of Hawaii at Manoa
+1276,Mihoko Sawada,0.0,Linguistics,,University of Hawaii at Manoa
+1277,Shantelle Kaaialii,3.9,Religion,80%,University of Hawaii at Manoa
+1278,Keith Weiser,3.1,Microbiology,100%,University of Hawaii at Manoa
+1279,Kaveh Abhari,4.8,Business,100%,University of Hawaii at Manoa
+1280,Martha Crosby,1.1,Computer Science,0%,University of Hawaii at Manoa
+1281,Marie Fialkowski,3.6,Nutrition,50%,University of Hawaii at Manoa
+1282,Bryant Murakami,5.0,Academy for Creative Media,100%,University of Hawaii at Manoa
+1283,Grant Carvalho,4.0,Music,,University of Hawaii at Manoa
+1284,Robert  Harron,3.2,Mathematics,0%,University of Hawaii at Manoa
+1285,Bob Cooney,4.7,Public Health,100%,University of Hawaii at Manoa
+1286,Tawei David Wang,3.0,Accounting,,University of Hawaii at Manoa
+1287,Bret Freemyer,4.1,Kinesiology,100%,University of Hawaii at Manoa
+1288,Victoria Chen,5.0,Linguistics,100%,University of Hawaii at Manoa
+1289,Vera Hanaoka,3.4,Japanese,50%,University of Hawaii at Manoa
+1290,Megan Edwards,2.0,Anthropology,,University of Hawaii at Manoa
+1291,Xiangrong Zhou,1.0,Engineering,,University of Hawaii at Manoa
+1292,Elan Stopnitzky,0.0,Physics,,University of Hawaii at Manoa
+1293,Jennifer Padua,0.0,Education,,University of Hawaii at Manoa
+1294,Thomas Pearson,0.0,Accounting,,University of Hawaii at Manoa
+1295,Justice Quick,4.0,Communicology,100%,University of Hawaii at Manoa
+1296,Di Sun,3.5,Languages,,University of Hawaii at Manoa
+1297,Bin Shen,3.2,Business,34%,University of Hawaii at Manoa
+1298,Singh Amarjit,0.0,Sociology,,University of Hawaii at Manoa
+1299,Nicole Muszynski,4.9,Psychology,100%,University of Hawaii at Manoa
+1300,Yoriko Ito,4.3,Japanese,,University of Hawaii at Manoa
+1301,Sean Sanford,0.0,Mathematics,,University of Hawaii at Manoa
+1302,Jean Butel,5.0,Public Health,,University of Hawaii at Manoa
+1303,Daniela Gonzalez Quezada,5.0,Languages  Linguistics,,University of Hawaii at Manoa
+1304,Alex Mawyer,3.6,Pacific  Asian Studies,25%,University of Hawaii at Manoa
+1305,Gaur Johnson,4.7,Engineering,100%,University of Hawaii at Manoa
+1306,Radovan Milincic,0.0,Physics,,University of Hawaii at Manoa
+1307,Alexander Smith,5.0,Linguistics,,University of Hawaii at Manoa
+1308,Naemi Tanaka McPherson,4.6,Japanese,,University of Hawaii at Manoa
+1309,Patricia Masters,4.0,Ethnic Studies,,University of Hawaii at Manoa
+1310,Victoria Fan,4.8,Public Health,100%,University of Hawaii at Manoa
+1311,Ana Gonzalez Hernando,4.3,Spanish,100%,University of Hawaii at Manoa
+1312,Leinaala  Song,5.0,Chemistry,,University of Hawaii at Manoa
+1313,Emily Gazda,2.8,English Language Institute,0%,University of Hawaii at Manoa
+1314,Sang Hae Lee,4.5,Korean,,University of Hawaii at Manoa
+1315,Colleen Carpinella,2.5,Psychology,,University of Hawaii at Manoa
+1316,John  Vandercook,1.0,Journalism,,University of Hawaii at Manoa
+1317,So Young Lee,5.0,Korean,,University of Hawaii at Manoa
+1318,Jennifer Rose,5.0,Law,,University of Hawaii at Manoa
+1319,Rajam Raghunathan,4.4,Philosophy,,University of Hawaii at Manoa
+1320,Raul Rudoy,5.0,Medicine,,University of Hawaii at Manoa
+1321,Matt Cavert,4.0,French,0%,University of Hawaii at Manoa
+1322,Li-Anne  Delavega,4.5,English,100%,University of Hawaii at Manoa
+1323,Lianne Delavega,4.0,English,,University of Hawaii at Manoa
+1324,Angeline  Nariswari,4.5,Marketing,,University of Hawaii at Manoa
+1325,Ashley Morris,4.5,Psychology,,University of Hawaii at Manoa
+1326,Meagan Dailey,2.6,Linguistics,,University of Hawaii at Manoa
+1327,Yingfei Dong,2.3,Engineering,100%,University of Hawaii at Manoa
+1328,Charlene Tomas,4.0,Ethnic Studies,,University of Hawaii at Manoa
+1329,Mai Yamamoto,5.0,Japanese,,University of Hawaii at Manoa
+1330,Melinda Smith,3.7,English,,University of Hawaii at Manoa
+1331,Stuart Huang,1.8,Law,,University of Hawaii at Manoa
+1332,Eunsung  Kan,3.8,Science,100%,University of Hawaii at Manoa
+1333,Chiara Logli,4.5,Education,,University of Hawaii at Manoa
+1334,Timothy Callais,4.8,Theater,100%,University of Hawaii at Manoa
+1335,Tagi Qolouvaki,4.1,English,88%,University of Hawaii at Manoa
+1336,Matthew Winfree,4.4,Psychology,,University of Hawaii at Manoa
+1337,Teresa Lane,1.5,Spanish,,University of Hawaii at Manoa
+1338,Erik Holmes,5.0,Mathematics,,University of Hawaii at Manoa
+1339,Christian Squire,0.0,Chemistry,,University of Hawaii at Manoa
+1340,Noa Lincoln,2.6,Environmental Studies,34%,University of Hawaii at Manoa
+1341,Hannah-Hanh Nguyen,4.3,Business,100%,University of Hawaii at Manoa
+1342,Roman Shishkin,3.0,Economics,50%,University of Hawaii at Manoa
+1343,Ropeti Ale,0.0,Languages,,University of Hawaii at Manoa
+1344,Amanda Bowers,2.7,Physics,,University of Hawaii at Manoa
+1345,Mark Wilding,4.3,Languages,,University of Hawaii at Manoa
+1346,Robert Jedicke,3.1,Astronomy,40%,University of Hawaii at Manoa
+1347,Jing  Zhou,4.8,Languages,,University of Hawaii at Manoa
+1348,Mari Miyao,0.0,Languages,,University of Hawaii at Manoa
+1349,Homer Williams,0.0,Architecture,,University of Hawaii at Manoa
+1350,Chamil Rathnayake,4.5,Communication,,University of Hawaii at Manoa
+1351,bal Sharma,0.0,Linguistics,,University of Hawaii at Manoa
+1352,Minako McCarthy ,3.7,Design,100%,University of Hawaii at Manoa
+1353,Troy Takahashi,0.0,History,,University of Hawaii at Manoa
+1354,Alice Tse,0.0,Nursing,,University of Hawaii at Manoa
+1355,Xiaodong Sun,1.4,Economics,,University of Hawaii at Manoa
+1356,Min Liu,1.0,Education,0%,University of Hawaii at Manoa
+1357,Dale Meyers ,2.4,Mathematics,100%,University of Hawaii at Manoa
+1358,Molly  Green ,4.8,Biology,,University of Hawaii at Manoa
+1359,John Wilding,0.0,Languages  Linguistics,,University of Hawaii at Manoa
+1360,Raymond Jarman,5.0,Family Studies,100%,University of Hawaii at Manoa
+1361,Ladan Hamedani ,4.0,Indo-Pacific Languages  Literatures,,University of Hawaii at Manoa
+1362,Jeremy Lemarie,4.1,Anthropology,,University of Hawaii at Manoa
+1363,Jade Higa,5.0,English,100%,University of Hawaii at Manoa
+1364,Jacob Terrell,0.0,Languages,,University of Hawaii at Manoa
+1365,Benjamin Fairfield,0.0,Music,,University of Hawaii at Manoa
+1366,Claire Morais,3.7,Business,100%,University of Hawaii at Manoa
+1367,Britton Brooks,4.3,English,58%,University of Hawaii at Manoa
+1368,Jennie Jin,4.2,Anthropology,,University of Hawaii at Manoa
+1369,Lauren Kaiser,2.3,Geography,34%,University of Hawaii at Manoa
+1370,Kyu Seek  Hwang-Jackson,1.3,Korean,,University of Hawaii at Manoa
+1371,Henry Leung,4.9,English,100%,University of Hawaii at Manoa
+1372,Dante Delfino,3.8,Spanish,100%,University of Hawaii at Manoa
+1373,Cheryl  Gibby,2.8,Food Science,67%,University of Hawaii at Manoa
+1374,Lisa Fat,3.3,Family Studies,0%,University of Hawaii at Manoa
+1375,Melissa Price,4.5,Natural Resources,100%,University of Hawaii at Manoa
+1376,Kathleen Lindsey,2.5,Hawaiian Studies,100%,University of Hawaii at Manoa
+1377,Kristin Kumashiro,4.5,Chemistry,88%,University of Hawaii at Manoa
+1378,Michael Weems,2.0,English,0%,University of Hawaii at Manoa
+1379,Hang Le,0.0,Languages,,University of Hawaii at Manoa
+1380,Izumi Okado,4.8,Psychology,100%,University of Hawaii at Manoa
+1381,Kim Hwanhee,5.0,Korean,100%,University of Hawaii at Manoa
+1382,Jeanette Purvis,4.9,Psychology,100%,University of Hawaii at Manoa
+1383,Geoff Mathews,0.0,Astronomy,,University of Hawaii at Manoa
+1384,John McDonald,4.8,Classics,100%,University of Hawaii at Manoa
+1385,Maria DelGreco,0.0,Communicology,,University of Hawaii at Manoa
+1386,Megan Wharton,0.0,Communicology,,University of Hawaii at Manoa
+1387,Charles Mueller,0.0,Psychology,,University of Hawaii at Manoa
+1388,Kathryn Anbe,3.5,Business,100%,University of Hawaii at Manoa
+1389,Rajiv Mohabir,4.1,English,75%,University of Hawaii at Manoa
+1390,Wenyi Ling,5.0,Languages  Linguistics,,University of Hawaii at Manoa
+1391,Wei-Li Hsu,4.5,Linguistics,,University of Hawaii at Manoa
+1392,Hyunah Ahn,1.0,Languages  Linguistics,0%,University of Hawaii at Manoa
+1393,Clyde Min,1.4,Travel Industry,,University of Hawaii at Manoa
+1394,Stephanie Pysher,5.0,Nutrition,,University of Hawaii at Manoa
+1395,Cassidy Copeland,4.3,Linguistics,67%,University of Hawaii at Manoa
+1396,Elyse Byrnes,5.0,Philosophy,100%,University of Hawaii at Manoa
+1397,Kayden Iwasaki,5.0,Speech,100%,University of Hawaii at Manoa
+1398,Alison Rieser,1.0,Geography,0%,University of Hawaii at Manoa
+1399,Neghin Modavi,2.0,Travel Industry,50%,University of Hawaii at Manoa
+1400,Bernadette Baraquio,0.0,Journalism,100%,University of Hawaii at Manoa
+1401,Sherrie White,4.4,Journalism,80%,University of Hawaii at Manoa
+1402,Tomas Walker,4.5,Fine Arts,100%,University of Hawaii at Manoa
+1403,James Youn,4.5,Marketing,84%,University of Hawaii at Manoa
+1404,Vince Okada,5.0,Social Work,100%,University of Hawaii at Manoa
+1405,Norman Thompson,5.0,English,100%,University of Hawaii at Manoa
+1406,Jacob Terrel,0.0,Linguistics,,University of Hawaii at Manoa
+1407,Mark Slovak,3.8,Physics,77%,University of Hawaii at Manoa
+1408,Saba Kam,5.0,Nursing,,University of Hawaii at Manoa
+1409,Ruri Yoshii,5.0,Japanese,100%,University of Hawaii at Manoa
+1410,Joseph Greene,5.0,Communication,,University of Hawaii at Manoa
+1411,Joanne Loos,3.9,Communication,84%,University of Hawaii at Manoa
+1412,Nyle Kauweloa,4.3,Communication,100%,University of Hawaii at Manoa
+1413,Paul Thornton,0.0,Psychology,,University of Hawaii at Manoa
+1414,Massey Brooks,1.5,Architecture,0%,University of Hawaii at Manoa
+1415,Daniela Gonzalez Quezada,4.0,Spanish,,University of Hawaii at Manoa
+1416,Robin Deeley,3.7,Mathematics,50%,University of Hawaii at Manoa
+1417,George Nabeshima,4.8,Finance,100%,University of Hawaii at Manoa
+1418,Tim Metra,4.9,French,100%,University of Hawaii at Manoa
+1419,Carrie Oliveira,5.0,Communicology,,University of Hawaii at Manoa
+1420,Masahisa Yamaguchi,4.9,Management,100%,University of Hawaii at Manoa
+1421,Ozge Tekin,5.0,Political Science,100%,University of Hawaii at Manoa
+1422,Douglas Ward Mardfin,5.0,Economics,100%,University of Hawaii at Manoa
+1423,Jarrett Kam,3.7,Japanese,67%,University of Hawaii at Manoa
+1424,Christina Mende,4.2,Mathematics,78%,University of Hawaii at Manoa
+1425,Sherilyn Wee,5.0,Economics,100%,University of Hawaii at Manoa
+1426,Ha'aheo Guanson,3.7,Peace  Conflict Studies,34%,University of Hawaii at Manoa
+1427,Hye Young Smith,5.0,Korean,100%,University of Hawaii at Manoa
+1428,Kelsea Hosoda,3.4,Communication,67%,University of Hawaii at Manoa
+1429,Siyuan Li,5.0,Finance,100%,University of Hawaii at Manoa
+1430,Wei-Li Hsu,3.5,Languages  Linguistics,50%,University of Hawaii at Manoa
+1431,Anthony Urbi,4.0,Kinesiology,100%,University of Hawaii at Manoa
+1432,Anne Shovic,2.9,Nutrition,,University of Hawaii at Manoa
+1433,Thomas Jackson,5.0,Philosophy,84%,University of Hawaii at Manoa
+1434,Sarah Pirani,4.4,Nursing,80%,University of Hawaii at Manoa
+1435,Carmen Linhares,4.4,Nursing,100%,University of Hawaii at Manoa
+1436,Michelle Napihaa,4.5,Nursing,100%,University of Hawaii at Manoa
+1437,Tamara Albertini,3.6,Philosophy,75%,University of Hawaii at Manoa
+1438,Saloua Adjir,4.9,French,100%,University of Hawaii at Manoa
+1439,Mark Luke,4.6,Hawaiian Studies,100%,University of Hawaii at Manoa
+1440,Amber Camp,4.6,Linguistics,100%,University of Hawaii at Manoa
+1441,Priscilla Faucette,0.0,Languages  Linguistics,,University of Hawaii at Manoa
+1442,Kunihiko Homma,5.0,Japanese,100%,University of Hawaii at Manoa
+1443,Gabriel Arnold,1.5,Music,0%,University of Hawaii at Manoa
+1444,Serge Chastel,1.0,Computer Science,0%,University of Hawaii at Manoa
+1445,Aimee Chung,4.0,Social Work,100%,University of Hawaii at Manoa
+1446,Kristopher Picarella,3.0,Kinesiology,67%,University of Hawaii at Manoa
+1447,David Yuen,4.9,Mathematics,100%,University of Hawaii at Manoa
+1448,Alan Katz,0.0,Public Health,,University of Hawaii at Manoa
+1449,Michelle Clark,4.0,Travel Industry,100%,University of Hawaii at Manoa
+1450,Hanna Roman,2.0,French,0%,University of Hawaii at Manoa
+1451, Jack Barile,2.0,Psychology,34%,University of Hawaii at Manoa
+1452,Fata Simanu-Klutz,2.8,Literature,75%,University of Hawaii at Manoa
+1453,Rachael Uyeno,5.0,Theater,100%,University of Hawaii at Manoa
+1454,Theo Garneau,4.5,English,100%,University of Hawaii at Manoa
+1455,Patricia LaPorte,3.5,Business,84%,University of Hawaii at Manoa
+1456,Nicole Hynson,0.0,Botany,,University of Hawaii at Manoa
+1457,May Rose Dela Cruz,1.0,Public Health,0%,University of Hawaii at Manoa
+1458,Forrest Young,0.0,Anthropology,,University of Hawaii at Manoa
+1459,Piper Harron,3.9,Mathematics,63%,University of Hawaii at Manoa
+1460,Kenichi Shinkuma,5.0,Japanese,100%,University of Hawaii at Manoa
+1461,Pham Lee,0.0,Biology,,University of Hawaii at Manoa
+1462,Ryan Kunkle,4.0,Kinesiology,100%,University of Hawaii at Manoa
+1463,Kelly Bergstrom,5.0,Communication,100%,University of Hawaii at Manoa
+1464,December Maxwell,5.0,Social Work,100%,University of Hawaii at Manoa
+1465,Jessica Delgado,5.0,Mathematics,100%,University of Hawaii at Manoa
+1466,Rachel Sommer,1.0,Biology,0%,University of Hawaii at Manoa
+1467,Kristopher Kyle,0.0,Languages  Linguistics,,University of Hawaii at Manoa
+1468,Shane Strachan,5.0,Political Science,100%,University of Hawaii at Manoa
+1469,Grayden Solman,2.9,Psychology,46%,University of Hawaii at Manoa
+1470,Kim Cooper Giegerich,5.0,Fine Arts,50%,University of Hawaii at Manoa
+1471,Cara Bellwood,5.0,Psychology,100%,University of Hawaii at Manoa
+1472,Danita Dahl,5.0,Agriculture,100%,University of Hawaii at Manoa
+1473,Wolfgang Erb,3.3,Mathematics,75%,University of Hawaii at Manoa
+1474,Peter Rowan,2.8,Business,17%,University of Hawaii at Manoa
+1475,Barbara Watanabe,5.0,Psychology,100%,University of Hawaii at Manoa
+1476,Ryan Zaporski,5.0,Kinesiology,100%,University of Hawaii at Manoa
+1477,Joseph Campos,0.0,Social Science,,University of Hawaii at Manoa
+1478,Sue Haglund,5.0,Ethnic Studies,100%,University of Hawaii at Manoa
+1479,Anders Host-Madsen,4.0,Engineering,50%,University of Hawaii at Manoa
+1480,Miriam Stark,4.3,Anthropology,85%,University of Hawaii at Manoa
+1481,Lorey Takahashi,3.8,Psychology,60%,University of Hawaii at Manoa
+1482,Jenee Odani,4.7,Agriculture,100%,University of Hawaii at Manoa
+1483,Jason Levy,0.0,Geography,,University of Hawaii at Manoa
+1484,Agaton Pasion,5.0,Indo-Pacific Languages amp Literatures,100%,University of Hawaii at Manoa
+1485,Eric Lauritzen,4.0,English,72%,University of Hawaii at Manoa
+1486,Joni Sasaki,3.5,Psychology,73%,University of Hawaii at Manoa
+1487,Brannon Basilio,5.0,Mathematics,100%,University of Hawaii at Manoa
+1488,Richard Chadwick,5.0,Political Science,100%,University of Hawaii at Manoa
+1489,Ashiyan Rahmani-Shirazi,5.0,Communication,100%,University of Hawaii at Manoa
+1490,Juvana Soliven,0.0,Art History,,University of Hawaii at Manoa
+1491,Liulin Zhang,3.0,East Asian Lang.  Literature,0%,University of Hawaii at Manoa
+1492,Xi Yang,4.0,American Studies,100%,University of Hawaii at Manoa
+1493,Chung Eun Ha,0.0,Health Science,,University of Hawaii at Manoa
+1494,Chris Bertlemann,5.0,Psychology,100%,University of Hawaii at Manoa
+1495,Claire Steele,5.0,Hawaiian Studies,100%,University of Hawaii at Manoa
+1496,Tristan Striker,3.0,English,100%,University of Hawaii at Manoa
+1497,Laci Gerhart Barley,4.8,Biology,100%,University of Hawaii at Manoa
+1498,Ian Nicolay,2.0,Philosophy,50%,University of Hawaii at Manoa
+1499,Malgorzata Citko,4.0,Asian Studies,100%,University of Hawaii at Manoa
+1500,Chiyeon Hwang,5.0,Korean,100%,University of Hawaii at Manoa
+1501,Y. Kuan,4.0,Music,100%,University of Hawaii at Manoa
+1502,Monica Esquivel,5.0,Food Science,100%,University of Hawaii at Manoa
+1503,Kelsey Amos,5.0,English,100%,University of Hawaii at Manoa
+1504,Elena Sedova,0.0,Russian,,University of Hawaii at Manoa
+1505,Joshua Uipi,4.7,American Studies,100%,University of Hawaii at Manoa
+1506,Guy Smoot,5.0,Classics,100%,University of Hawaii at Manoa
+1507,erin centeio,1.0,Kinesiology,67%,University of Hawaii at Manoa
+1508,Dana Hauanio-Lore,3.8,Business,84%,University of Hawaii at Manoa
+1509,Benjamin Lukey,4.6,Philosophy,100%,University of Hawaii at Manoa
+1510,Christopher Manloloyo,2.6,Engineering,52%,University of Hawaii at Manoa
+1511,Jeehae Yoo,5.0,Korean,100%,University of Hawaii at Manoa
+1512,Rachel Hernandez,0.0,Spanish,,University of Hawaii at Manoa
+1513,Jaime DeGuzman,2.0,Social Work,0%,University of Hawaii at Manoa
+1514,Oleksandr Markovichenko,4.0,Mathematics,100%,University of Hawaii at Manoa
+1515,Omar Bird,5.0,Sociology,100%,University of Hawaii at Manoa
+1516,Derek Kamigaki,0.0,Theatre  Dance,,University of Hawaii at Manoa
+1517,Michael Schainfeld,4.0,Philosophy,100%,University of Hawaii at Manoa
+1518,Nysa Allen,2.0,Kinesiology,0%,University of Hawaii at Manoa
+1519,Hope Allen,5.0,Kinesiology,100%,University of Hawaii at Manoa
+1520,Guohui Zhang,5.0,Engineering,100%,University of Hawaii at Manoa
+1521,Rie Tada,5.0,Japanese,100%,University of Hawaii at Manoa
+1522,Jaeseong Lim,4.7,Business,100%,University of Hawaii at Manoa
+1523,Richard Taylor,5.0,Communication,100%,University of Hawaii at Manoa
+1524,Riddhi Shah,5.0,Political Science,100%,University of Hawaii at Manoa
+1525,Richard Rath,0.0,Honors,,University of Hawaii at Manoa
+1526,Jeremy Wong,5.0,Music,100%,University of Hawaii at Manoa
+1527,Andrew Woodill,0.0,Economics,,University of Hawaii at Manoa
+1528,Tim Wilkins,3.2,Travel Industry,62%,University of Hawaii at Manoa
+1529,Amanda Malave,2.9,Marketing,40%,University of Hawaii at Manoa
+1530,Boo Kyung Jung,5.0,Korean,100%,University of Hawaii at Manoa
+1531,Yunchuan Chen,4.7,Japanese,100%,University of Hawaii at Manoa
+1532,Hannah Tavares,0.0,Education,100%,University of Hawaii at Manoa
+1533,Ryan Henke,5.0,Linguistics,100%,University of Hawaii at Manoa
+1534,Gerard Fryer,0.0,Geology,,University of Hawaii at Manoa
+1535,J Vera Lee,3.3,English,67%,University of Hawaii at Manoa
+1536,Keiko Fukunishi,4.3,Academy for Creative Media,100%,University of Hawaii at Manoa
+1537,John Gagnon,4.7,English,100%,University of Hawaii at Manoa
+1538,Theresa LeMoon,0.0,Health Science,,University of Hawaii at Manoa
+1539,Jarrett Kam,0.0,Asian Studies,,University of Hawaii at Manoa
+1540,Dean Nakasone ,0.0,Travel Industry,,University of Hawaii at Manoa
+1541,Izaskun  Ruiz,0.0,Spanish,,University of Hawaii at Manoa
+1542,Tarcisius Kabutaulaka,3.6,Pacific & Asian Studies,58%,University of Hawaii at Manoa
+1543,David Beilman,4.3,Geography,75%,University of Hawaii at Manoa
+1544,Farideh Farhi,4.6,Political Science,,University of Hawaii at Manoa
+1545, Madison  Liotta,0.0,Languages & Linguistics,,University of Hawaii at Manoa
+1546,Violet  Nxedhlana,0.0,Medical Technology,,University of Hawaii at Manoa
+1547,Arielle Lowe,4.0,English,100%,University of Hawaii at Manoa
+1548,Daita Serghi,3.3,Biology,,University of Hawaii at Manoa
+1549,Matthew Chasse,3.0,Mathematics,,University of Hawaii at Manoa
+1550,Holden Takahashi,0.0,Hawaiian Studies,,University of Hawaii at Manoa
+1551,Hino Kitty,0.0,Education,,University of Hawaii at Manoa
+1552,Joel Moffett,4.4,Film,80%,University of Hawaii at Manoa
+1553,Kahiokala Elkington,0.0,Geography,100%,University of Hawaii at Manoa
+1554,Masato Itoh,0.0,Finance,100%,University of Hawaii at Manoa
+1555,George Lee,3.0,Computer Science,50%,University of Hawaii at Manoa
+1556,Nader Haghighipour,5.0,Astronomy,100%,University of Hawaii at Manoa
+1557,Kimberly Corbin,0.0,Education,,University of Hawaii at Manoa
+1558,Phillip Jung,4.7,Fine Arts,100%,University of Hawaii at Manoa
+1559,Christa Eleftherakis,2.5,Theater,0%,University of Hawaii at Manoa
+1560,Alvin Chock,4.0,Botany,0%,University of Hawaii at Manoa
+1561,Cheryl Treiber-Kawaoka,0.0,Education,,University of Hawaii at Manoa
+1562,Joseph Brown,4.5,Engineering,100%,University of Hawaii at Manoa
+1563,Tram Nguyen,5.0,Business,100%,University of Hawaii at Manoa
+1564,Alejandro Guillen,1.2,Mathematics,0%,University of Hawaii at Manoa
+1565,Allison Wagner,0.0,Psychology,,University of Hawaii at Manoa
+1566,Lee  Hang,1.0,Mathematics,,University of Hawaii at Manoa
+1567,Brendon Friedman,0.0,Nursing,,University of Hawaii at Manoa
+1568,Christine Walters,0.0,Religion,100%,University of Hawaii at Manoa
+1569,Zephanii Smith Eisenstat,1.0,Peace & Conflict Studies,,University of Hawaii at Manoa
+1570,Shilpi Suneja,3.0,English,100%,University of Hawaii at Manoa
+1571,Rachel Hong,0.0,American Studies,,University of Hawaii at Manoa
+1572,Taylor Wray,5.0,American Studies,100%,University of Hawaii at Manoa
+1573,Michael Aung-Thwin,0.0,Asian Studies,,University of Hawaii at Manoa
+1574,Lauren Cheatham,4.5,Marketing,100%,University of Hawaii at Manoa
+1575,Yijun Ding,4.5,East Asian Studies,100%,University of Hawaii at Manoa
+1576,Kristin Rock,3.0,Languages amp Linguistics,0%,University of Hawaii at Manoa
+1577,Bradley Rentz,0.0,Languages amp Linguistics,,University of Hawaii at Manoa
+1578,Yeah-Ju Lee,0.0,Sociology,,University of Hawaii at Manoa
+1579,Stacy Hoshino,0.0,Design,,University of Hawaii at Manoa
+1580,Teresa LeMoon,3.0,Food Science,100%,University of Hawaii at Manoa
+1581,Peiling Kao,0.0,Theater,,University of Hawaii at Manoa
+1582,Emanuel Dreshsel,0.0,Languages amp Linguistics,,University of Hawaii at Manoa
+1583,Patricia Amaral Buskirk,0.0,Communication,,University of Hawaii at Manoa
+1584,Jordan Hiroshi Ichiki,4.5,Hawaiian Studies,100%,University of Hawaii at Manoa
+1585,Michele Cantwell,5.0,Psychology,100%,University of Hawaii at Manoa
+1586,Katherine Altman,4.8,Theater,100%,University of Hawaii at Manoa
+1587,Steger Manfred,4.0,Sociology,100%,University of Hawaii at Manoa
+1588,Dean Saranillio,0.0,Political Science,100%,University of Hawaii at Manoa
+1589,Max Dornfest,5.0,Physics,100%,University of Hawaii at Manoa
+1590,Emma Breslow,0.0,English,,University of Hawaii at Manoa
+1591,Karla Sierralta,3.7,Architecture,70%,University of Hawaii at Manoa
+1592,Kate Zhou,3.7,Political Science,80%,University of Hawaii at Manoa
+1593,Nevzat Soguk,4.0,Political Science,84%,University of Hawaii at Manoa
+1594,Lauren Lum Ho,0.0,Education,,University of Hawaii at Manoa
+1595,Michael Albrecht,0.0,Mathematics,,University of Hawaii at Manoa
+1596,Chih-Wei Peng,5.0,Philosophy,100%,University of Hawaii at Manoa
+1597,William Awa,0.0,Economics,,University of Hawaii at Manoa
+1598,Peter Schuelke,5.0,Linguistics,67%,University of Hawaii at Manoa
+1599,Andrew Turner,4.6,Chemistry,100%,University of Hawaii at Manoa
+1600,Jonghyun Lee,0.0,Engineering,,University of Hawaii at Manoa
+1601,Elizabeth Brey,0.0,Psychology,,University of Hawaii at Manoa
+1602,DellAiera Clement,0.0,Mathematics,,University of Hawaii at Manoa
+1603,Maria Kanehailua,4.7,Hawaiian Studies,100%,University of Hawaii at Manoa
+1604,Emily Stefano,5.0,Psychology,100%,University of Hawaii at Manoa
+1605,Jonathan Page,4.0,Economics,100%,University of Hawaii at Manoa
+1606,Michael Foumai,4.7,Music,100%,University of Hawaii at Manoa
+1607,Young-A Park,4.4,Asian Studies,100%,University of Hawaii at Manoa
+1608,Ma Ri Kim-Johnson,5.0,Architecture,,University of Hawaii at Manoa
+1609,Gaurav Verma,0.0,Physics,,University of Hawaii at Manoa
+1610,Kelsey Christopher,0.0,English,,University of Hawaii at Manoa
+1611,Duy Nguyen,0.0,Economics,,University of Hawaii at Manoa
+1612,Peter Soon,5.0,Information Science,100%,University of Hawaii at Manoa
+1613,Patricia Fifita,5.0,Ethnic Studies,100%,University of Hawaii at Manoa
+1614,Jesi Bennett,3.0,Asian Pacific American Studies,100%,University of Hawaii at Manoa
+1615,Holm Smidt,4.8,Information Science,100%,University of Hawaii at Manoa
+1616,Ahmed Elshall,5.0,Geology,100%,University of Hawaii at Manoa
+1617,Kurt Kraiger,5.0,Business,100%,University of Hawaii at Manoa
+1618,DoSoo Moon,4.0,Engineering,100%,University of Hawaii at Manoa
+1619,Krystin Manguba-Glover,4.6,Mathematics,100%,University of Hawaii at Manoa
+1620,Ariana Eichelberger,4.0,Design,100%,University of Hawaii at Manoa
+1621,John Koblanski,2.2,Physics,32%,University of Hawaii at Manoa
+1622,Brenda McDaniel,4.4,Psychology,88%,University of Hawaii at Manoa
+1623,Wendell Perry,0.0,Hawaiian Studies,,University of Hawaii at Manoa
+1624,Robert Paull,5.0,Botany,100%,University of Hawaii at Manoa
+1625,Allyn Bromley,0.0,Fine Arts,,University of Hawaii at Manoa
+1626,Shekh Mahmudul Islam,3.3,Physics,60%,University of Hawaii at Manoa
+1627,Heather Frey,5.0,Political Science,100%,University of Hawaii at Manoa
+1628,Heinz De Couet,1.0,Biology,0%,University of Hawaii at Manoa
+1629,Yuan-Yu Kuan,0.0,Asian Studies,,University of Hawaii at Manoa
+1630,Umar Gaffar,3.7,Mathematics,67%,University of Hawaii at Manoa
+1631,Rosie Alegado,3.2,Oceanography,60%,University of Hawaii at Manoa
+1632,Jeffery Drazen,0.0,Oceanography,100%,University of Hawaii at Manoa
+1633,Jake Boggs,3.0,Art History,100%,University of Hawaii at Manoa
+1634,Ivee Cruz,0.0,Family Studies,,University of Hawaii at Manoa
+1635,Lauren Nishimura,5.0,English Language Institute,100%,University of Hawaii at Manoa
+1636,Rebecca Ka'anehe,0.0,Educational Psychology,,University of Hawaii at Manoa
+1637,Kana Morimoto,5.0,East Asian Lang. amp Literature,100%,University of Hawaii at Manoa
+1638,Gregory Moore,3.0,Geology,100%,University of Hawaii at Manoa
+1639,Jen Draper,5.0,Food Science,100%,University of Hawaii at Manoa
+1640,Kelly Murphy,3.0,Kinesiology,0%,University of Hawaii at Manoa
+1641,Kevin Sahara,0.0,Hospitality,,University of Hawaii at Manoa
+1642,Gavin Lamb,5.0,Education,100%,University of Hawaii at Manoa
+1643,David Nixon,0.0,Social Science,,University of Hawaii at Manoa
+1644,Sergey Negrashov,0.0,Computer Science,,University of Hawaii at Manoa
+1645,Laura McGuire,5.0,Architecture,100%,University of Hawaii at Manoa
+1646,Mariko Nakade-Marceau,3.6,Japanese,,University of Hawaii at Manoa
+1647,David Rockwood,3.0,Architecture,,University of Hawaii at Manoa
+1648,Dexter Choy,2.5,Travel Industry,,University of Hawaii at Manoa
+1649,Chris Sabine,0.0,Oceanography,,University of Hawaii at Manoa
+1650,Tracy Cissell,5.0,English,100%,University of Hawaii at Manoa
+1651,Val Iwashita,5.0,Business,100%,University of Hawaii at Manoa
+1652,Jerome Agrusa,4.7,Travel Industry,100%,University of Hawaii at Manoa
+1653,Dongping Zheng,0.0,Linguistics,,University of Hawaii at Manoa
+1654,Alieen Li,0.0,Science,,University of Hawaii at Manoa
+1655,Jing Zhong,0.0,Linguistics,,University of Hawaii at Manoa
+1656,Miranda Kam,0.0,French,,University of Hawaii at Manoa
+1657,Soo Yun Shin,4.5,Communicology,50%,University of Hawaii at Manoa
+1658,Yiwei Zhao,3.0,Business,45%,University of Hawaii at Manoa
+1659,Donovan Oakleaf,2.0,Theater,0%,University of Hawaii at Manoa
+1660,Meng-Fen Grace Lin,3.0,Education,0%,University of Hawaii at Manoa
+1661,Adel Youkhana,3.3,Mathematics,75%,University of Hawaii at Manoa
+1662,Klavdija Zorec,0.0,Educational Psychology,,University of Hawaii at Manoa
+1663,Giovanni Vila,5.0,Communicology,100%,University of Hawaii at Manoa
+1664,Kirsten Helgeson,4.0,Linguistics,100%,University of Hawaii at Manoa
+1665,Derek Beeler,4.2,Kinesiology,100%,University of Hawaii at Manoa
+1666,William Gibson,0.0,English,,University of Hawaii at Manoa
+1667,Olga Mukhortova,5.0,Russian,100%,University of Hawaii at Manoa
+1668,Lynley Lys,0.0,English,,University of Hawaii at Manoa
+1669,Pam Estell,3.4,Communication,67%,University of Hawaii at Manoa
+1670,Hugo Cepeda,0.0,Spanish,,University of Hawaii at Manoa
+1671,Gonzalo Bruno,3.0,Spanish,50%,University of Hawaii at Manoa
+1672,Thomas Lee,4.0,Public Health,67%,University of Hawaii at Manoa
+1673,Stephen Ventimilia,0.0,Kinesiology,,University of Hawaii at Manoa
+1674,Soyeon Kim,5.0,English,100%,University of Hawaii at Manoa
+1675,Stephen Zierak,3.0,Political Science,100%,University of Hawaii at Manoa
+1676,Nathalie Rita,0.0,Sociology,,University of Hawaii at Manoa
+1677,Alvin Huang,0.0,Science,,University of Hawaii at Manoa
+1678,Willow Aureala,3.1,Social Work,,University of Hawaii at Manoa
+1679,Nathaniel Hartmann,0.0,Business,,University of Hawaii at Manoa
+1680,Anis Hamidati,1.0,Communication,0%,University of Hawaii at Manoa
+1681,Thomas Rosenkranz,4.3,Music,,University of Hawaii at Manoa
+1682,Don Tran,4.1,Chemistry,100%,University of Hawaii at Manoa
+1683,Natalia Lagmay,5.0,Business,100%,University of Hawaii at Manoa
+1684,Junwook Chi,1.0,Travel Industry,75%,University of Hawaii at Manoa
+1685,Ju-Young Kang,0.0,Family & Consumer Sciences,,University of Hawaii at Manoa
+1686,Yao Huang,1.0,East Asian Studies,0%,University of Hawaii at Manoa
+1687,Iris Zhang,1.0,Accounting,0%,University of Hawaii at Manoa
+1688,Mark Glick,5.0,Oceanography,100%,University of Hawaii at Manoa
+1689,Shannon Werre,4.7,English,100%,University of Hawaii at Manoa
+1690,Eric Jaramillo,5.0,Kinesiology,100%,University of Hawaii at Manoa
+1691,Mojtaba Moniri,2.0,Mathematics,50%,University of Hawaii at Manoa
+1692,Jan van der Veken,0.0,Atmospheric Sciences,,University of Hawaii at Manoa
+1693,hassan jamal,0.0,Mathematics,,University of Hawaii at Manoa
+1694,Laura Clark,1.0,Theater,0%,University of Hawaii at Manoa
+1695,Sasa Tom,1.1,Microbiology,0%,University of Hawaii at Manoa
+1696,Hyejin Hong,5.0,Korean,100%,University of Hawaii at Manoa
+1697,Lilo Stitch,5.0,Indo-Pacific Languages amp Literatures,100%,University of Hawaii at Manoa
+1698,Andre Haag,3.0,East Asian Lang. & Literature,50%,University of Hawaii at Manoa
+1699,Loren Gautz,1.0,Engineering,,University of Hawaii at Manoa
+1700,Ramsay Taum,4.5,Travel Industry,,University of Hawaii at Manoa
+1701,Nicole Lewis,0.0,Mathematics,,University of Hawaii at Manoa
+1702,Stankov Pavel,2.3,Philosophy,34%,University of Hawaii at Manoa
+1703,Maniako McCarthy,0.0,Design,,University of Hawaii at Manoa
+1704,Jan Brunson,5.0,Anthropology,100%,University of Hawaii at Manoa
+1705,Maria Lanzona,0.0,History,,University of Hawaii at Manoa
+1706,Ruth Haas,0.0,Mathematics,,University of Hawaii at Manoa
+1707,Lois Zuttermeister,0.0,Music,,University of Hawaii at Manoa
+1708,Kelly Ciurej,5.0,Fine Arts,100%,University of Hawaii at Manoa
+1709,Kyle Scholl,5.0,Theater,,University of Hawaii at Manoa
+1710,Kathryn Klingebiel,3.3,French,,University of Hawaii at Manoa
+1711,Kalei Keolanui,0.0,Social Science,,University of Hawaii at Manoa
+1712,Doreen Elliot,0.0,Education,,University of Hawaii at Manoa
+1713,Kristi Govella,5.0,Asian Studies,100%,University of Hawaii at Manoa
+1714,Tsz Chun Lam,4.0,Women's Studies,,University of Hawaii at Manoa
+1715,Amber Wright,5.0,Biology,100%,University of Hawaii at Manoa
+1716,Stacey Rabut,0.0,Design,,University of Hawaii at Manoa
+1717,Sisi Zhang,3.5,Economics,67%,University of Hawaii at Manoa
+1718,Dr. Seungoh Paek,0.0,Education,,University of Hawaii at Manoa
+1719,Jesse La Jeunesse,0.0,Chemistry,,University of Hawaii at Manoa
+1720,Eunji Jun,2.0,Engineering,40%,University of Hawaii at Manoa
+1721,So Yeon Kim,0.0,Communication,,University of Hawaii at Manoa
+1722,Nandi Odhiambo,3.0,English,100%,University of Hawaii at Manoa
+1723,Dean Taba,0.0,Music,,University of Hawaii at Manoa
+1724,Samantha Pilgrim,4.0,Mathematics,100%,University of Hawaii at Manoa
+1725,Dylan Beatty,5.0,Geography,100%,University of Hawaii at Manoa
+1726,Jasper Konter,5.0,Geology,100%,University of Hawaii at Manoa
+1727,Zakea Boeger,4.0,Anthropology,100%,University of Hawaii at Manoa
+1728,Shree Deshpende,5.0,Political Science,100%,University of Hawaii at Manoa
+1729,Lucas Kathleen,0.0,Hawaiian,,University of Hawaii at Manoa
+1730,Thomas Chock,5.0,Academy for Creative Media,100%,University of Hawaii at Manoa
+1731,Marc Malate,5.0,Social Science,100%,University of Hawaii at Manoa
+1732,Donna Mun,1.0,Management,0%,University of Hawaii at Manoa
+1733,Kealiikeola Simpson,0.0,Theater,,University of Hawaii at Manoa
+1734,Christina Truong,5.0,Linguistics,100%,University of Hawaii at Manoa
+1735,Yasha Berchenko-Kogan,3.0,Mathematics,100%,University of Hawaii at Manoa
+1736,Daniel Johnson,5.0,Engineering,100%,University of Hawaii at Manoa
+1737,Robert Abramovic,2.8,Mathematics,42%,University of Hawaii at Manoa
+1738,Jessica Burris,2.0,Education,0%,University of Hawaii at Manoa
+1739,Glenn Carter,2.0,Oceanography,0%,University of Hawaii at Manoa
+1740,Mari Andres,0.0,Chemistry,,University of Hawaii at Manoa
+1741,Diane Desierto,0.0,Law,,University of Hawaii at Manoa
+1742,Samuel Birns,0.0,Mathematics,,University of Hawaii at Manoa
+1743,Lee-Ann Choy,1.0,Travel Industry,0%,University of Hawaii at Manoa
+1744,Celia Smith,5.0,Botany,100%,University of Hawaii at Manoa
+1745,Darren Carlson,0.0,Engineering,,University of Hawaii at Manoa
+1746,Michelle Wimberely,1.0,Kinesiology,0%,University of Hawaii at Manoa
+1747,Kerrie Urosevich,3.0,Peace & Conflict Studies,0%,University of Hawaii at Manoa
+1748,Maya Soetoro-Ng,4.0,Peace & Conflict Studies,100%,University of Hawaii at Manoa
+1749,Kamahuialani Barbett,3.5,Hawaiian Studies,50%,University of Hawaii at Manoa
+1750,Gene Horita,4.0,Kinesiology,100%,University of Hawaii at Manoa
+1751,Niklas Schneider,4.0,Biology,100%,University of Hawaii at Manoa
+1752,Alyson Shoji,5.0,Chemistry,100%,University of Hawaii at Manoa
+1753,Kesha Unciano,0.0,Communicology,,University of Hawaii at Manoa
+1754,Erica Goetze,3.0,Oceanography,0%,University of Hawaii at Manoa
+1755,Ching Shek,5.0,Japanese,100%,University of Hawaii at Manoa
+1756,Susan Nakaoka,5.0,Social Work,100%,University of Hawaii at Manoa
+1757,Nhu Nguyen,0.0,Botany,,University of Hawaii at Manoa
+1758,Erin Yagi,2.0,Education,0%,University of Hawaii at Manoa
+1759,Elina Hamilton,0.0,Music,100%,University of Hawaii at Manoa
+1760,Yanhua He,0.0,Science,,University of Hawaii at Manoa
+1761,Kelly McCartney,0.0,Geology,,University of Hawaii at Manoa
+1762,Charles Fletcher,3.0,Science,50%,University of Hawaii at Manoa
+1763,Maya Hoover,0.0,Music,,University of Hawaii at Manoa
+1764,Thomas Shea,5.0,Geology,100%,University of Hawaii at Manoa
+1765,Jane Moulin,3.1,Music,39%,University of Hawaii at Manoa
+1766,Elliot Ossanna,3.6,Mathematics,67%,University of Hawaii at Manoa
+1767,Jenjira Yahirun,4.0,Family Studies,100%,University of Hawaii at Manoa
+1768,Ming-bao Yue,0.0,East Asian Lang. & Literature,,University of Hawaii at Manoa
+1769,Marina Karides,0.0,Geography,100%,University of Hawaii at Manoa
+1770,Joyce Mariano,4.6,American Studies,100%,University of Hawaii at Manoa
+1771,Dan Milz,5.0,Urban Planning,100%,University of Hawaii at Manoa
+1772,Nicole Schlaack,4.0,Education,100%,University of Hawaii at Manoa
+1773,Mike McGee,0.0,Social Work,,University of Hawaii at Manoa
+1774,Marjan Houshmand,4.5,Business,100%,University of Hawaii at Manoa
+1775,Barbara Dougherty,5.0,Mathematics,100%,University of Hawaii at Manoa
+1776,Janelle Bremer,5.0,Business,100%,University of Hawaii at Manoa
+1777,Lola Bautista,4.3,Pacific & Asian Studies,40%,University of Hawaii at Manoa
+1778,Ariel Dungca,0.0,Architecture,100%,University of Hawaii at Manoa
+1779,Summer Lee,5.0,Business,100%,University of Hawaii at Manoa
+1780,Takeshi Nakata,5.0,Physics,100%,University of Hawaii at Manoa
+1781,Brendan Galipeau,0.0,Anthropology,,University of Hawaii at Manoa
+1782,Kevin Nute,0.0,Architecture,100%,University of Hawaii at Manoa
+1783,Tiana Tran,5.0,Asian Studies,100%,University of Hawaii at Manoa
+1784,Jason Willome,3.9,Fine Arts,,University of Hawaii at Manoa
+1785,Daniel Bonilla,0.0,Kinesiology,,University of Hawaii at Manoa
+1786,Pamela Mah,5.0,Business,,University of Hawaii at Manoa
+1787,Kelsey Matsu,4.0,Educational Psychology,100%,University of Hawaii at Manoa
+1788,Jon Okamura,3.1,Ethnic Studies,40%,University of Hawaii at Manoa
+1789,Cristina Suarez,4.8,Business,100%,University of Hawaii at Manoa
+1790,Jenifer Winter,5.0,Communication,100%,University of Hawaii at Manoa
+1791,Zachary Menzo,4.5,Atmospheric Sciences,100%,University of Hawaii at Manoa
+1792,Kathleen Kawehilani Lucas,4.0,Hawaiian,50%,University of Hawaii at Manoa
+1793,Holly Sevier,4.9,Sociology,,University of Hawaii at Manoa
+1794,Hugette Montesinos,4.9,Spanish,,University of Hawaii at Manoa
+1795,Rick Caufield,4.8,Family Studies,100%,University of Hawaii at Manoa
+1796,Christine Tai,1.7,Psychology,19%,University of Hawaii at Manoa
+1797,Margot Henriksen,3.7,History,56%,University of Hawaii at Manoa
+1798,Joseph Jarrett,4.0,Chemistry,90%,University of Hawaii at Manoa
+1799,Kristin Pauker,3.8,Psychology,77%,University of Hawaii at Manoa
+1800,Mark Perkins,2.9,Peace  Conflict Studies,50%,University of Hawaii at Manoa
+1801,Ryan Koo,4.9,History,,University of Hawaii at Manoa
+1802,Brian Dawson,0.0,American Studies,75%,University of Hawaii at Manoa
+1803,Philip Williams,4.2,Chemistry,85%,University of Hawaii at Manoa
+1804,Robert Perkinson,4.4,History,80%,University of Hawaii at Manoa
+1805,Robert Huey,4.7,Asian Studies,100%,University of Hawaii at Manoa
+1806,Justin Tanaka,4.2,Japanese Literature,80%,University of Hawaii at Manoa
+1807,Marija Colic,4.0,Psychology,100%,University of Hawaii at Manoa
+1808,Bruce Barnes,4.3,Peace & Conflict Studies,,University of Hawaii at Manoa
+1809,Lisette Flanary,4.2,Academy for Creative Media,100%,University of Hawaii at Manoa
+1810,Ernest Kalikoaloha Martin,4.5,Languages,93%,University of Hawaii at Manoa
+1811,Kamil Deen,4.5,Linguistics,100%,University of Hawaii at Manoa
+1812,Yong Li,3.6,Food Science,80%,University of Hawaii at Manoa
+1813,Laura Flynn,2.1,Kinesiology,20%,University of Hawaii at Manoa
+1814,Jian Zhou,3.3,Accounting,100%,University of Hawaii at Manoa
+1815,Chip Fletcher,4.4,Geology,77%,University of Hawaii at Manoa
+1816,Ashley Rubin,4.3,Sociology,84%,University of Hawaii at Manoa
+1817,Rachel Lindsey,4.5,Kinesiology,78%,University of Hawaii at Manoa
+1818,Ron Vave,2.0,Biology,67%,University of Hawaii at Manoa
+1819,Dale Myers,2.4,Mathematics,7%,University of Hawaii at Manoa
+1820,Edmund Wary,4.6,Travel Industry,50%,University of Hawaii at Manoa
+1821,Kerri Cummins,0.0,Kinesiology,,University of Hawaii at Manoa
+1822,Eftihia Nathanail,0.0,Engineering,,University of Hawaii at Manoa
+1823,Tingting Reid,2.5,Mathematics,0%,University of Hawaii at Manoa
+1824,Evan Gawlik,5.0,Mathematics,100%,University of Hawaii at Manoa
+1825,John Allen,1.8,Engineering,25%,University of Hawaii at Manoa
+1826,Matthew O'Neil,4.6,Sociology,100%,University of Hawaii at Manoa
+1827,Jake Ferguson,5.0,Biology,100%,University of Hawaii at Manoa
+1828,Joy Logan,4.1,European Studies,100%,University of Hawaii at Manoa
+1829,Joseph Tanke,4.7,Philosophy,100%,University of Hawaii at Manoa
+1830,Masato Ishida,3.8,Philosophy,79%,University of Hawaii at Manoa
+1831,Devin Murray,2.9,Mathematics,43%,University of Hawaii at Manoa
+1832,Gunter Meissner,4.8,Finance,95%,University of Hawaii at Manoa
+1833,Ned Bertz,4.4,History,100%,University of Hawaii at Manoa
+1834,Chandra Dhakal,3.0,Economics,44%,University of Hawaii at Manoa
+1835,Aaron Ohta,3.7,Engineering,80%,University of Hawaii at Manoa
+1836,Fataneh Esteki,3.8,Mathematics,72%,University of Hawaii at Manoa
+1837,Lenna Shulga,4.0,Travel Industry,89%,University of Hawaii at Manoa
+1838,Jeffrey Tripp,4.7,American Studies,92%,University of Hawaii at Manoa
+1839,Jinan Banna,3.5,Food Science,67%,University of Hawaii at Manoa
+1840,Donovan Preza,3.3,Geography,34%,University of Hawaii at Manoa
+1841,Richard Halverson,3.5,Information Science,80%,University of Hawaii at Manoa
+1842,Eric Wen,2.6,Business,32%,University of Hawaii at Manoa
+1843,Steven Businger,4.3,Meteorology,91%,University of Hawaii at Manoa
+1844,Claudia Vaughan,4.0,Business,100%,University of Hawaii at Manoa
+1845,Varun Sanadhya,2.0,Political Science,0%,University of Hawaii at Manoa
+1846,Jon Goldberg-Hiller,4.2,Political Science,82%,University of Hawaii at Manoa
+1847,Victoria Narine,3.6,Sociology,64%,University of Hawaii at Manoa
+1848,Christopher Light,3.5,Physics,100%,University of Hawaii at Manoa
+1849,Monisha Das Gupta,1.6,Ethnic Studies,17%,University of Hawaii at Manoa
+1850,Yuriy Mileyko,3.8,Mathematics,73%,University of Hawaii at Manoa
+1851,Duncan Farrah,4.3,Physics,84%,University of Hawaii at Manoa
+1852,Mitsuko Suzuki,0.0,English Language Institute,,University of Hawaii at Manoa
+1853,Jennifer Chee,0.0,Nursing,,University of Hawaii at Manoa
+1854,Nicholas Gibson,4.3,Sociology,,University of Hawaii at Manoa
+1855,Darren Olsen,4.7,Psychology,100%,University of Hawaii at Manoa
+1856,Hassan Haidar Jamal,1.0,Mathematics,0%,University of Hawaii at Manoa
+1857,Andrea Candens,0.0,Religion,,University of Hawaii at Manoa
+1858,Hua San,0.0,Family Studies,,University of Hawaii at Manoa
+1859,Mason Kenton,5.0,Spanish,100%,University of Hawaii at Manoa
+1860,Paul Chandler,3.8,Spanish,100%,University of Hawaii at Manoa
+1861,Lori Fulton,1.0,Education,0%,University of Hawaii at Manoa
+1862,Cynthia Ward,2.1,English,0%,University of Hawaii at Manoa
+1863,Todd Sammons,4.4,English,100%,University of Hawaii at Manoa
+1864,Tahlia White,4.5,French,100%,University of Hawaii at Manoa
+1865,Lois Yamauchi,5.0,Educational Psychology,100%,University of Hawaii at Manoa
+1866,Christopher Muir,5.0,Biology,100%,University of Hawaii at Manoa
+1867,Terrence Corrigan,4.0,Atmospheric Sciences,100%,University of Hawaii at Manoa
+1868,Jeffrey Kainehe,5.0,Hawaiian,100%,University of Hawaii at Manoa
+1869,Precious Arao,5.0,Filipino,100%,University of Hawaii at Manoa
+1870,Larry Nitz,2.5,Political Science,40%,University of Hawaii at Manoa
+1871,Jennifer Small Griswold,5.0,Meteorology,100%,University of Hawaii at Manoa
+1872,Matthew Kelty,2.9,Theater,43%,University of Hawaii at Manoa
+1873,Jeffrey Stern,4.0,Psychology,50%,University of Hawaii at Manoa
+1874,Victor Lubecke,4.1,Engineering,100%,University of Hawaii at Manoa
+1875,Michael DuFresne,5.0,Philosophy,100%,University of Hawaii at Manoa
+1876,Nick Kam,1.8,Engineering,0%,University of Hawaii at Manoa
+1877,Olivares Olivares Beatriz,5.0,Spanish,100%,University of Hawaii at Manoa
+1878,Katherine Katie Ackerman,5.0,Atmospheric Sciences,100%,University of Hawaii at Manoa
+1879,Mathew Markman,4.4,Political Science,80%,University of Hawaii at Manoa
+1880,Peter Hoffenberg,3.2,History,94%,University of Hawaii at Manoa
+1881,Tu Xu,1.0,Accounting,0%,University of Hawaii at Manoa
+1882,Barry Rolett,3.9,Anthropology,77%,University of Hawaii at Manoa
+1883,Karen Jolly,3.0,History,58%,University of Hawaii at Manoa
+1884,TY Tengan,4.1,Ethnic Studies,100%,University of Hawaii at Manoa
+1885,Thao Le,4.2,Family Studies,86%,University of Hawaii at Manoa
+1886,Scott Robertson,3.3,Computer Science,55%,University of Hawaii at Manoa
+1887,April Drexel,3.3,Hawaiian Studies,75%,University of Hawaii at Manoa
+1888,Hanae Kramer,4.4,Communication,90%,University of Hawaii at Manoa
+1889,Gary Liu,3.1,Art History,34%,University of Hawaii at Manoa
+1890,Brooke Bennett,4.2,Psychology,80%,University of Hawaii at Manoa
+1891,Laura Linsley,2.0,Kinesiology,0%,University of Hawaii at Manoa
+1892,Khoa Nguyen,0.0,Architecture,,University of Hawaii at Manoa
+1893,Amy Vegas,5.0,English,100%,University of Hawaii at Manoa
+1894,Christian Stettler,5.0,Sociology,100%,University of Hawaii at Manoa
+1895,Emily Wright,5.0,Theater,100%,University of Hawaii at Manoa
+1896,Dewayne Bettag,2.9,Psychology,50%,University of Hawaii at Manoa
+1897,Panos Prevedouros,2.5,Engineering,50%,University of Hawaii at Manoa
+1898,Julie Li Jiang,4.7,East Asian Lang.  Literature,86%,University of Hawaii at Manoa
+1899,Tyler Ray,4.4,Engineering,100%,University of Hawaii at Manoa
+1900,Peter Chamberlain,4.5,Fine Arts,100%,University of Hawaii at Manoa
+1901,Joana O'Steen,3.7,English,58%,University of Hawaii at Manoa
+1902,Hua Zan,2.0,Family Studies,0%,University of Hawaii at Manoa
+1903,Mapuana Antonio,0.0,Health Science,,University of Hawaii at Manoa
+1904,Daphne Desser,3.9,English,80%,University of Hawaii at Manoa
+1905,Bryan Kuwada,4.9,English,100%,University of Hawaii at Manoa
+1906,Sandra Wu,3.8,Communication,67%,University of Hawaii at Manoa
+1907,Doug Eisinger,4.0,Geography,0%,University of Hawaii at Manoa
+1908,Yun Peng,4.6,East Asian Lang. & Literature,80%,University of Hawaii at Manoa
+1909,Sakawrat Kitkuakul,5.0,Business,100%,University of Hawaii at Manoa
+1910,Cynthia Tsai,3.2,English,60%,University of Hawaii at Manoa
+1911,Dan Suthers,3.0,Computer Science,0%,University of Hawaii at Manoa
+1912,Margit Watts,1.8,Freshman Seminar,15%,University of Hawaii at Manoa
+1913,Jaisang Kim,5.0,Marketing,100%,University of Hawaii at Manoa
+1914,Jiakai Chen,4.4,Finance,87%,University of Hawaii at Manoa
+1915,Frank Floyd,3.6,Psychology,78%,University of Hawaii at Manoa
+1916,Monique Mironesco,3.2,Women's Studies,50%,University of Hawaii at Manoa
+1917,Brad Taylor,3.9,Fine Arts,43%,University of Hawaii at Manoa
+1918,Peter Englert,5.0,Geology,100%,University of Hawaii at Manoa
+1919,Mehrdad Ghasemi Nejhad,1.9,Engineering,0%,University of Hawaii at Manoa
+1920,Jing Guo,5.0,Social Work,100%,University of Hawaii at Manoa
+1921,Keiko Hata,4.2,East Asian Lang. & Literature,100%,University of Hawaii at Manoa
+1922,Jamal Hassan,3.9,Mathematics,74%,University of Hawaii at Manoa
+1923,Ehito Kimura,4.5,Political Science,82%,University of Hawaii at Manoa
+1924,Barbara Joyce,2.7,Sociology,24%,University of Hawaii at Manoa
+1925,John Zuern,4.8,English,100%,University of Hawaii at Manoa
+1926,Diana Kim,4.5,Family Studies,84%,University of Hawaii at Manoa
+1927,Nimesh Patel,3.6,Business,77%,University of Hawaii at Manoa
+1928,David Panisnick,4.3,Religion,50%,University of Hawaii at Manoa
+1929,Mehana Kaiama,2.2,Hawaiian Studies,79%,University of Hawaii at Manoa
+1930,Ren Pruitt,5.0,English,100%,University of Hawaii at Manoa
+1931,Emily McIlroy,3.1,Fine Arts,75%,University of Hawaii at Manoa
+1932,Shayna Katz,5.0,Spanish,100%,University of Hawaii at Manoa
+1933,Robert Moore,4.5,Travel Industry,100%,University of Hawaii at Manoa
+1934,Imelda Gasmen,3.8,Filipino,65%,University of Hawaii at Manoa
+1935,Jennifer Draper,4.6,Nutrition,94%,University of Hawaii at Manoa
+1936,Aaron Do,4.0,Astronomy,100%,University of Hawaii at Manoa
+1937,Ashleigh Louis,5.0,Psychology,100%,University of Hawaii at Manoa
+1938,Drew Polakowski,4.5,Mathematics,100%,University of Hawaii at Manoa
+1939,Yilan Hu,4.2,American Studies,86%,University of Hawaii at Manoa
+1940,Mahealani Kaneshiro,1.5,Mathematics,20%,University of Hawaii at Manoa
+1941,Mario Cruz-Zayas,4.9,Spanish,100%,University of Hawaii at Manoa
+1942,Dulal Borthakur,3.7,Not Specified,20%,University of Hawaii at Manoa
+1943,Daniel Owens,4.2,Biochemistry,100%,University of Hawaii at Manoa
+1944,Brian Szuster,4.3,Geography,67%,University of Hawaii at Manoa
+1945,Kathy Ferguson,4.4,Political Science,89%,University of Hawaii at Manoa
+1946,Will Olney,4.3,Economics,100%,University of Hawaii at Manoa
+1947,Hua Chen,2.3,Business,15%,University of Hawaii at Manoa
+1948,Emi Murayama,4.8,Japanese,100%,University of Hawaii at Manoa
+1949,Michelle Wright,4.5,Hawaiian Studies,93%,University of Hawaii at Manoa
+1950,Kareem Elassy,0.0,Engineering,,University of Hawaii at Manoa
+1951,Rosita Chang,2.4,Finance,40%,University of Hawaii at Manoa
+1952,Kimberly Miyashiro,0.0,Business,100%,University of Hawaii at Manoa
+1953,Mark Nelson,5.0,Engineering,100%,University of Hawaii at Manoa
+1954,Kahala Johnson,3.3,Political Science,67%,University of Hawaii at Manoa
+1955,Laura O'Rourke,2.9,Languages,67%,University of Hawaii at Manoa
+1956,Grace Ray,3.0,Japanese,20%,University of Hawaii at Manoa
+1957,Donald Drake,5.0,Botany,100%,University of Hawaii at Manoa
+1958,Patrick Woo,5.0,Japanese,95%,University of Hawaii at Manoa
+1959,Irmak Yazici,5.0,Sociology,100%,University of Hawaii at Manoa
+1960,Barry Toyama,2.0,Kinesiology,28%,University of Hawaii at Manoa
+1961,Emilee Turner,3.0,Psychology,100%,University of Hawaii at Manoa
+1962,Kara Suzuka,4.0,Education,100%,University of Hawaii at Manoa
+1963,Swarnalakshmi Lakshmanan,3.0,Mathematics,100%,University of Hawaii at Manoa
+1964,Jackson Zolmer,2.0,Biology,,University of Hawaii at Manoa
+1965,Meagan Harden,0.0,Geography,,University of Hawaii at Manoa
+1966,Shikano Ikkei,3.3,Environmental Studies,63%,University of Hawaii at Manoa
+1967,Laura Margulies,5.0,Academy for Creative Media,100%,University of Hawaii at Manoa
+1968,Melissa Nakamura,0.0,Business,100%,University of Hawaii at Manoa
+1969,Robert Rodeck,3.8,Film,,University of Hawaii at Manoa
+1970,Lillian McIntyre,5.0,Japanese Literature,100%,University of Hawaii at Manoa
+1971,Claudia Pummer,3.5,Academy for Creative Media,34%,University of Hawaii at Manoa
+1972,Curtis Daehler,3.1,Biology,94%,University of Hawaii at Manoa
+1973,Eric Hurwitz,4.8,Public Health,100%,University of Hawaii at Manoa
+1974,Henry Osborne,3.5,Linguistics,50%,University of Hawaii at Manoa
+1975,Jaimey Hamilton,4.3,Art History,100%,University of Hawaii at Manoa
+1976,Aaron Lee,4.0,Graphic Arts,100%,University of Hawaii at Manoa
+1977,Adam Foster,4.3,Political Science,84%,University of Hawaii at Manoa
+1978,Kisitu Alexandra,4.7,Sociology,100%,University of Hawaii at Manoa
+1979,Hayley Mckown,5.0,Kinesiology,100%,University of Hawaii at Manoa
+1980,Lin Shen,4.0,Engineering,80%,University of Hawaii at Manoa
+1981,Richard Russ,4.3,Engineering,79%,University of Hawaii at Manoa
+1982,Kameryn Williams,4.2,Mathematics,80%,University of Hawaii at Manoa
+1983,Peter Quigley,2.5,English,67%,University of Hawaii at Manoa
+1984,Kuualoha Hoomanawanui,3.1,English,67%,University of Hawaii at Manoa
+1985,Erika Mukoyama,5.0,Japanese,100%,University of Hawaii at Manoa
+1986,Ward Steven,1.6,Biology,25%,University of Hawaii at Manoa
+1987,Zhao Li,4.4,Engineering,100%,University of Hawaii at Manoa
+1988,Jenny Teruya,2.9,Accounting,77%,University of Hawaii at Manoa
+1989,Anh Phan,5.0,Business,100%,University of Hawaii at Manoa
+1990,Kathleen Gauci,3.0,Educational Psychology,50%,University of Hawaii at Manoa
+1991,Roger Babcock,3.1,Engineering,56%,University of Hawaii at Manoa
+1992,Yao Zheng,3.3,Engineering,50%,University of Hawaii at Manoa
+1993,Jennie Tran,3.6,Languages,91%,University of Hawaii at Manoa
+1994,Daniel Flores,3.0,Mathematics,100%,University of Hawaii at Manoa
+1995,Leon James,2.8,Psychology,50%,University of Hawaii at Manoa
+1996,Kieko Matteson,4.5,History,100%,University of Hawaii at Manoa
+1997,John Szostak,1.5,Art History,,University of Hawaii at Manoa
+1998,Nathalie Segeral,2.4,French,34%,University of Hawaii at Manoa
+1999,Antin Nicholas,0.0,Mathematics,,University of Hawaii at Manoa
+2000,Aya Kimura,3.6,Women's Studies,50%,University of Hawaii at Manoa
+2001,Noweo Kai,0.0,Biology,,University of Hawaii at Manoa
+2002,Vicky Enos,0.0,Hawaiian,,University of Hawaii at Manoa
+2003,Boeui Woo,2.3,Korean,25%,University of Hawaii at Manoa
+2004,Shirakawa Takeshi,4.0,Philosophy,50%,University of Hawaii at Manoa
+2005,Jonathan Fine,4.0,Philosophy,50%,University of Hawaii at Manoa
+2006,Leilani Basham,3.3,Languages,0%,University of Hawaii at Manoa
+2007,Duckhyun Jo,5.0,Psychology,100%,University of Hawaii at Manoa
+2008,Matthew Ito,4.0,English,84%,University of Hawaii at Manoa
+2009,Masuda Akihiko,5.0,Psychology,100%,University of Hawaii at Manoa
+2010,Gretel Sia,2.9,Mathematics,45%,University of Hawaii at Manoa
+2011,Alice Zhu,0.0,Humanities,,University of Hawaii at Manoa
+2012,Quincy Edwards,4.8,Sociology,75%,University of Hawaii at Manoa
+2013,Tyler Miyashiro,5.0,Korean,100%,University of Hawaii at Manoa
+2014,Richard Jay Aglugub,5.0,Education,100%,University of Hawaii at Manoa
+2015,David Garmire,3.4,Engineering,80%,University of Hawaii at Manoa
+2016,Stephanie Buelow,3.0,Education,0%,University of Hawaii at Manoa
+2017,Noah Ryan,4.3,Hawaiian Studies,59%,University of Hawaii at Manoa
+2018,Kim Compoc,4.1,English,86%,University of Hawaii at Manoa
+2019,Adam Kehl,5.0,Music,100%,University of Hawaii at Manoa
+2020,Kasey Barton,1.8,Botany,10%,University of Hawaii at Manoa
+2021,Charles Morgan,0.0,Kinesiology,,University of Hawaii at Manoa
+2022,Natasha Lopes,3.4,Hawaiian Studies,75%,University of Hawaii at Manoa
+2023,Hyunsun Chung,4.5,Korean,100%,University of Hawaii at Manoa
+2024,Anthony Kuh,0.0,Engineering,,University of Hawaii at Manoa
+2025,Sujin Kang,1.0,Korean,,University of Hawaii at Manoa
+2026,Kelly Holden,3.8,Marketing,91%,University of Hawaii at Manoa
+2027,Miao Hu,4.8,Marketing,100%,University of Hawaii at Manoa
+2028,Joseph Iseri,0.0,Japanese,100%,University of Hawaii at Manoa
+2029,Joseph Mobley,1.0,Nursing,0%,University of Hawaii at Manoa
+2030,Marguerite Butler,2.0,Zoology,25%,University of Hawaii at Manoa
+2031,Kim Galante,3.2,Spanish,45%,University of Hawaii at Manoa
+2032,Crystal Kwok,0.0,Film,,University of Hawaii at Manoa
+2033,Rebecca Chong,1.8,Biology,20%,University of Hawaii at Manoa
+2034,Pavel Guerzhoy,3.1,Mathematics,77%,University of Hawaii at Manoa
+2035,Katie Caldwell,5.0,Social Work,100%,University of Hawaii at Manoa
+2036,Piphal Heng,0.0,History,,University of Hawaii at Manoa
+2037,Mya Sears,5.0,Atmospheric Sciences,100%,University of Hawaii at Manoa
+2038,Stacy Ray,3.0,Theater,50%,University of Hawaii at Manoa
+2039,Daniel Harris-Mccoy,4.3,Classics,100%,University of Hawaii at Manoa
+2040,Michael Poblete,4.4,Theater,56%,University of Hawaii at Manoa
+2041,Christopher Bae,4.4,Anthropology,100%,University of Hawaii at Manoa
+2042,Seth Quintus,4.1,Anthropology,82%,University of Hawaii at Manoa
+2043,Sebastian Ohara-Saft,5.0,Linguistics,100%,University of Hawaii at Manoa
+2044,Jason Cooper,3.0,History,0%,University of Hawaii at Manoa
+2045,Jordan Luz,4.1,English,86%,University of Hawaii at Manoa
+2046,Latner Janet,5.0,Psychology,100%,University of Hawaii at Manoa
+2047,Ashley Maynard,4.7,Psychology,100%,University of Hawaii at Manoa
+2048,Koyuki Mitani,4.5,Japanese,100%,University of Hawaii at Manoa
+2049,Nick Synodinos,3.4,Marketing,50%,University of Hawaii at Manoa
+2050,Bruce Watson,4.5,Hawaiian Studies,100%,University of Hawaii at Manoa
+2051,Paul Lawler,2.1,Hospitality,18%,University of Hawaii at Manoa
+2052,Eduard Merc,5.0,Business,100%,University of Hawaii at Manoa
+2053,Lisa Widdison,3.0,Philosophy,67%,University of Hawaii at Manoa
+2054,Patricia Couvillon,3.4,Psychology,45%,University of Hawaii at Manoa
+2055,Rick Kazman,3.2,Business,37%,University of Hawaii at Manoa
+2056,Michael Cooney,4.6,Science,97%,University of Hawaii at Manoa
+2057,Amy Schafer,4.3,Languages,100%,University of Hawaii at Manoa
+2058,Ramona Clemente,1.0,Human Resources,0%,University of Hawaii at Manoa
+2059,Emily West,5.0,English,100%,University of Hawaii at Manoa
+2060,Richard Rath,3.1,History,45%,University of Hawaii at Manoa
+2061,William Temple,0.0,Communication,,University of Hawaii at Manoa
+2062,Marcus Tius,3.1,Chemistry,45%,University of Hawaii at Manoa
+2063,Ross Peterman,3.0,Honors,,University of Hawaii at Manoa
+2064,Tiana An,0.0,Languages,,University of Hawaii at Manoa
+2065,Heather Nylen,3.6,Spanish,82%,University of Hawaii at Manoa
+2066,Sungjin Kim,0.0,Marketing,,University of Hawaii at Manoa
+2067,Eva  Cruz,0.0,Pacific & Asian Studies,,University of Hawaii at Manoa
+2068,Michele Bray,3.3,Nursing,0%,University of Hawaii at Manoa
+2069,Matt Johnson,0.0,Natural Resources,,University of Hawaii at Manoa
+2070,Tamar Kreps,5.0,Business,100%,University of Hawaii at Manoa
+2071,Yumiko Tateyama,4.0,Japanese,58%,University of Hawaii at Manoa
+2072,Ravi Narayan,3.6,Computer Science,70%,University of Hawaii at Manoa
+2073,Ka-Ning Fong,5.0,Art History,100%,University of Hawaii at Manoa
+2074,Steven Holmes,3.6,English,58%,University of Hawaii at Manoa
+2075,Susan Chandler,0.0,Public Policy,,University of Hawaii at Manoa
+2076,Samantha Andrews,0.0,Kinesiology,,University of Hawaii at Manoa
+2077,Jacob Fennick,0.0,Physics,,University of Hawaii at Manoa
+2078,Barbara Endicott-Popovsky,2.0,Computer Science,67%,University of Hawaii at Manoa
+2079,Grant Muagututia,4.0,Languages,82%,University of Hawaii at Manoa
+2080,Theresa Greaney,4.0,Economics,63%,University of Hawaii at Manoa
+2081,Stewart Curry,4.6,Japanese,94%,University of Hawaii at Manoa
+2082,Christopher Cannon,5.0,Marketing,100%,University of Hawaii at Manoa
+2083,Leighton Lee,5.0,Family Studies,100%,University of Hawaii at Manoa
+2084,Brian Popp,4.5,Geology,100%,University of Hawaii at Manoa
+2085,Alexander Means,4.0,Education,100%,University of Hawaii at Manoa
+2086,Malte-Fabian Stuecker,3.3,History,100%,University of Hawaii at Manoa
+2087,Yanghua He,4.5,Science,100%,University of Hawaii at Manoa
+2088,Katinka Hammerich,4.8,German,95%,University of Hawaii at Manoa
+2089,Ivonne Fitzgerald,3.2,Spanish,73%,University of Hawaii at Manoa
+2090,Jon-Paul Bingham,4.2,Biology,72%,University of Hawaii at Manoa
+2091,Kyungim Baek,3.3,Computer Science,80%,University of Hawaii at Manoa
+2092,Dax Garcia,5.0,English,100%,University of Hawaii at Manoa
+2093,Ethan Caldwell,4.6,Ethnic Studies,100%,University of Hawaii at Manoa
+2094,Akiko Ono,5.0,Asian Studies,100%,University of Hawaii at Manoa
+2095,Michael Cooney,0.0,Oceanography,,University of Hawaii at Manoa
+2096,Ha'ani San Nicolas,0.0,Political Science,100%,University of Hawaii at Manoa
+2097,Lloyd Hihara,1.7,Engineering,23%,University of Hawaii at Manoa
+2098,David Ross,2.6,Mathematics,40%,University of Hawaii at Manoa
+2099,Rufus Willett,4.8,Mathematics,86%,University of Hawaii at Manoa
+2100,Yukiya Oba,4.2,Kinesiology,100%,University of Hawaii at Manoa
+2101,Migiwa Kawachi,1.0,Botany,0%,University of Hawaii at Manoa
+2102,Yiting Wang,2.8,Communication,63%,University of Hawaii at Manoa
+2103,Noenoelani Zuttermeister,3.8,Music,60%,University of Hawaii at Manoa
+2104,Jason Higa,4.3,Nursing,100%,University of Hawaii at Manoa
+2105,Benjamin Boe,5.0,Astronomy,100%,University of Hawaii at Manoa
+2106,Dianne Juhn,0.0,Korean,,University of Hawaii at Manoa
+2107,Magdy F. Iskander,1.5,Engineering,0%,University of Hawaii at Manoa
+2108,Vinod Malhotra,1.9,Engineering,30%,University of Hawaii at Manoa
+2109,George Wilkens,2.4,Mathematics,0%,University of Hawaii at Manoa
+2110,Rachel Hoerman,3.6,Anthropology,0%,University of Hawaii at Manoa
+2111,Bardia Konh,3.3,Engineering,58%,University of Hawaii at Manoa
+2112,Dilmurat Azimov,2.7,Engineering,50%,University of Hawaii at Manoa
+2113,Nha Truong,5.0,Mathematics,100%,University of Hawaii at Manoa
+2114,Richard Johnson,5.0,Education,100%,University of Hawaii at Manoa
+2115,Ruben Juarez,4.2,Economics,87%,University of Hawaii at Manoa
+2116,Justin Tyndall,5.0,Economics,100%,University of Hawaii at Manoa
+2117,Tomoko Iwai,4.5,Japanese,93%,University of Hawaii at Manoa
+2118,Monica Vidal,3.2,Languages & Linguistics,80%,University of Hawaii at Manoa
+2119,Christine Acham,3.1,Academy for Creative Media,50%,University of Hawaii at Manoa
+2120,June Lee,1.0,Architecture,0%,University of Hawaii at Manoa
+2121,Kahealani (Jessica) Lono,4.9,Hawaiian,100%,University of Hawaii at Manoa
+2122,Sarah Post,4.4,Mathematics,100%,University of Hawaii at Manoa
+2123,Carelton Moore,3.0,Computer Science,100%,University of Hawaii at Manoa
+2124,Ainhoa de Zabala,0.0,Spanish,,University of Hawaii at Manoa
+2125,Nancy Stalker,1.7,History,0%,University of Hawaii at Manoa
+2126,Edward Davis,3.0,History,72%,University of Hawaii at Manoa
+2127,Tom Browder,2.0,Physics,17%,University of Hawaii at Manoa
+2128,Luisa Kou,2.9,Spanish,50%,University of Hawaii at Manoa
+2129,Cassandra Sokach,0.0,Mathematics,50%,University of Hawaii at Manoa
+2130,Tony Papa,0.0,Psychology,100%,University of Hawaii at Manoa
+2131,Lucia Camardiel Sardina,0.0,Spanish,,University of Hawaii at Manoa
+2132,Jocelyn Kaneshiro,3.0,Speech,0%,University of Hawaii at Manoa
+2133,Sumi Chang,3.9,Korean,100%,University of Hawaii at Manoa
+2134,Loriena Yancura,4.5,Family Studies,92%,University of Hawaii at Manoa
+2135,Randall Minas,4.8,Information Science,88%,University of Hawaii at Manoa
+2136,Andre Seale,2.5,Agriculture,34%,University of Hawaii at Manoa
+2137,Makenzie Davis,4.0,Art History,100%,University of Hawaii at Manoa
+2138,Giulio Ronzoni,4.3,Travel Industry,67%,University of Hawaii at Manoa
+2139,Bruce Watson,4.8,Political Science,84%,University of Hawaii at Manoa
+2140,Tung Hoang,2.1,Microbiology,19%,University of Hawaii at Manoa
+2141,Lorna Holmes,0.0,Classics,100%,University of Hawaii at Manoa
+2142,Lara Hackney,4.5,Science,100%,University of Hawaii at Manoa
+2143,Joshua Lourence,0.0,History,,University of Hawaii at Manoa
+2144,Katherine Irwin,4.3,Sociology,77%,University of Hawaii at Manoa
+2145,Klaus Sattler,4.3,Physics,89%,University of Hawaii at Manoa
+2146,Mikhail Ponce,0.0,Travel Industry,100%,University of Hawaii at Manoa
+2147,Alexander Stokes,5.0,Zoology,100%,University of Hawaii at Manoa
+2148,Carolyn Maunu-Hendrix,4.5,Travel Industry,,University of Hawaii at Manoa
+2149,Corey Flanders,4.5,Psychology,,University of Hawaii at Manoa
+2150,Anne Kennedy,3.8,English,,University of Hawaii at Manoa
+2151,Kimberly Galante-Wong.,2.7,Spanish,25%,University of Hawaii at Manoa
+2152,Presley Ah Mook Sang,5.0,Hawaiian,100%,University of Hawaii at Manoa
+2153,James Frankel,4.8,Religion,,University of Hawaii at Manoa
+2154,Young Jin Bahng,3.3,Design,50%,University of Hawaii at Manoa
+2155,Laura Chandler,5.0,Education,100%,University of Hawaii at Manoa
+2156,David Webb,5.0,Mathematics,100%,University of Hawaii at Manoa
+2157,Cameron Grimm,5.0,Political Science,100%,University of Hawaii at Manoa
+2158,Jonathan Pettit,4.4,Religion,95%,University of Hawaii at Manoa
+2159,Edward McAssey,4.4,Biology,96%,University of Hawaii at Manoa
+2160,Karolina Heyduk,4.5,Biology,100%,University of Hawaii at Manoa
+2161,Elena Dobrica,1.0,Science,0%,University of Hawaii at Manoa
+2162,Yuka Wada,4.4,Japanese,90%,University of Hawaii at Manoa
+2163,Vilsoni Hereniko,3.5,Academy for Creative Media,64%,University of Hawaii at Manoa
+2164,Nicolas Antin,3.8,Engineering,86%,University of Hawaii at Manoa
+2165,Matthias Fripp,3.7,Engineering,50%,University of Hawaii at Manoa
+2166,Elisabeth Kaiama,4.5,Hawaiian Studies,77%,University of Hawaii at Manoa
+2167,Scott Kaalele,4.0,English,60%,University of Hawaii at Manoa
+2168,Yean-Ju Lee,1.0,Sociology,0%,University of Hawaii at Manoa
+2169,Michael Cheang,4.1,Family Studies,82%,University of Hawaii at Manoa
+2170,Taylor (TK) Klotz,1.0,Mathematics,58%,University of Hawaii at Manoa
+2171,Joon Ho Kim,3.6,Finance,75%,University of Hawaii at Manoa
+2172,Lea Ann Lucas,4.6,Psychology,100%,University of Hawaii at Manoa
+2173,Bonnie Schwartz,2.8,Languages,25%,University of Hawaii at Manoa
+2174,Kurtis Nishimura,4.9,Physics,100%,University of Hawaii at Manoa
+2175,Rheta Kuwahara,3.2,Family & Consumer Sciences,60%,University of Hawaii at Manoa
+2176,Hannah Liebreich,3.8,Sociology,72%,University of Hawaii at Manoa
+2177,Anastasia Kostetskaya,2.8,Russian,50%,University of Hawaii at Manoa
+2178,Pia Arboleda,4.7,Filipino,100%,University of Hawaii at Manoa
+2179,Niklaus Schweizer,4.2,Literature,70%,University of Hawaii at Manoa
+2180,Igor  Nikitin,4.5,Mathematics,100%,University of Hawaii at Manoa
+2181,Joan Debrah,4.7,French,90%,University of Hawaii at Manoa
+2182,Sothy Eng,5.0,Family Studies,100%,University of Hawaii at Manoa
+2183,Rick Caulfield,4.8,Social Science,96%,University of Hawaii at Manoa
+2184,Marcus Daniel,4.3,History,88%,University of Hawaii at Manoa
+2185,Janet Latner,0.0,Psychology,,University of Hawaii at Manoa
+2186,Amy Brown,2.9,Nutrition,56%,University of Hawaii at Manoa
+2187,Haruko Cook,2.6,Japanese,0%,University of Hawaii at Manoa
+2188,Atsushi Hasegawa,4.5,Japanese Literature,100%,University of Hawaii at Manoa
+2189,Yuanan Lu,4.0,Public Health,86%,University of Hawaii at Manoa
+2190,Denise Hurwitz,4.5,Public Health,89%,University of Hawaii at Manoa
+2191,William Uspal,4.3,Engineering,100%,University of Hawaii at Manoa
+2192,Jakob Kotas,3.5,Mathematics,86%,University of Hawaii at Manoa
+2193,Qian Zhang,1.5,Engineering,,University of Hawaii at Manoa
+2194,Mi-Jeong Lee,0.0,Nutrition,,University of Hawaii at Manoa
+2195,Thomas Robertson,0.0,Social Work,,University of Hawaii at Manoa
+2196,Marie Revilla,0.0,Food Science,,University of Hawaii at Manoa
+2197,Michelle Kunkel,0.0,Languages & Linguistics,100%,University of Hawaii at Manoa
+2198,Will Weinstein,0.0,Management,,University of Hawaii at Manoa
+2199,Tanya Barnett,5.0,Japanese,100%,University of Hawaii at Manoa
+2200,Gwen Nakamura,4.9,Music,100%,University of Hawaii at Manoa
+2201,Justin Stopa,0.0,Ocean & Resources Engineering,,University of Hawaii at Manoa
+2202,Robert Blanchard,2.8,Psychology,,University of Hawaii at Manoa
+2203,Ara Laylo,0.0,Fine Arts,100%,University of Hawaii at Manoa
+2204,Laura Lyons,4.2,English,0%,University of Hawaii at Manoa
+2205,Dan Wedemeyer,4.3,Communication,,University of Hawaii at Manoa
+2206,Konrad Ng,4.5,Academy for Creative Media,,University of Hawaii at Manoa
+2207,Uilani Bobbit,3.2,Hawaiian,100%,University of Hawaii at Manoa
+2208,Juvana Soliven,3.9,Fine Arts,79%,University of Hawaii at Manoa
+2209,Kathleen Cole,0.0,Biology,100%,University of Hawaii at Manoa
+2210,Maria Houar,0.0,Academy for Creative Media,100%,University of Hawaii at Manoa
+2211,Carol Paul-Watanabe,2.8,Health Science,,University of Hawaii at Manoa
+2212,Melly Wilson,4.7,Political Science,,University of Hawaii at Manoa
+2213,Duane Henry,4.1,Political Science,,University of Hawaii at Manoa
+2214,Nancy Reed,1.6,Computer Science,0%,University of Hawaii at Manoa
+2215,Feducia Pag-ibig,0.0,Graphic Arts,,University of Hawaii at Manoa
+2216,Susan Jacob,0.0,Music,,University of Hawaii at Manoa
+2217,Carolyn Siegman,0.0,Linguistics,,University of Hawaii at Manoa
+2218,Jill Nakatsu,1.0,Engineering,0%,University of Hawaii at Manoa
+2219,Florina Titz,0.0,Academy for Creative Media,100%,University of Hawaii at Manoa
+2220,Jaewon Kim,0.0,History,,University of Hawaii at Manoa
+2221,Raphael Raphael,0.0,Academy for Creative Media,,University of Hawaii at Manoa
+2222,Miroslav Gabrovski,3.0,Economics,80%,University of Hawaii at Manoa
+2223,Andy Reilly,4.7,Design,100%,University of Hawaii at Manoa
+2224,Foster Kealohi,0.0,Hawaiian Studies,100%,University of Hawaii at Manoa
+2225,Joshua Habermann,0.0,Music,,University of Hawaii at Manoa
+2226,Chad Morita,0.0,Computer Science,100%,University of Hawaii at Manoa
+2227,Tania Lynch,0.0,Nursing,,University of Hawaii at Manoa
+2228,Danielle Jansen,0.0,Microbiology,100%,University of Hawaii at Manoa
+2229,Camille Monson,0.0,Education,,University of Hawaii at Manoa
+2230,Pier-Carlo Tommasi,0.0,Asian Studies,100%,University of Hawaii at Manoa
+2231,Celina Herrera,0.0,Psychology,,University of Hawaii at Manoa
+2232,Jason Higa,3.9,Zoology,77%,University of Hawaii at Manoa
+2233,Ellen-Rae Cachola,3.1,Ethnic Studies,50%,University of Hawaii at Manoa
+2234,Nodari  Sitchinava,4.7,Computer Science,100%,University of Hawaii at Manoa
+2235,Jillian Janowiak,5.0,Psychology,100%,University of Hawaii at Manoa
+2236,Mike Huddleston,4.1,Biology,72%,University of Hawaii at Manoa
+2237,Joshua Lazarus,5.0,English,100%,University of Hawaii at Manoa
+2238,Ayu Saraswati,3.8,Women's Studies,75%,University of Hawaii at Manoa
+2239,Roger Chen,4.5,Engineering,75%,University of Hawaii at Manoa
+2240,Henny Hodges,4.3,Nursing,,University of Hawaii at Manoa
+2241,Trina Kudlacek,3.5,Women's Studies,60%,University of Hawaii at Manoa
+2242,Benjamin Moseley,0.0,History,100%,University of Hawaii at Manoa
+2243,Blake Nichols,0.0,Marketing,100%,University of Hawaii at Manoa
+2244,Rebecca Stotzer,3.3,Social Work,75%,University of Hawaii at Manoa
+2245,Justin Walguarnery,3.0,Science,72%,University of Hawaii at Manoa
+2246,George Kent,1.9,Political Science,,University of Hawaii at Manoa
+2247,Phillip Ooi,3.8,Engineering,72%,University of Hawaii at Manoa
+2248,Sarah Goodson,3.3,English,86%,University of Hawaii at Manoa
+2249,William Quam,1.7,Business,0%,University of Hawaii at Manoa
+2250,Boo Chun Jung,3.9,Accounting,95%,University of Hawaii at Manoa
+2251,Susan Ward,0.0,Kinesiology,,University of Hawaii at Manoa
+2252,My Tran,0.0,Architecture,100%,University of Hawaii at Manoa
+2253,Chuang Xu,0.0,Medicine,,University of Hawaii at Manoa
+2254,Julie Bennington,5.0,Zoology,100%,University of Hawaii at Manoa
+2255,Adam Pang,5.0,Educational Psychology,100%,University of Hawaii at Manoa
+2256,Le Lin,3.4,Sociology,70%,University of Hawaii at Manoa
+2257,Kristine Santaniello,4.1,Accounting,89%,University of Hawaii at Manoa
+2258,Carla Wallingford,5.0,French,100%,University of Hawaii at Manoa
+2259,Phoebe Hwang,5.0,Public Health,100%,University of Hawaii at Manoa
+2260,Charles Lui,0.0,Psychology,,University of Hawaii at Manoa
+2261,Moshe Karabelnik,3.0,Communication,60%,University of Hawaii at Manoa
+2262,Chet-Yeng Loong,3.1,Music,,University of Hawaii at Manoa
+2263,Kumiko Hashida,4.6,Kinesiology,100%,University of Hawaii at Manoa
+2264,David Blon,4.3,Music,,University of Hawaii at Manoa
+2265,Hyun Kim,0.0,Economics,,University of Hawaii at Manoa
+2266,Walter Sowden,2.0,Psychology,100%,University of Hawaii at Manoa
+2267,Ben Lee,1.0,Architecture,,University of Hawaii at Manoa
+2268,Athula Wikramanayake,3.6,Biology,100%,University of Hawaii at Manoa
+2269,Doris Masser,3.9,Marketing,63%,University of Hawaii at Manoa
+2270,Benito Quintana,4.5,Spanish,100%,University of Hawaii at Manoa
+2271,Nancy Kerns,2.0,Music,0%,University of Hawaii at Manoa
+2272,Robert Nichols,3.5,Zoology,67%,University of Hawaii at Manoa
+2273,Vinod Malholtra,0.0,Engineering,,University of Hawaii at Manoa
+2274,Reed Dasenbrock,4.5,English,50%,University of Hawaii at Manoa
+2275,Ulla Hasager,3.2,Ethnic Studies,72%,University of Hawaii at Manoa
+2276,Valeria Wenderoth,4.7,Italian,,University of Hawaii at Manoa
+2277,David Yang,3.5,Accounting,64%,University of Hawaii at Manoa
+2278,Eric Firing,2.5,Oceanography,,University of Hawaii at Manoa
+2279,Chae Ho Lee,4.6,Graphic Arts,100%,University of Hawaii at Manoa
+2280,Diane Yap,3.0,Mathematics,,University of Hawaii at Manoa
+2281,Miguel Llora,4.8,American Studies,,University of Hawaii at Manoa
+2282,Viil Lid,4.3,Communication,,University of Hawaii at Manoa
+2283,Kyoungwon OH,2.4,Japanese,,University of Hawaii at Manoa
+2284,Hye Seung Lee,5.0,Korean,100%,University of Hawaii at Manoa
+2285,Saundra Schwartz,1.8,History,13%,University of Hawaii at Manoa
+2286,Gyu-Ho Shin,1.0,Linguistics,0%,University of Hawaii at Manoa
+2287,Xinruo Wang,4.2,Finance,100%,University of Hawaii at Manoa
+2288,Tom Apple,5.0,Chemistry,100%,University of Hawaii at Manoa
+2289,Noel Kent,3.5,Ethnic Studies,75%,University of Hawaii at Manoa
+2290,David Terada,0.0,English,100%,University of Hawaii at Manoa
+2291,Kacie Ho,5.0,Science,100%,University of Hawaii at Manoa
+2292,Amanda Huynh,0.0,English,,University of Hawaii at Manoa
+2293,Francesca Pizarro,4.0,East Asian Lang. amp Literature,100%,University of Hawaii at Manoa
+2294,Hsing Wen,1.0,Travel Industry,0%,University of Hawaii at Manoa
+2295,Donald / Pui Hang ,0.0,Mathematics,,University of Hawaii at Manoa
+2296,Uzma Khan,4.7,English,,University of Hawaii at Manoa
+2297,Caleb Reichhardt,0.0,Agriculture,,University of Hawaii at Manoa
+2298,Greuling Jason,0.0,Mathematics,,University of Hawaii at Manoa
+2299,Caroline Zuckerman,0.0,English,,University of Hawaii at Manoa
+2300,Ava Ladner,0.0,Academy for Creative Media,100%,University of Hawaii at Manoa
+2301,Zefan Huang,0.0,Business,,University of Hawaii at Manoa
+2302,Adam Pang,0.0,Education,,University of Hawaii at Manoa
+2303,Pena Irma,0.0,Asian Studies,,University of Hawaii at Manoa
+2304,Adam Stauffer,0.0,Business,100%,University of Hawaii at Manoa
+2305,Jace Siplan,0.0,Music,,University of Hawaii at Manoa
+2306,Rich Johnson,4.5,Education,100%,University of Hawaii at Manoa
+2307,Katherine Kim,4.7,Kinesiology,100%,University of Hawaii at Manoa
+2308,Noah Domingo,0.0,Academy for Creative Media,,University of Hawaii at Manoa
+2309,Marc Moody,0.0,Academy for Creative Media,,University of Hawaii at Manoa
+2310,Vanessa Buchthal,0.0,Public Health,100%,University of Hawaii at Manoa
+2311,Ramdas Lamb,4.0,Religion,66%,University of Hawaii at Manoa
+2312,Jessica Cabusog,0.0,Public Health,100%,University of Hawaii at Manoa
+2313,Joan Pan,0.0,Geography,100%,University of Hawaii at Manoa
+2314,John Robertson,5.0,Mathematics,95%,University of Hawaii at Manoa
+2315,Nicole Grove,4.1,Political Science,86%,University of Hawaii at Manoa
+2316,Kawehi Lucas,2.5,Hawaiian,24%,University of Hawaii at Manoa
+2317,Henrieta Dulaiova,3.9,Geology,67%,University of Hawaii at Manoa
+2318,Akea Kahikina,5.0,Hawaiian,100%,University of Hawaii at Manoa
+2319,Mahealani Kaneshiro-Pineiro,2.2,Natural Resources,8%,University of Hawaii at Manoa
+2320,Yifan  Chen,0.0,Business,100%,University of Hawaii at Manoa
+2321,Jingyu Hu,5.0,Medicine,100%,University of Hawaii at Manoa
+2322,Anirvan Shukla,5.0,Physics,100%,University of Hawaii at Manoa
+2323,Trevor Daines ,0.0,Travel Industry,,University of Hawaii at Manoa
+2324,Erin  Wright,0.0,Education,,University of Hawaii at Manoa
+2325,Tomoko Kato,0.0,Japanese,100%,University of Hawaii at Manoa
+2326,Uliana Kostareva,2.0,Nursing,100%,University of Hawaii at Manoa
+2327,Steven Smith,0.0,Economics,,University of Hawaii at Manoa
+2328,Christina Higa,0.0,Communication,,University of Hawaii at Manoa
+2329,Kristen Scholly,5.0,Education,100%,University of Hawaii at Manoa
+2330,Shelby Mitchell ,0.0,Physics,,University of Hawaii at Manoa
+2331,Darren Sana,3.3,Indo-Pacific Languages & Literatures,50%,University of Hawaii at Manoa
+2332,Christopher Blasdel,3.5,Music,100%,University of Hawaii at Manoa
+2333,Alan Hudson,3.0,Biology,,University of Hawaii at Manoa
+2334,Victoria Timmerman,5.0,Education,100%,University of Hawaii at Manoa
+2335,Debra Drexler,2.6,Art History,100%,University of Hawaii at Manoa
+2336,Nicole Kurashige,4.5,English,91%,University of Hawaii at Manoa
+2337,Mark Murphy,5.0,Educational Psychology,100%,University of Hawaii at Manoa
+2338,Catherine Pirkle,0.0,Public Health,,University of Hawaii at Manoa
+2339,Lane Davey,4.6,English,100%,University of Hawaii at Manoa
+2340,William Donahue,3.6,Business,75%,University of Hawaii at Manoa
+2341,Ellinor Haglund,2.0,Chemistry,34%,University of Hawaii at Manoa
+2342,Holden Takahashi,2.0,History,100%,University of Hawaii at Manoa
+2343,Chung Cheng,1.0,Philosophy,,University of Hawaii at Manoa
+2344,Marc Lepape,4.0,Communication,50%,University of Hawaii at Manoa
+2345,Peter Fuleky,4.3,Economics,100%,University of Hawaii at Manoa
+2346,Nadezna Ortega,4.0,Filipino,100%,University of Hawaii at Manoa
+2347,Jonita Range,4.3,Nursing,100%,University of Hawaii at Manoa
+2348,Rajesh Jha,3.8,Agriculture,62%,University of Hawaii at Manoa
+2349,Roxanne Bristol,0.0,Education,,University of Hawaii at Manoa
+2350,Hamid Pourjalali,3.1,Accounting,50%,University of Hawaii at Manoa
+2351,Precious Mae Arao,0.0,Languages,,University of Hawaii at Manoa
+2352,Julien Gorbach,2.0,Journalism,38%,University of Hawaii at Manoa
+2353,Chuck Lopez,5.0,Business,100%,University of Hawaii at Manoa
+2354,Sarah Wiebe,4.0,Political Science,100%,University of Hawaii at Manoa
+2355,Patrick Collins,1.8,Mathematics,19%,University of Hawaii at Manoa
+2356,Cynthia Scheopner,2.0,Philosophy,50%,University of Hawaii at Manoa
+2357,Madeline Spring,1.7,East Asian Lang.  Literature,0%,University of Hawaii at Manoa
+2358,Quynh Vo,3.6,English,75%,University of Hawaii at Manoa
+2359,Diane Nahl,2.5,Computer Science,0%,University of Hawaii at Manoa
+2360,Susanna Still,1.8,Computer Science,0%,University of Hawaii at Manoa
+2361,Ingrid Lin,2.8,Travel Industry,50%,University of Hawaii at Manoa
+2362,Chung-Ying Cheng,2.0,Philosophy,50%,University of Hawaii at Manoa
+2363,Jose (Carlos) Tome,4.7,Spanish,90%,University of Hawaii at Manoa
+2364,Monir Zaman,3.3,Mathematics,80%,University of Hawaii at Manoa
+2365,Spencer Reemelin,3.4,Spanish,75%,University of Hawaii at Manoa
+2366,Julian Hachmeister,5.0,Mathematics,100%,University of Hawaii at Manoa
+2367,Pat Gilbert,3.1,Computer Science,,University of Hawaii at Manoa
+2368,Jack Moore,0.0,Law,,University of Hawaii at Manoa
+2369,James Douglas,1.2,Microbiology,0%,University of Hawaii at Manoa
+2370,Ryan Longman,4.6,Geography,100%,University of Hawaii at Manoa
+2371,Chuang Xu,1.6,Mathematics,100%,University of Hawaii at Manoa
+2372,Elizabeth van Saders,0.0,Astronomy,,University of Hawaii at Manoa
+2373,Emiko Taniguchi,3.3,Communicology,34%,University of Hawaii at Manoa
+2374,Henry McMahon,0.0,Art History,100%,University of Hawaii at Manoa
+2375,Patrick Kirch,3.5,Anthropology,67%,University of Hawaii at Manoa
+2376,Kyle Kajihiro,4.3,Geography,100%,University of Hawaii at Manoa
+2377,Thomas Hangelbroek,4.0,Mathematics,75%,University of Hawaii at Manoa
+2378,Raindrop Wright-Cannon,4.2,English,92%,University of Hawaii at Manoa
+2379,Sebastien Bertrand,4.0,Mathematics,91%,University of Hawaii at Manoa
+2380,Deborah Merritt,2.3,Health Science,32%,University of Hawaii at Manoa
+2381,James Bayman,4.5,Anthropology,100%,University of Hawaii at Manoa
+2382,Alaka'i Antonio,0.0,English,100%,University of Hawaii at Manoa
+2383,Katie Hinojosa,5.0,Japanese,100%,University of Hawaii at Manoa
+2384,Christina Lee,5.0,English,100%,University of Hawaii at Manoa
+2385,Jeffrey Romine,2.7,Chemistry,70%,University of Hawaii at Manoa
+2386,Daniel Brayton,2.8,Chemistry,45%,University of Hawaii at Manoa
+2387,Siobhán Dhonacha,2.3,Honors,60%,University of Hawaii at Manoa
+2388,Carolyn Stephenson,2.1,Political Science,43%,University of Hawaii at Manoa
+2389,Jeffrey Boeckman,5.0,Music,,University of Hawaii at Manoa
+2390,Marcelo Kobayashi,1.4,Engineering,13%,University of Hawaii at Manoa
+2391,Ming Shou,3.6,Finance,86%,University of Hawaii at Manoa
+2392,Daniel Rempala,4.6,Psychology,95%,University of Hawaii at Manoa
+2393,Stephen Downes,0.0,Communication,,University of Hawaii at Manoa
+2394,Shawn Spangler,4.2,Art History,84%,University of Hawaii at Manoa
+2395,Jennifer Van Sanders ,0.0,Physics,100%,University of Hawaii at Manoa
+2396,Rosalie Michlot,4.0,Biology,100%,University of Hawaii at Manoa
+2397,William Hufen,4.9,Kinesiology,100%,University of Hawaii at Manoa
+2398,Eric Mais,3.6,Finance,87%,University of Hawaii at Manoa
+2399,Chloe Hasegawa,0.0,Nursing,,University of Hawaii at Manoa
+2400,Megan Porter,2.7,Biology,61%,University of Hawaii at Manoa
+2401,Ji-Sook Ha,0.0,Medical Technology,,University of Hawaii at Manoa
+2402,Sydney  Ludlow,5.0,Languages,100%,University of Hawaii at Manoa
+2403,Hee Ra Yoo,0.0,Theater,,University of Hawaii at Manoa
+2404,Hee Ra Yoo,0.0,Theatre & Dance,100%,University of Hawaii at Manoa
+2405,Ivan  Camino,0.0,Economics,,University of Hawaii at Manoa
+2406,Iljea Lee,5.0,Religion,100%,University of Hawaii at Manoa
+2407,Michelle Wimberley,1.3,Kinesiology,0%,University of Hawaii at Manoa
+2408,Nelson Danette,1.6,Accounting,100%,University of Hawaii at Manoa
+2409,I sak Kim,5.0,Psychology,100%,University of Hawaii at Manoa
+2410,Aurelio Agcaoili,3.0,Asian Studies,58%,University of Hawaii at Manoa
+2411,Zhi-Yan  Du,1.0,Biochemistry,,University of Hawaii at Manoa
+2412,Kayla Watabu,0.0,English,,University of Hawaii at Manoa
+2413,Hyoungsu Park,5.0,Engineering,100%,University of Hawaii at Manoa
+2414,Eddie  Merc,0.0,Business,,University of Hawaii at Manoa
+2415,Taylor Brooke Hunter,0.0,Philosophy,100%,University of Hawaii at Manoa
+2416,Maluhia Low,0.0,Political Science,100%,University of Hawaii at Manoa
+2417,Hugh Chou,0.0,Mathematics,100%,University of Hawaii at Manoa
+2418,Ming-Bao Yue,3.1,Women's Studies,34%,University of Hawaii at Manoa
+2419,Shoshana Cohen,5.0,Kinesiology,100%,University of Hawaii at Manoa
+2420,Lisa Kehl,3.6,Public Health,75%,University of Hawaii at Manoa
+2421,Craig Perez,5.0,English,100%,University of Hawaii at Manoa
+2422,Jan Prins,4.3,Physical Ed,100%,University of Hawaii at Manoa
+2423,Amy Fuller,2.6,Chemistry,75%,University of Hawaii at Manoa
+2424,Cynthia Hunter,0.0,Biology,,University of Hawaii at Manoa
+2425,Zhiyue Wang,0.0,Engineering,,University of Hawaii at Manoa
+2426,Chad Junkermeier,0.0,Physics,100%,University of Hawaii at Manoa
+2427,Danny Marfatia,1.2,Physics,0%,University of Hawaii at Manoa
+2428,Michael Roberts,2.1,Economics,20%,University of Hawaii at Manoa
+2429,Deborah Eason,5.0,Science,100%,University of Hawaii at Manoa
+2430,Ami Tsuji-Jones,3.5,Languages,100%,University of Hawaii at Manoa
+2431,Wendy Kawabata,4.3,Fine Arts,67%,University of Hawaii at Manoa
+2432,Dharm Bhawuk,1.8,Management,14%,University of Hawaii at Manoa
+2433,Akta Rao,5.0,Political Science,100%,University of Hawaii at Manoa
+2434,Alicia Rozet,4.7,Hawaiian,94%,University of Hawaii at Manoa
+2435,Wonbin  Sohn,0.0,Business,,University of Hawaii at Manoa
+2436,Wonbin Sohn,5.0,Human Resources,100%,University of Hawaii at Manoa
+2437,Yun Heacock-Kang,0.0,Microbiology,,University of Hawaii at Manoa
+2438,Dolores Black,5.0,English,100%,University of Hawaii at Manoa
+2439,Karl-Richard Hennebach,4.4,Kinesiology,100%,University of Hawaii at Manoa
+2440, Aurora Kagawa-Viviani,0.0,Geology,,University of Hawaii at Manoa
+2441,Samuel  Pooley ,4.0,Economics,100%,University of Hawaii at Manoa
+2442,Jose Barzola,3.0,Ethnic Studies,,University of Hawaii at Manoa
+2443,John Souza,5.0,Family Studies,100%,University of Hawaii at Manoa
+2444,Frances Zhu,0.0,Engineering,,University of Hawaii at Manoa
+2445,Babe Kawaii-Bogue,4.6,Social Work,100%,University of Hawaii at Manoa
+2446,Robert Littman,3.5,Classics,50%,University of Hawaii at Manoa
+2447,Mary Wollen,0.0,Accounting,,University of Hawaii at Manoa
+2448,Ataie Niloufar,0.0,Chemistry,100%,University of Hawaii at Manoa
+2449,Jenna Macy,4.0,Fine Arts,100%,University of Hawaii at Manoa
+2450,Adrian Ricardo Archilla,2.7,Engineering,25%,University of Hawaii at Manoa
+2451,Xiaodan Mao-Clark,0.0,Travel Industry,,University of Hawaii at Manoa
+2452,Bill Morrison,0.0,Geography,,University of Hawaii at Manoa
+2453,David Crellin,5.0,Theater,100%,University of Hawaii at Manoa
+2454,Mark Hixon,5.0,Biology,100%,University of Hawaii at Manoa
+2455,Suzie Smith,0.0,Marketing,,University of Hawaii at Manoa
+2456,Connie Lu,1.0,Finance,,University of Hawaii at Manoa
+2457,Jeanne Ng Mei Sien,4.2,Marketing,100%,University of Hawaii at Manoa
+2458,Erin Robinson,5.0,Design,100%,University of Hawaii at Manoa
+2459,Valeriy  Gazarov,0.0,East Asian Studies,100%,University of Hawaii at Manoa
+2460,Graham Hart,4.0,Architecture,89%,University of Hawaii at Manoa
+2461,Andrew Kelly ,5.0,Sociology,100%,University of Hawaii at Manoa
+2462,David Conner,1.0,Computer Science,,University of Hawaii at Manoa
+2463,Mark Merlin,3.4,Biology,50%,University of Hawaii at Manoa
+2464,T Kira Madden,5.0,English,100%,University of Hawaii at Manoa
+2465,Jessica Ackerley,5.0,Music,100%,University of Hawaii at Manoa
+2466,Kenneth Pugh,0.0,Speech,,University of Hawaii at Manoa
+2467,Jay Stout,4.7,Communicology,97%,University of Hawaii at Manoa
+2468,Sean Smith,4.8,Philosophy,88%,University of Hawaii at Manoa
+2469,Inessa Love,4.4,Economics,92%,University of Hawaii at Manoa
+2470,Ibrahim Aoude,3.9,Ethnic Studies,75%,University of Hawaii at Manoa
+2471,Changwon Yang,0.0,Political Science,,University of Hawaii at Manoa
+2472,Olivia Waring,0.0,Languages,,University of Hawaii at Manoa
+2473,Julie Iezzi,4.5,Theater,,University of Hawaii at Manoa
+2474,Akhilesh Tiwari,0.0,Business,100%,University of Hawaii at Manoa
+2475,Megan Ikemoto,5.0,Education,100%,University of Hawaii at Manoa
+2476,Sera Kong,5.0,Philosophy,,University of Hawaii at Manoa
+2477,Niloufar Ataie,3.4,Chemistry,100%,University of Hawaii at Manoa
+2478,Michael Ogawa,1.8,Computer Science,22%,University of Hawaii at Manoa
+2479,Gregory Gillis,0.0,Finance,,University of Hawaii at Manoa
+2480,Chris Rachal,4.4,Business,87%,University of Hawaii at Manoa
+2481,Andrew Rominger,0.0,Biology,,University of Hawaii at Manoa
+2482,Boris Murmann,5.0,Engineering,100%,University of Hawaii at Manoa
+2483,Ivan Wen,1.0,Travel Industry,,University of Hawaii at Manoa

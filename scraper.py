@@ -56,11 +56,12 @@ def scrape_professors():
       name = prof.find('div', class_="CardName__StyledCardName-sc-1gyrgim-0 cJdVEK").text # saves the text(professor name)
       rating = prof.find('div', class_="CardNumRating__StyledCardNumRating-sc-17t4b9u-0 eWZmyX").text # saves the text(professor rating)
       dept = prof.find('div', class_="CardSchool__Department-sc-19lmz2k-0 haUIRO").text # saves professor's department
+      school = prof.find('div', class_="CardSchool__School-sc-19lmz2k-1 iDlVGM").text # saves professor's school
       data_class_name = "CardFeedback__CardFeedbackNumber-lq6nix-2 hroXqf"
       # feedback includes difficulty & take again % (rn: only includes take again %)
       # only scrapes take again % but skips over professor difficulty
       feedback = prof.find('div', class_=data_class_name).text 
-      professor_list.append({'name': name, 'rating': rating, 'department': dept,'feedback': feedback}) # saves scrapped data to an array
+      professor_list.append({'name': name, 'rating': rating, 'department': dept,'feedback': feedback, 'school': school}) # saves scrapped data to an array
 
    driver.quit()
 

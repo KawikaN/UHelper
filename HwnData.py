@@ -4,6 +4,7 @@ import re
 from flask import Flask, jsonify, Blueprint, request, redirect, url_for, render_template, session, json
 import os
 from scraper import scrape_professors
+import pandas as pd
 
 path_cwd = os.path.dirname(os.path.realpath(__file__))
 path_templates = os.path.join(path_cwd,"templates")
@@ -14,7 +15,7 @@ app.secret_key = 'Eo'
 
 @app.route('/', methods=['GET'])
 def home():
-   professors = scrape_professors()
+   professors = pd.read_csv("profs.csv")
    return render_template('wordle.html', professors=professors)
 
 if __name__ == "__main__":
