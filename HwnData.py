@@ -3,7 +3,6 @@ import sys
 import re
 from flask import Flask, jsonify, Blueprint, request, redirect, url_for, render_template, session, json
 import os
-from scraper import scrape_professors
 import pandas as pd
 
 path_cwd = os.path.dirname(os.path.realpath(__file__))
