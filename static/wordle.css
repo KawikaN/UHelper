@@ -31,7 +31,8 @@ hr {
     font-size: 400%; /* Note that pt and px are dfferent units */
     font-weight: bold;
     letter-spacing: 25px; /* Spacing between letters */
-
+    justify-content: center;
+    align-items: center;
 }
 
 #board { /* board we will play on */
