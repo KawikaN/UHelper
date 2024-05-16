@@ -19,13 +19,12 @@
                 <span class="fancy">for</span> 
                 UH students.
             </p>    
-        </header>
-        <script>var word = "{{word}}"</script>
-        <script src="{{ url_for('static', filename='wordle.js') }}"></script>
-        
+        </header>        
         <hr>
         <div class="row">
             <div class="card margin">
+                <img src="https://www.usnews.com/dims4/USNEWS/0430416/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Ff9%2F1a980f168271a41b9f43a932298607%2FHawaii_Hall_4MB.jpg" 
+                style="width: 100%">
                 <div class="container">
                     <h3>
                         <b>Find Professors</b>
@@ -36,9 +35,11 @@
                         Help find professors!    
                     </p>
                     <div class="row">
-                        <button class="button padding-large white border">
-                            <b>GO --></b>
-                        </button>
+                        <p>
+                            <button class="button padding-large white border">
+                                <b>GO >></b>
+                            </button>    
+                        </p>
                     </div>
                 </div>
             </div>    
@@ -49,6 +50,10 @@
 
         </div>
         <br>
-        <h1 id="answer"></h1>
+        <footer class="container dark-grey padding margin-top">
+            <p>
+                Brought to you by CB3 and KN
+            </p>
+        </footer>
     </body>
 </html>
