@@ -25,7 +25,7 @@ def scrape_professors():
       close_button = driver.find_element(By.XPATH, "//button[contains(text(), 'Close')]") 
       WebDriverWait(driver, 100, poll_frequency=0.1).until(EC.element_to_be_clickable(close_button)).click() # waits until close is clickable and clicks it
       print("Clicked 'Close' button.")
-   except Exception as e: 
+   except Exception as e:
       print("Close button not found or already closed.", e) # prints error message
 
    # simulate clicking "show more" button
