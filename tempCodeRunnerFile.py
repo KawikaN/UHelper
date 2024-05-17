@@ -1,1 +1,1 @@
-if __name__ == "__main__":
+if("your device" in driver.page_source):
