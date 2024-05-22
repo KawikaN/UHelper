@@ -12,10 +12,19 @@ path_static = os.path.join(path_cwd,"static")
 app = Flask(__name__)
 app.secret_key = 'Eo'
 
-@app.route('/', methods=['GET'])
+
+professors = pd.read_csv("profs.csv")
+
+@app.route('/')
 def home():
-   professors = pd.read_csv("profs.csv")
    return render_template('wordle.html', professors=professors)
+
+@app.route('/professors', methods=['GET', 'POST'])
+def process():
+   prof = session.get('professor')
+   
+   return render_template('professors.html', professors=professors)
+
 
 if __name__ == "__main__":
    app.run(debug=True)
