@@ -8,19 +8,23 @@
         <script src="{{ url_for('static', filename='wordle.js') }}"></script>
     </head>
     <body>
-        <header class="container center padding">
-            <h1 class="title">
-                <b>UHelper</b>
-            </h1>
-            <p>
-                The website made 
-                <span class="fancy">by</span> 
-                and made 
-                <span class="fancy">for</span> 
-                UH students.
-            </p>    
-        </header>        
-        <hr>
+        <header>
+            <header class="container center padding">
+                <h1>
+                    <a href="/" class="UHelper" style="text-decoration: none; color: inherit;">
+                        <b>UHelper</b>
+                    </a>
+                </h1>
+                <p>
+                    The website made 
+                    <span class="fancy">by</span> 
+                    and made 
+                    <span class="fancy">for</span> 
+                    UH students.
+                </p>    
+                <hr>
+        </header>  
+        </header>
         <div class="row">
             <div class="card margin">
                 <img src="https://www.usnews.com/dims4/USNEWS/0430416/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Ff9%2F1a980f168271a41b9f43a932298607%2FHawaii_Hall_4MB.jpg" 
@@ -36,7 +40,7 @@
                     </p>
                     <div class="row">
                         <p>
-                            <a href="answer.html">
+                            <a href="login" actions="">
                                 <button class="button padding-large white border" id="btn1" onclick="goto()">
                                     <b>GO >></b>
                                 </button>    
@@ -53,9 +57,13 @@
         </div>
         <br>
         <footer class="container dark-grey padding margin-top">
-            <p>
+            <p class="foot">
                 Brought to you by CB3 and KN
             </p>
+            <div style="display: flex; gap: 15px; margin-left: 20px;">
+                <a href="{{ url_for('login') }}">Login Page</a>
+                <a href="{{ url_for('register') }}">Register Page</a>
+            </div>
         </footer>
     </body>
 </html>

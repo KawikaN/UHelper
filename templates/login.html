@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'wordle.css') }}">
+</head>
+<body>
+    <header>
+        <header class="container center padding">
+            <h1>
+                <a href="/" class="UHelper" style="text-decoration: none; color: inherit;">
+                    <b>UHelper</b>
+                </a>
+            </h1>
+            <p>
+                The website made 
+                <span class="fancy">by</span> 
+                and made 
+                <span class="fancy">for</span> 
+                UH students.
+            </p>    
+            <hr>
+    </header>  
+    <h1>Login Page</h1>
+    <form method="POST" actions="">
+        {{ form.hidden_tag() }}
+        {{ form.username }}
+        {{ form.password }}
+        {{ form.submit }}
+    </form>
+    <a href = "{{url_for('register')}}">Don't have an account? Sign Up</a>
+</body>
+</html>

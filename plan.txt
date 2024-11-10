@@ -1,7 +1,27 @@
+Noticed that profs.cvs only saves the ratings of the professor for one major
+Ex. Hugh teaches both finance and buisness classes. It will only save one or the either
+
+
+
+
+
 Scrape ratemyprofessor data using selenium
 Store data to array
 Represent array using pandas
 and/or mySQL
+
+copy the searching for classes found in star. When you are looking for classes you should also
+be able to see the ratemyprofessor for each of those classes
+you should also be able to see the forum relating to those classes
+
+
+Reminders for all classes, assignmetns, test, quizzes, forums etc...
+All assignments and anything related to all the classes found in one location (calendar)
+
+
+important related information and updates regarding uh manoa found in one location(data pipelines)
+
+
 
 Connect and get data for star
     Year, classes, credentials
@@ -17,6 +37,8 @@ Domain/Server Hosting
 
 
 Forum Section for students especially housing
+- Button to create post that can only be clicked/seen by users with priveleges -
+
 Find housing rm8's
 Possible place for functions aswell
 Common area for students to market items

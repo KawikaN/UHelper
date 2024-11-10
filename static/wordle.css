@@ -36,6 +36,15 @@ p {
 
 footer {
     display: block;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer .links {
+    display: flex;
+    gap: 10px;
 }
 
 .fancy {
@@ -92,4 +101,11 @@ footer {
 
 .margin-top {
     margin-top: 16px !important;
+}
+
+.UHelper {
+    color: inherit;         /* Inherit color from surrounding text */
+    text-decoration: none;  /* Remove underline */
+    cursor: pointer;        /* Change cursor to indicate it's clickable */
+
 }

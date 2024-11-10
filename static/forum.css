@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.forum-container {
+    /* display: flex; */
+    flex-direction: column;
+}
+
+
+
+hr {
+    border: none;            /* Removes the default border */
+    height: 1px;             /* Sets the thickness */
+    background-color: #ccc; /* Sets the color */
+    
+    width: auto;             /* Sets the width */
+    padding: .2px;
+    margin: 0-15px;
+    margin-top: -10px;
+}
+
+.forum-post {
+    border: 1px solid #ccc; /* Adds a border around each post */
+    padding: 15px;
+    border-radius: 8px; /* Optional: rounds the corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Optional: adds a subtle shadow */
+    background-color: #f9f9f9; /* Optional: adds a light background color */
+    max-width: 800px; /* Optional: limits the width */
+    margin: auto; /* Centers the post */
+}
+
+.forum-title {
+    font-size: 1.5em;
+    margin-bottom: 10px; /* Adds space between the title and the text */
+    margin-top: -2px;
+}
+
+.forum-text {
+    font-size: 0.7em;
+    color: #333; /* Darker text color for better readability */
+    margin-left: 20px;
+}
+
+.forum-controls {
+    margin-left: 83%;
+}
+
+.search {
+    align-items: center;
+    display: flex;           /* Use flexbox to align the input and button */
+    align-items: center;     /* Vertically center items inside the flex container */
+    width: 100%;
+}
+
+.search input {
+    padding: 4px;           /* Add padding inside the input field */
+    border: 1px solid #ccc;  /* Border style for the input */
+    border-radius: 5px 0 0 5px; /* Rounded corners for the input (except the right side) */
+    flex-grow: 1;            /* Make the input take up available space */
+}
+
+.search button {
+    background: none;        /* Remove the default button background */
+    border: none;            /* Remove the default button border */
+    padding: 5px;           /* Add padding around the image */
+    cursor: pointer;        /* Make the button clickable */
+    border-radius: 0 5px 5px 0; /* Rounded corners for the button (except the left side) */
+}
+
+.search button img {
+    width: 20px;             /* Set the size of the image */
+    height: 20px;            /* Set the size of the image */
+}
+
+.upper {
+    width: 100%;                 /* Ensure 'upper' takes up the full width of its container */
+    padding-right: 0;            /* Remove any extra padding to the right */
+    display: flex;               /* Enable flex to allow for proper alignment */
+    align-items: center;         /* Vertically align content */
+}
+
+header {
+    margin-left: 40%;
+    display: inline-block;
+    margin-top: 0;   /* Reduces the margin to the top of the page */
+    position: relative;
+    top: -30px;  /* Adds a little padding if needed */
+}
