@@ -31,13 +31,13 @@ hr {
     margin: auto; /* Centers the post */
 }
 
-.forum-title {
+.forum-item {
     font-size: 1.5em;
     margin-bottom: 10px; /* Adds space between the title and the text */
     margin-top: -2px;
 }
 
-.forum-text {
+.forum-description {
     font-size: 0.7em;
     color: #333; /* Darker text color for better readability */
     margin-left: 20px;

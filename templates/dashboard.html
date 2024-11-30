@@ -3,9 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'wordle.css') }}">
+    <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
     <title>Dashboard</title>
 </head>
 <body>
-    <h1\> You are logged in! </h1>
+    <header>
+        <header class="container center padding">
+            <h1>
+                <a href="/" class="UHelper" style="text-decoration: none; color: inherit;">
+                    <b>UHelper</b>
+                </a>
+            </h1>
+            <p>
+                The website made 
+                <span class="fancy">by</span> 
+                and made 
+                <span class="fancy">for</span> 
+                UH students.
+            </p>    
+            <hr>
+    </header>  
+
+    <script src="dashboard.js"></script> 
+
+    <form action="/forum" method="post">
+        <button>Forums Page</button>
+    </form>
+    <form action="/marketplace" method="post">
+        <button>Marketplace</button>
+    </form>
+    <form action="/calendar" method="post">
+        <button>Calendar</button>
+    </form>
 </body>
 </html>

@@ -2,7 +2,8 @@ Noticed that profs.cvs only saves the ratings of the professor for one major
 Ex. Hugh teaches both finance and buisness classes. It will only save one or the either
 
 
-
+CALENDAR
+have a button that can update the data from laulima
 
 
 Scrape ratemyprofessor data using selenium

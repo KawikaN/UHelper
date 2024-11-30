@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forum</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename= 'forum.css') }}">
+    <script src="{{ url_for('static', filename='forum.js') }}"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Forum</h1>
+    </header>
+    <div class="upper">
+        <div>
+            <form class="search" actions="">
+                <input type="text" id="searchInput" placeholder="Search" name="q">
+                <button type="button" onclick="searchForum()"><img src="{{ url_for('static', filename='images/search_icon.png') }}" alt="My Image"></button>
+            </form>
+        </div>
+        <form action="/marketplace_post" method="post">
+            <button>Create A Post</button>
+        </form>
+    </div>
+
+    <!-- Forum Container to Display Results -->
+    <div class="forum-container" id="forumContainer">
+        {% for post in data %}
+            <div class="forum-post">
+                <h3 class="forum-item">{{ post[1] }}</h3>
+                <hr>
+                <p class="forum-description">{{ post[2] }}</p>
+            </div>
+        {% endfor %}
+    </div>
+    
+    <script>
+        // Function to perform AJAX search
+        function searchForum() {
+            const word = $('#searchInput').val();  // Get the search term
+
+            $.ajax({
+                url: '/searching',  // Endpoint to fetch search results
+                type: 'GET',
+                data: { word: word },  // Send the search term
+                success: function(response) {
+                    // Clear previous results
+                    $('#forumContainer').empty();
+                    
+                    // Display the results dynamically
+                    if (response.length > 0) {
+                        response.forEach(post => {
+                            $('#forumContainer').append(`
+                                <div class="forum-post">
+                                    <h3 class="forum-item">${post[1]}</h3>
+                                    <hr>
+                                    <p class="forum-description">${post[2]}</p>
+                                </div>
+                            `);
+                        });
+                    } else {
+                        $('#forumContainer').append('<p>No results found.</p>');
+                    }
+                },
+                error: function(error) {
+                    console.error('Error:', error);
+                    $('#forumContainer').html('<p>An error occurred while searching.</p>');
+                }
+            });
+        }
+    </script>
+
+</body>
+</html>

@@ -5,7 +5,7 @@ import uuid
 from sqlalchemy import String
 from flask import Flask, jsonify, Blueprint, request, redirect, url_for, render_template, session, json, url_for, redirect
 from flask_sqlalchemy import SQLAlchemy
-from flask_login import UserMixin, LoginManager, login_user, logout_user, login_required
+from flask_login import UserMixin, LoginManager, login_user, logout_user, login_required, current_user
 from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, SubmitField
 from wtforms.validators import InputRequired, ValidationError, Length
@@ -14,6 +14,8 @@ import os
 import pandas as pd
 import pymysql
 import sqlite3
+from datetime import date
+from flask_migrate import Migrate
 
 app = Flask(__name__)
 
@@ -26,13 +28,15 @@ path_static = os.path.join(path_cwd,"static")
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/database.db'
 app.config['SQLALCHEMY_BINDS'] = {
-    'db2': 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/forums.db',  # Secondary DB
-   #  'db3': 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/database3.db',  # Third DB
+   'db2': 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/forums.db',  # Secondary DB
+   'db3': 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/marketplace.db',  # Third DB
    #  'db4': 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/database4.db',  # Fourth DB
 }
 app.config['SECRET_KEY'] = 'Eo'
+app.config['WTF_CSRF_ENABLED'] = True
 db = SQLAlchemy(app)
 bcrypt = Bcrypt(app)
+migrate = Migrate(app, db)
 
 # app.init_app(app)
 # sqlite:////absolute/path/to/foo.db
@@ -54,6 +58,7 @@ class User(db.Model, UserMixin):
    username = db.Column(db.String(20), nullable=False, unique=True)
    # set max input to 80 because password will be hashed
    password = db.Column(db.String(80), nullable=False)
+   calendarAccessDate = db.Column(db.String(10))
 
 class RegisterForm(FlaskForm):
    username = StringField(validators=[InputRequired(), Length(
@@ -81,6 +86,15 @@ class ForumPost(FlaskForm):
    def validate_title(self, title):
       pass
 
+class MarketplacePost(FlaskForm):
+   item = StringField(validators=[InputRequired(), Length(
+      min=0, max=2000)], render_kw={"placeholder": "Item"})
+# setting perameters for form requirnments
+   description = StringField(validators=[InputRequired(), Length(
+      min=0, max=5000)], render_kw={"placeholder": "Description"})
+   submit = SubmitField("Post")
+
+
 
 class LoginForm(FlaskForm):
    username = StringField(validators=[InputRequired(), Length(
@@ -94,7 +108,6 @@ class Forum(db.Model, UserMixin):
    __bind_key__ = 'db2'
    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
    title = db.Column(db.String(1000), nullable=False, unique=False)
-   # set max input to 80 because password will be hashed
    text = db.Column(db.String(5000), nullable=False)
 
 class Search(FlaskForm):
@@ -103,6 +116,12 @@ class Search(FlaskForm):
 
    def validate_title(self, title):
       pass
+
+class Marketplace(db.Model, UserMixin):
+   __bind_key__ = 'db3'
+   id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+   item = db.Column(db.String(1000), nullable=False, unique=False)
+   description = db.Column(db.String(5000), nullable=False)
 
 
 
@@ -122,6 +141,78 @@ def forum_post():
       db.session.commit()
       return redirect(url_for("forum"))
    return render_template('forum_post.html', form=form)
+
+
+@app.route('/marketplace_post', methods=['GET', 'POST'])
+def marketplace_post():
+   form = MarketplacePost()
+   if form.validate_on_submit():
+      print(f"Form Submitted! Item: {form.item.data}, Description: {form.description.data}")
+      new_post = Marketplace(item=form.item.data, description=form.description.data)
+      db.session.add(new_post)
+      db.session.commit()
+      return redirect(url_for("marketplace"))
+   else:
+      print(f"Form Errors: {form.errors}")
+   return render_template('marketplace_post.html', form=form)
+
+from courseData import classData  # Import at the top of the file
+
+@app.route('/calendar', methods=['GET', 'POST'])
+def calendar():
+   data = {}  # To store due dates
+   today = str(date.today())
+   user = current_user
+   # user = User.query.filter_by(username=current_user.password).first()
+   # dateAccessed = user.password
+   dateAccessed = user.calendarAccessDate
+   print(dateAccessed)
+   print(today[8:10])
+   if(dateAccessed != None):
+      if(today[0:4] > dateAccessed[0:4]):
+         result = classData()  # Run the function once and store the returned dictionary
+         for assignment in result:  # Iterate over the keys of the dictionary
+            parts = result[assignment].split('|')  # Split the key by '|'
+            end = len(parts) -1
+            last_part = parts[end]  # Access the last part of the split result
+            data[assignment] = last_part
+         user.calendarAccessDate = today
+         db.session.commit()
+         print(user.calendarAccessDate)
+      elif(today[5:7] > dateAccessed[5:7]):
+         result = classData()  # Run the function once and store the returned dictionary
+         for assignment in result:  # Iterate over the keys of the dictionary
+            parts = result[assignment].split('|')  # Split the key by '|'
+            end = len(parts) -1
+            last_part = parts[end]  # Access the last part of the split result
+            data[assignment] = last_part
+         user.calendarAccessDate = today
+         db.session.commit()
+         print(user.calendarAccessDate)
+      elif(today[8:10] > dateAccessed[8:19]):
+         result = classData()  # Run the function once and store the returned dictionary
+         for assignment in result:  # Iterate over the keys of the dictionary
+            parts = result[assignment].split('|')  # Split the key by '|'
+            end = len(parts) -1
+            last_part = parts[end]  # Access the last part of the split result
+            data[assignment] = last_part
+         user.calendarAccessDate = today
+         db.session.commit()
+         print(user.calendarAccessDate)
+   else:
+      result = classData()  # Run the function once and store the returned dictionary
+      for assignment in result:  # Iterate over the keys of the dictionary
+         parts = result[assignment].split('|')  # Split the key by '|'
+         end = len(parts) -1
+         last_part = parts[end]  # Access the last part of the split result
+         data[assignment] = last_part
+      user.calendarAccessDate = today
+      db.session.commit()
+      print(user.calendarAccessDate)
+
+#  print("HERE", dueDates)  # Debugging: Print the list of due dates
+   return render_template("calendar.html", dueDates=data)  # Pass dueDates to the template
+
 
 @app.route('/searching', methods=['GET', 'POST'])
 def searching():
@@ -156,6 +247,8 @@ def forum():
       print("searching")
    return render_template('forum.html', data=data, form=form)
 
+
+
 @app.route('/professors', methods=['GET', 'POST'])
 def process():
    prof = session.get('professor')
@@ -185,6 +278,7 @@ def logout():
 def dashboard():
     return render_template('dashboard.html')
 
+
 @app.route('/register', methods=['GET', 'POST'])
 def register():
    form = RegisterForm()
@@ -198,6 +292,22 @@ def register():
 
    return render_template('register.html', form=form)
 
+@app.route('/marketplace', methods=['GET', 'POST'])
+def marketplace():
+   data = []
+   db_path = '/Users/kawikanaweli/Desktop/Code/UHELPER/marketplace.db'
+   db = sqlite3.connect(db_path)
+   cursor = db.cursor()
+
+
+   cursor.execute("SELECT * FROM marketplace")
+   data = cursor.fetchall()
+   db.close()
+
+   form = Search()
+   if(form.validate_on_submit()):
+      print("searching")
+   return render_template('marketplace.html', data=data, form=form)
 
 with app.app_context():
    db.create_all()
