@@ -5,6 +5,13 @@ Ex. Hugh teaches both finance and buisness classes. It will only save one or the
 CALENDAR
 have a button that can update the data from laulima
 
+let calendar load before data is pulled from laulima. When it is loaded it will be added to calendar
+have instructions on calendar html
+
+speed up username checker(register)
+
+Maybe let it go to register page first then redirect to sign in
+
 
 Scrape ratemyprofessor data using selenium
 Store data to array

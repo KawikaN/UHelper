@@ -61,6 +61,7 @@ document.addEventListener("DOMContentLoaded", function () { // when it loads
                         } else {
                             userEvents[dateKey] = { month: monthNames[monthIndex], event: [title] };
                         }
+                        saveDictionary();
                     }
                 }
             }
@@ -74,8 +75,9 @@ document.addEventListener("DOMContentLoaded", function () { // when it loads
                         const eventItem = document.createElement("div");
                         eventItem.className = "event-item";
                         if(event.length > 12){
-                            event = event.substring(0, 12);
-                            eventItem.textContent = `• ${event}..`;
+                            // event = event.substring(0, 12);
+                            eventItem.textContent = `• ${event}`;
+                            // eventItem.textContent = `• ${event}..`;
                         }
                         else{
                             eventItem.textContent = `• ${event}`;
@@ -110,6 +112,9 @@ document.addEventListener("DOMContentLoaded", function () { // when it loads
                                             saveDictionary();
                                             eventItem.remove();
                                         }
+                                        userEvents[dateKey].event.splice(eventIndex, 1);
+                                        saveDictionary();
+                                        eventItem.remove();
                                     }
                                 });
                             });
@@ -139,12 +144,13 @@ document.addEventListener("DOMContentLoaded", function () { // when it loads
 
                 eventInput.addEventListener('keydown', (e) => {
                     if (e.key === 'Enter' && eventInput.value) {
-                        const eventText = eventInput.value;
-                        const eventItem = document.createElement("div");
+                        let eventText = eventInput.value;
+                        let eventItem = document.createElement("div");
                         eventItem.className = "event-item";
                         if(eventText.length > 12){
-                            eventText = eventText.substring(0, 12);
-                            eventItem.textContent = `• ${eventText}..`;
+                            // eventText = eventText.substring(0, 12);
+                            eventItem.textContent = `• ${eventText}`;
+                            // eventItem.textContent = `• ${eventText}..`;
                         }
                         else{
                             eventItem.textContent = `• ${eventText}`;

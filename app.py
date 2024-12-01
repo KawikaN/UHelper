@@ -167,11 +167,14 @@ def calendar():
    # user = User.query.filter_by(username=current_user.password).first()
    # dateAccessed = user.password
    dateAccessed = user.calendarAccessDate
+   username = user.username
+   password = user.password
+   print(password)
    print(dateAccessed)
    print(today[8:10])
    if(dateAccessed != None):
       if(today[0:4] > dateAccessed[0:4]):
-         result = classData()  # Run the function once and store the returned dictionary
+         result = classData(username, password)  # Run the function once and store the returned dictionary
          for assignment in result:  # Iterate over the keys of the dictionary
             parts = result[assignment].split('|')  # Split the key by '|'
             end = len(parts) -1
@@ -181,7 +184,7 @@ def calendar():
          db.session.commit()
          print(user.calendarAccessDate)
       elif(today[5:7] > dateAccessed[5:7]):
-         result = classData()  # Run the function once and store the returned dictionary
+         result = classData(username, password)  # Run the function once and store the returned dictionary
          for assignment in result:  # Iterate over the keys of the dictionary
             parts = result[assignment].split('|')  # Split the key by '|'
             end = len(parts) -1
@@ -191,7 +194,7 @@ def calendar():
          db.session.commit()
          print(user.calendarAccessDate)
       elif(today[8:10] > dateAccessed[8:19]):
-         result = classData()  # Run the function once and store the returned dictionary
+         result = classData(username, password)  # Run the function once and store the returned dictionary
          for assignment in result:  # Iterate over the keys of the dictionary
             parts = result[assignment].split('|')  # Split the key by '|'
             end = len(parts) -1
@@ -201,7 +204,7 @@ def calendar():
          db.session.commit()
          print(user.calendarAccessDate)
    else:
-      result = classData()  # Run the function once and store the returned dictionary
+      result = classData(username, password)  # Run the function once and store the returned dictionary
       for assignment in result:  # Iterate over the keys of the dictionary
          parts = result[assignment].split('|')  # Split the key by '|'
          end = len(parts) -1
@@ -262,7 +265,10 @@ def login():
    if(form.validate_on_submit()):
       user = User.query.filter_by(username=form.username.data).first()
       if(user):
-         if bcrypt.check_password_hash(user.password, form.password.data):
+         # if bcrypt.check_password_hash(user.password, form.password.data):
+         #    login_user(user)
+         #    return redirect(url_for('dashboard'))
+         if (user.password == form.password.data):
             login_user(user)
             return redirect(url_for('dashboard'))
    return render_template('login.html', form=form)
@@ -289,7 +295,7 @@ def register():
       validation = validateUH(form.username.data, form.password.data)
       if(validation == 1):
          hashed_password = bcrypt.generate_password_hash(form.password.data)
-         new_user = User(username=form.username.data, password=hashed_password)
+         new_user = User(username=form.username.data, password=form.password.data)
          db.session.add(new_user)
          db.session.commit()
          return redirect(url_for("login"))
