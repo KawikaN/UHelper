@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <script src="{{ url_for('static', filename='register.js') }}"></script>
+    <!-- <script type="text/javascript">
+        const wrong = JSON.parse('{{ wrong|tojson|safe }}');
+
+    
+        // Check if 'wrong' is true (as a boolean)
+        // if (wrong) {
+        const wrongElement = document.createElement("div");
+        // wrongElement.className = "wrong";
+        wrongElement.textContent = "Invalid UH Credentials";
+        document.body.appendChild(wrongElement);
+            // datesBox.appendChild(dayDiv);
+        // }
+     </script> -->
+</head>
+<body>
+    <h1>Register Page</h1>
+    <p>Please Use Your UH Login Credentials</p>
+    <div class="wrong">Invalid UH Credentials</div>
+    <form method="POST" action="{{ url_for('register') }}">
+        {{ form.hidden_tag() }}
+        {{ form.username }}
+        {{ form.password }}
+        {{ form.submit }}
+    </form>
+    <a href="{{ url_for('login') }}">Already have an account? Login</a>
+</body>
+</html>

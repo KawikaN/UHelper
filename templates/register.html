@@ -4,15 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
+    <!-- <script src="{{ url_for('static', filename='register.js') }}"></script> -->
 </head>
 <body>
     <h1>Register Page</h1>
-    <form method="POST" actions="">
+    <p>Please Use Your UH Login Credentials</p>
+    <div class="wrong">
+        
+        {% if wrong == True %}
+            <div class="error-message">
+                <p>Invalid UH Credentials.</p>
+            </div>
+        {% endif %}
+    </div>
+    <form method="POST" action="">
         {{ form.hidden_tag() }}
         {{ form.username }}
         {{ form.password }}
         {{ form.submit }}
     </form>
-    <a href = "{{url_for('login')}}">Already have an account? Login</a>
+    <a href="{{ url_for('login') }}">Already have an account? Login</a>
 </body>
 </html>

@@ -16,6 +16,7 @@ import pymysql
 import sqlite3
 from datetime import date
 from flask_migrate import Migrate
+from validateUH import validateUH
 
 app = Flask(__name__)
 
@@ -284,13 +285,18 @@ def register():
    form = RegisterForm()
 
    if form.validate_on_submit():
-      hashed_password = bcrypt.generate_password_hash(form.password.data)
-      new_user = User(username=form.username.data, password=hashed_password)
-      db.session.add(new_user)
-      db.session.commit()
-      return redirect(url_for("login"))
 
-   return render_template('register.html', form=form)
+      validation = validateUH(form.username.data, form.password.data)
+      if(validation == 1):
+         hashed_password = bcrypt.generate_password_hash(form.password.data)
+         new_user = User(username=form.username.data, password=hashed_password)
+         db.session.add(new_user)
+         db.session.commit()
+         return redirect(url_for("login"))
+      else:
+         return render_template('register.html', form=form, wrong = True)
+
+   return render_template('register.html', form=form, wrong = False)
 
 @app.route('/marketplace', methods=['GET', 'POST'])
 def marketplace():

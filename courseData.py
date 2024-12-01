@@ -17,7 +17,7 @@ import requests
 
 
 
-def classData():
+def classData(Username, Password):
     dic = {}
     assignments = {}
     tabs = {}
@@ -39,8 +39,6 @@ def classData():
     username_input = driver.find_element("xpath", "//input[@name='username']")
     password_input = driver.find_element("xpath", "//input[@name='password']")
 
-    Username = "kawikakn"
-    Password = "Kanani99!"
     #submitBtn
     # Enter username and password
     username_input.send_keys(Username)
@@ -50,6 +48,7 @@ def classData():
     z.click()
 
     time.sleep(1)
+    
 
     def updateDriver():
         return
