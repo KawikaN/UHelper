@@ -16,7 +16,7 @@ import pymysql
 import sqlite3
 from datetime import date
 from flask_migrate import Migrate
-from validateUH import validateUH
+from validateUH import ValidateUH
 
 app = Flask(__name__)
 
@@ -292,8 +292,8 @@ def register():
 
    if form.validate_on_submit():
 
-      validation = validateUH(form.username.data, form.password.data)
-      if(validation == 1):
+      validation = ValidateUH(form.username.data, form.password.data)
+      if(validation == 0):
          hashed_password = bcrypt.generate_password_hash(form.password.data)
          new_user = User(username=form.username.data, password=form.password.data)
          db.session.add(new_user)
