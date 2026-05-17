@@ -21,16 +21,24 @@ def classData(Username, Password):
 
     # Initializing driver 
 
-    options = undetected_chromedriver.ChromeOptions()
+    def _create_driver(headless=True):
+        options = undetected_chromedriver.ChromeOptions()
+        # if headless:
+        #     options.add_argument('--headless')
+        return undetected_chromedriver.Chrome(options=options)
 
-    # options.headless = True
-    driver = undetected_chromedriver.Chrome(headless=True, options=options)
-    options.add_experimental_option("detach", True)
-    # Uncomment if you want headless mode
-    # options.headless = True
-
-    # Try accessing a website with antibot service 
-    driver.get("https://laulima.hawaii.edu/portal/xlogin")
+    driver = _create_driver(headless="False")
+    try:
+        # Try accessing a website with antibot service
+        driver.get("https://laulima.hawaii.edu/portal/xlogin")
+    except selenium.common.exceptions.NoSuchWindowException:
+        # Sometimes the initial window dies immediately; recreate once.
+        try:
+            driver.quit()
+        except Exception:
+            pass
+        driver = _create_driver(headless="False")
+        driver.get("https://laulima.hawaii.edu/portal/xlogin")
 
     dic = {}
     assignments = {}
@@ -420,7 +428,11 @@ def classData(Username, Password):
         for tab in tabz:
             if(get_dates(course, tab) == 1):
                 continue
-    driver.quit()
+    try:
+        driver.quit()
+    except Exception:
+        # If the session already died, don't fail the request during cleanup.
+        pass
     return assignments
 
 

@@ -27,10 +27,10 @@ path_static = os.path.join(path_cwd,"static")
 
 # app.secret_key = 'Eo'
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/database.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////Users/kawikanaweli/Desktop/UHELPER/database.db'
 app.config['SQLALCHEMY_BINDS'] = {
-   'db2': 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/forums.db',  # Secondary DB
-   'db3': 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/marketplace.db',  # Third DB
+   'db2': 'sqlite:////Users/kawikanaweli/Desktop/UHELPER/forums.db',  # Secondary DB
+   'db3': 'sqlite:////Users/kawikanaweli/Desktop/UHELPER/marketplace.db',  # Third DB
    #  'db4': 'sqlite:////Users/kawikanaweli/Desktop/Code/UHELPER/database4.db',  # Fourth DB
 }
 app.config['SECRET_KEY'] = 'Eo'
@@ -221,7 +221,7 @@ def calendar():
 @app.route('/searching', methods=['GET', 'POST'])
 def searching():
    word = request.args.get('word')  # Retrieve the search word from the query parameter
-   db_path = '/Users/kawikanaweli/Desktop/Code/UHELPER/forums.db'
+   db_path = '/Users/kawikanaweli/Desktop/UHELPER/forums.db'
    db = sqlite3.connect(db_path)
    cursor = db.cursor()
 
@@ -237,7 +237,7 @@ def searching():
 @app.route('/forum', methods=['GET', 'POST'])
 def forum():
    data = []
-   db_path = '/Users/kawikanaweli/Desktop/Code/UHELPER/forums.db'
+   db_path = '/Users/kawikanaweli/Desktop/UHELPER/forums.db'
    db = sqlite3.connect(db_path)
    cursor = db.cursor()
 
@@ -307,7 +307,7 @@ def register():
 @app.route('/marketplace', methods=['GET', 'POST'])
 def marketplace():
    data = []
-   db_path = '/Users/kawikanaweli/Desktop/Code/UHELPER/marketplace.db'
+   db_path = '/Users/kawikanaweli/Desktop/UHELPER/marketplace.db'
    db = sqlite3.connect(db_path)
    cursor = db.cursor()
 

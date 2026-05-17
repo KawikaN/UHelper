@@ -2,6 +2,13 @@ Noticed that profs.cvs only saves the ratings of the professor for one major
 Ex. Hugh teaches both finance and buisness classes. It will only save one or the either
 
 
+
+HIGH LEVEL:
+setup a server to scrape for user data that way we dont slow down user computer
+optimize it so that it has shortest return time
+
+
+
 CALENDAR
 have a button that can update the data from laulima
 
